@@ -1007,6 +1007,14 @@ function getToss($trans = array("Wilhelm/Baynes")) {
     //dbug("in getToss",true);
     $tossed = tossit();
 
+
+#    print "<PRE>";
+#    print "HERE1";
+#    var_dump($tossed);
+#    print "</PRE>";
+
+
+
     $delta = array(0, 0, 0, 0, 0, 0);
 
     /* if we are using static number we have to do it diffenely */
@@ -1075,8 +1083,15 @@ function getToss($trans = array("Wilhelm/Baynes")) {
         $final = $newFinal;
     }
 
+#    print "<PRE>";
+#    print "HERE1";
+#    var_dump($tossed);
+#    print "</PRE>";
+
     $tossed_bin = tobin($tossed); /* convert (6,7,8,9) arrays to (1,0) arrays */
     $final_bin = tobin($final);
+
+
 
     /* JWFIX move to db class */
 
@@ -1165,12 +1180,19 @@ function tobin($ary) {
     $bstr = "";
     $cvt = array('6' => 0, '7' => 1, '8' => 0, '9' => 1);
     for ($i = 0; $i < 6; $i++) {
-        try {
-            $bstr .= ($cvt[$ary[$i]]);
-        } catch (exception $e) {
-            echo $e->getMessage();
-            echo "tobin(".$ary.")";
-        }
+#        print "<PRE>";
+#        print "ary[i]] = ary[".$i."]\n";
+#        print "cvt[ary[i]] = cvt[".$ary[$i]."]\n";
+#        print "bstr = ".$cvt[$ary[$i]]."\n";
+
+#        print "ary:"."\n";
+#        var_dump($ary);
+
+#        print "cvt:"."\n";
+#        var_dump($cvt);
+
+        $bstr .= ($cvt[$ary[$i]]);
+#        print "</PRE>";
     }
     return($bstr);
 }
@@ -1190,6 +1212,12 @@ function tossit() {
         }
         if ($_REQUEST['mode'] == "r-decay") {
             $r = $tosser->getHotBits();
+            
+#    print "<PRE>";
+#    print "HERE1";
+#    var_dump($r);
+#    print "</PRE>";
+
             return($r);
         }
         if ($_REQUEST['mode'] == "random.org") {

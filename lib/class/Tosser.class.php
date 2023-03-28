@@ -145,7 +145,10 @@ class Tosser {
 
     private function getCleanHotBits($id) {
         $intAry = array();
-        $hotbitsURL = "http://www.fourmilab.ch/cgi-bin/uncgi/Hotbits?nbytes=3&fmt=c&apikey=HB1P93mBRUA23F7HUF5MCpyZ2PS";
+        # retired :(
+        #$hotbitsURL = "http://www.fourmilab.ch/cgi-bin/uncgi/Hotbits?nbytes=3&fmt=c&apikey=HB1P93mBRUA23F7HUF5MCpyZ2PS";
+        #  Intel CPU built-in RDSEED
+        $hotbitsURL = "http://www.fourmilab.ch/cgi-bin/uncgi/Hotbits?nbytes=3&fmt=c&apikey=RB1P93mBRUA23F7HUF5MCpyZ2PS";
  //       $hotbitsURL = "http://www.fourmilab.ch/cgi-bin/uncgi/Hotbits?nbytes=3&fmt=c&pseudo=pseudo";
 
         $start = microtime(true);
