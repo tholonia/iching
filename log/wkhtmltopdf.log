@@ -1431,3 +1431,13 @@ QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-www-data'
 Loading page (1/2)
 [>                                                           ] 0%[===============>                                            ] 25%[============================================================] 100%Printing pages (2/2)                                               
 [>                                                           ] Done                                                           
+/home/jw/sites/babelbrowser/utils/makePdf.sh /home/jw/sites/babelbrowser/questions/wewew-23.03.28.18.12.27.U.html /home/jw/sites/babelbrowser/questions/wewew-23.03.28.18.12.27.U.pdf >> /home/jw/sites/babelbrowser/log/wkhtmltopdf.log 2>&1
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-www-data'
+Loading page (1/2)
+[>                                                           ] 0%[==============================>                             ] 50%[============================================================] 100%Printing pages (2/2)                                               
+[>                                                           ] Done                                                           
+/home/jw/sites/babelbrowser/utils/makePdf.sh /home/jw/sites/babelbrowser/questions/I_am_uneasy_about_going_to_NY.__Should_I_go-23.03.28.18.12.55.U.html /home/jw/sites/babelbrowser/questions/I_am_uneasy_about_going_to_NY.__Should_I_go-23.03.28.18.12.55.U.pdf >> /home/jw/sites/babelbrowser/log/wkhtmltopdf.log 2>&1
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-www-data'
+Loading page (1/2)
+[>                                                           ] 0%[===========================>                                ] 45%[============================================================] 100%Printing pages (2/2)                                               
+[>                                                           ] Done                                                           
