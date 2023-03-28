@@ -1,0 +1,1 @@
+if ((isset($flag) ? $flag : false) == True)

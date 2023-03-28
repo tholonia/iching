@@ -1,0 +1,10 @@
+#!/bin/sh
+mysqldump -uSpartacus -pholo3601q2w3e iching --add-drop-table > tolive.sql
+
+#save the messages
+mysqldump -uSpartacus -pholo3601q2w3e babelbrowser site_suggestions --add-drop-table > site_suggestions.sql
+
+mysql -uSpartacus -pholo3601q2w3e babelbrowser <  tolive.sql
+
+#restore site suggestions
+mysql -uSpartacus -pholo3601q2w3e babelbrowser <  site_suggestions.sql

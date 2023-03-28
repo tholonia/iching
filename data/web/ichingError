@@ -1,0 +1,57 @@
+#!/usr/local/bin/perl
+$client="";
+$rate="";
+$workdate="";
+$from="";
+$to="";
+$comment="";
+$t=0;
+
+while ($line  = <STDIN>) {
+	if ($line =~ /From:/) {
+		$mailto=&clean($line);
+		if (! ($mailto =~ /jw\@waena.edu/) || ($mailto =~ /iching/) ) {
+			open(FROM,">>/home/iching/from")||die "$_";
+			print FROM "M:$mailto\n";
+			close(FROM);
+		}
+	}
+}
+
+$sendmail = "/usr/sbin/sendmail.sendmail -t";
+
+open (SENDMAIL, "| $sendmail") ||die "$_";
+print SENDMAIL <<end_of_header;
+From: iching\@kaput.com
+To: $mailto
+Subject: Error in Submission
+
+end_of_header
+
+$res = "There was some sort of error in the way your question was formed.
+
+It appears you forgot to put the text \"ICHING\" in the subject line.
+
+The first line needs to be the question.  The question needs to be preceeded
+with the word \"Question:\" (case sensitive, without the quotes).
+
+The subject line must be the word, in all caps, \"ICHING\".
+Example:
+
+---
+Subject: ICHING
+Question: What is the untimate question to the untilame answer?"
+;
+
+print SENDMAIL "$res";
+close (SENDMAIL);
+
+sub clean {
+	my($line)=@_;
+	my ($tmp,$name);
+	($tmp,$name)=split(/:/,$line);
+	$name =~ s/\n//gmi;
+	$name =~ s/^ *//gmi;
+	return($name);
+}			
+

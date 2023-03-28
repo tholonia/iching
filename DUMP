@@ -1,0 +1,13 @@
+#!/bin/sh
+mysqldump -uichingDBuser -p1q2w3e iching --add-drop-table > iching.sql
+
+#!/bin/sh
+mysqldump -uichingDBuser -p1q2w3e babelbrowser --add-drop-table > babelbrowser.sql
+mysqldump -uichingDBuser -p1q2w3e babelbrowser --add-drop-table --skip-opt> babelbrowser_noopt.sql
+
+#save the messages
+mysqldump -uichingDBuser -p1q2w3e babelbrowser site_suggestions --add-drop-table > site_suggestions.sql
+zip databases.zip iching.sql babelbrowser.sql babelbrowser_noopt.sql site_suggestions.sql
+
+#zip databases.zip iching.sql babelbrowser.sql babelbrowser_noopt.sql
+

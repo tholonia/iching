@@ -1,0 +1,19 @@
+#!/bin/bash
+W=$1
+
+shopt -u dotglob
+
+sudo chown -R jw:${W} *
+sudo chown -R jw .git
+sudo chown -R ${W}:jw questions
+sudo chown -R ${W}:jw id
+sudo chown -R ${W}:jw astro
+sudo chown -R ${W}:jw charting/home/tmp
+
+sudo chmod -R g+rw *
+sudo chmod -R a+rw  id
+sudo chmod -R a+rw questions
+sudo chmod -R a+rw  astro
+sudo chmod -R 777 log
+sudo chmod -R 777 charting/sessions  
+sudo chmod -R 777 charting/home/tmp

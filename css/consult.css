@@ -1,0 +1,595 @@
+
+#astroIcon {
+    position: RELATIVE;
+    top: -14px;
+    width: 50px;
+    float: right;
+    cursor:pointer;
+    background-image: url('/images/qmark.png');
+    background-size:  cover;
+}
+
+ul {
+    padding-left: 40px;
+}
+
+
+/* these vals are for the webpage, not the PDF, whichonly se ethe 'style' vars */
+.qabalah {    color:green;}
+.baynes  {    color:white;}
+.notes   {    color:brown;}
+
+.qabalah a {    color:blue;}
+.baynes  a {    color:blue;}
+.notes   a {    color:bue;}
+
+
+
+
+#parentparent {
+    overflow: hidden !important;
+}
+#parent {
+
+    top:0px;
+    height:100%;
+    overflow-x:scroll;
+    /*    overflow-y:scroll;*/
+}
+#image {
+    /*    min-height:568px;
+        min-width:586px;*/
+
+}
+
+
+/*#help2tip {
+    position: relative;
+     bottom: 0px !important; 
+    top: -25px;
+    left: 191px;
+}*/
+
+#accordion1
+#accordion1 {
+    width:80% !important; 
+}
+
+html { 
+    background: url(/images/ripplesxxx.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+html {    
+    overflow-x: hidden;
+}
+
+#presentationlayer {
+    width:100% !important;
+    height:100% !important;
+    background-color: #00b3ee;
+    position:absolute;
+}
+
+#nowbutton {
+    cursor: pointer;
+    border-radius: 51px !important;
+
+}
+.xdebug-error, .xe-notice {
+    background-color:lightpink !important;
+    border:3px solid orange !important;
+    padding:15px !important;
+}
+
+
+#msg {
+    z-index:1000;
+    border:2px solid black;
+    /*    display: flex;
+        flex-direction: column;
+        align-items: center; 
+        justify-content: center;*/
+    position: absolute;
+    min-width:500px;
+    top:10px;
+    background-color: aquamarine;
+    border-radius: 12px;
+    font-size:10pt;
+    padding:3px;
+
+}
+#msg  a:link{
+    font-weight:bold;
+}
+.notice {
+    background-color: lightyellow;
+    font-style:  italic;
+    padding: 4px;
+    margin:15px;
+    border: 3px solid lightslategrey;
+}
+.date {
+    font-size: .9em;
+}
+
+.xsubtip {
+    font-size:11pt !important;
+    line-height: 1 !important;
+    color: black !important;
+}
+
+.plumtip {
+    font-size:11pt !important;
+    line-height: 1 !important;
+    color: black !important;
+
+}
+
+/*, .randomtip, .entropytip, .r-decaytip ,r-decaytip */
+
+
+
+
+
+
+
+body {
+    background-color: transparent !important;
+}
+
+body > section {
+    width: 90% !important;
+    max-width: 90% !important;
+}
+
+#pageContent {
+    width:auto !important;
+    max-width:auto !important;
+}
+
+.container {
+    width:auto !important;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 5px;
+    padding: 0px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center;
+}
+
+.container-top {
+    border-radius: 25px;
+    max-width: 432px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center;
+
+    /*    margin: 6% !important;*/
+    padding: 3% !important;
+
+    /*background-color: rgba(62, 11, 255, 0.11);*/
+    border-radius: 25px;
+    border: 0px solid cornflowerblue;    
+
+}
+.textWrapper {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center;
+}
+.subtextWrapper {
+    border: 1px solid #6d3105;
+    background-color: #ebd5ec;
+    border-radius: 12px;
+    padding: 0px !important;
+    text-align: center; 
+    width:250px;
+}
+#hukuatip > img {
+    padding-bottom: 4px;
+    margin-left: 12px;
+}
+#penkuatip > img {
+    padding-bottom: 4px;
+    margin-left: 12px;
+}
+body > section {
+    max-width: auto;
+    margin: auto;
+    padding: 0px 0px;
+    border-bottom: 0px solid #999;
+}
+
+header {
+    background: #AEC6CF;
+    padding: 2px 3px;
+    max-width: auto;
+    margin: auto;
+    display:none;
+}
+address {
+    padding: 3px 3px 3px 3px; 
+}
+
+.select {
+    border:3px solid cyan;
+}
+
+.qtrtip {
+    /*    border-radius: 28px !important;
+        max-width:42px !important;
+        max-height:42px !important;
+        min-width:42px !important;
+        min-height:42px !important;
+        cursor:pointer;
+        float:left;
+        position: relative;
+        left: 174px;
+        top: -48px;
+        border: 1px solid whitesmoke;
+        margin: 6px;
+        padding: 10px;
+        display: flex;
+        flex-direction: column;
+        align-items: center; 
+        justify-content: center;
+        background-image: url(/images/raysicred.jpg);
+        background-size:  cover;*/
+    position: relative;
+    top: 3px;
+    right: 2px;
+    margin: 24px 0px 0px 0px;
+    cursor:pointer;
+    width:30px;
+    height:30px;
+}
+.qtr1tip > img {
+    width:32px;
+    height:32px;
+}
+
+#qtr1tipmsg,#qtr2tipmsg,#qtr3tipmsg {
+    font-size:10pt;
+}
+
+.btn {
+
+}
+
+#tosstype, #manualinput {
+    /*
+    this was only used to create the right column fro help icons, which have been remobved
+    
+    min-width:330px;
+    */
+}
+.qbox {
+    border: 1px solid whitesmoke;
+    border-radius: 8px;
+    margin: 4px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center;
+    max-width:270px;
+    min-width:270px;
+    background-image: url(/images/raysic.jpg);
+    background-size:  cover;
+    float:left;
+}.qboxClear { /* same as qbox without background or border */
+    border: 0px solid whitesmoke !important;
+    background-image: none !important;
+}
+
+.xqboxSug {
+    border:1px solid red;
+}
+.qboxSug {
+    border: 1px solid whitesmoke;
+    border-radius: 8px;
+    margin: 10px;
+    padding: 10px;
+    /* align-items: center; */
+    /* text-align: center; */
+    /* justify-content: center; */
+    /* max-width: 280px; */
+    background-image: url(/images/raysicgrn.jpg);
+    background-size: cover;
+    width: 100%;
+}
+/*    .leftCol {
+        float:left;
+        width:60%;
+    }
+    .rightCol {
+        float:left;
+        width:40%;
+        font-size:8pt;
+    }*/
+
+
+.rdbbtns {
+    width:50px;
+    height:50px;
+    margin-left:17px;
+    margin-right:17px;
+    margin-top:3px;
+    margin-bottom:3px;
+}
+.help2button {
+    width:50px;
+    height:50px;
+}
+
+
+/* for some reason the buttons are 66px too far to the right JWFIX */
+#reset {
+    /*        margin-left: 66px;*/
+}
+
+#dbug {
+    font-weight:bold;
+    background-color:white;
+    border:3px solid red;
+    width: 700px;
+    /*    top: 70px;*/
+    position: relative
+        /*    top: 0px;*/
+        /*    left: 0px;*/
+}
+.content {
+    border:0px solid grey;
+    font-size:10pt;
+    padding:15px;
+}
+.tossed {
+    color:red;
+}
+.final {
+    color:green;
+}
+.doublenum {
+    width:50px;
+    font-size:14pt;
+}
+.text_smcaps {
+    font-size:1em;
+    font-variant-caps:all-small-caps;   
+}
+.text_mdcaps {
+    font-size:1.5em;
+    font-variant-caps:all-small-caps;   
+}
+.text_md-caps {
+    font-size:1.1em !important;
+    font-variant-caps:titling-caps;   
+    font-weight: bold;
+}
+.extra {
+    color:black;
+    background-color: lightgray;
+    border: 1px gray solid;
+}
+.lines {
+    color:blue;
+}
+.label {
+    font-size:8pt !important;
+    font-weight: bold  !important;
+    color:black  !important;
+}
+.coin {
+    width:50px;
+    height:50px;
+}
+.question {
+    font-size:18pt;
+    color:darkgreen;
+}
+.kua {
+    font-size:14pt;
+    color:darkred;
+}
+#qfield {
+    padding:4px;
+    margin-top:10px;
+    width:100%;
+}
+.heximg {
+    width: 100px;
+    height: 120px;
+    padding:25px;
+}
+.smallerheximg {
+    width: 50px;
+    height: 50px;
+    padding:4px;
+}
+.line_title {
+    font-weight:bold;
+    font-size:  larger;
+}
+.line_org {
+    font-style: italic;
+}
+.smallinfo {
+    font-size:8pt;
+}
+.fix {
+    background-color: red;
+    color:white;
+}
+.comment {
+    background-color: lightgray;
+    border:1px solid darkgray;
+    color:brown;
+    padding:25px;
+}
+
+.uibtn {
+    width:32px;
+    height:30px;
+}
+
+#sugField {
+    font-size:10pt;
+    /*    float:left;*/
+    width:75%;
+}
+#sugSend {
+    float:right;
+    width: 23%;
+    margin-top: 5px;
+}
+
+#here2 {
+    /*    border: 1px solid slategray;
+        background-color: darkolivegreen;*/
+}
+
+html,body {
+    /*    height:100%;
+        margin: 0 !important;
+        padding: 0 !important;
+    /*    overflow: hidden;*/
+    width: 100vw;
+}
+
+#dlapp {
+    position: absolute;
+    top: 215px;
+    left: 50px;
+    text-align: center;
+    border: 1px solid black;
+    background-color: whitesmoke;
+    max-width: 300px;
+}
+#donateHP {
+    position: absolute;
+    top: 215px;
+    right: 50px;
+    text-align: center;
+    border: 1px solid black;
+    background-color: whitesmoke;
+    max-width: 300px;
+}
+
+#buttonSpacer {
+    width:35px;
+
+    margin-left:20px;
+    margin-right:20px;
+}
+#helptip {
+    cursor: pointer;
+    width:50px;
+
+    margin-left:20px;
+    margin-right:20px;
+}
+
+
+#help2tip {
+    position:absolute;
+    z-index:100;
+    top:0px;
+    left:0px;
+}
+/* is says trigger at 1030, but it actually triggers at 772 ? FIXME */
+
+@media only screen and (max-width: 1030px) {
+    #dlapp {
+        display: none;                
+    }
+    #donateHP {
+        display: none;                
+    }
+}
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .rdbbtns {
+        width:50px;
+        height:50px;
+        margin-left:8px;
+        margin-right:8px;
+        margin-top:3px;
+        margin-bottom:3px;
+    }
+    /*    .container {
+            margin-top:2px;
+            max-width: 344px;
+            max-height: 667px;
+        }*/
+    #debugon {
+        display:none;
+    }
+    html { 
+        background: whitesmoke; 
+    }
+    /*    .qboxSug {
+            display: none;
+        }*/
+    .qtrtip {
+        display: none;        
+    }
+    #accordian1,#accordian2 {
+        min-width:50% !important;
+        max-width:50% !important;
+    }
+    #donatetip {
+        display: none;        
+
+    }
+    #dlapp {
+        display: none;                
+    }
+    #buttonSpacer {
+        min-width:35px;
+        max-width:35px;
+    }
+    .qbox {
+        border: 2px solid #666666;
+    }
+    #buttonSpacer {
+        width:35px;
+
+        margin-left:10px;
+        margin-right:10px;
+    }
+
+}
+
+#closeImage {
+    width:100%;
+    z-index:1000;
+    position:relative;
+    font-size:3vw;
+    text-align: center;
+    position:fixed;
+    top:0px;
+    left:0px;
+}
+
+
+
+#chartImage {
+    width:100%;
+    text-align: center;
+    position:absolute;
+    top:0px;
+    left:0px;
+}

@@ -1,0 +1,3253 @@
+<!DOCTYPE html>
+<html lang='en' xmlns:fb='http://www.facebook.com/2008/fbml' xmlns:og='http://opengraphprotocol.org/schema/' xmlns='http://www.w3.org/1999/xhtml'>
+<head>
+<title>Bloomberg - Business, Financial &amp; Economic News, Stock Quotes</title>
+<meta content="authenticity_token" name="csrf-param" />
+<meta content="VJTfmfcfpASsYBYsFCozoGQ+iZ+zFFvfSepcWTHZDgU=" name="csrf-token" />
+<meta charset='utf-8'>
+<meta content='IE=10; IE=9; IE=8' http-equiv='X-UA-Compatible'>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"32a39e099b","applicationID":"2021368","transactionName":"JVwPEhAJDlRSQ0tRCQtWThUKCRU=","queueTime":6,"applicationTime":1107,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o?o:n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({D5DuLP:[function(t,n){function e(t,n){var e=r[t];return e?e.apply(this,n):(o[t]||(o[t]=[]),void o[t].push(n))}var r={},o={};n.exports=e,e.queues=o,e.handlers=r},{}],handle:[function(t,n){n.exports=t("D5DuLP")},{}],G9z0Bl:[function(t,n){function e(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&p&&p.body){l.proto="https"===f.split(":")[0]||t.sslForHttp?"https://":"http://",i("mark",["onload",a()]);var n=p.createElement("script");n.src=l.proto+t.agent,p.body.appendChild(n)}}function r(){"complete"===p.readyState&&o()}function o(){i("mark",["domContent",a()])}function a(){return(new Date).getTime()}var i=t("handle"),u=window,p=u.document,s="addEventListener",c="attachEvent",f=(""+location).split("?")[0],l=n.exports={offset:a(),origin:f,features:[]};p[s]?(p[s]("DOMContentLoaded",o,!1),u[s]("load",e,!1)):(p[c]("onreadystatechange",r),u[c]("onload",e)),i("mark",["firstbyte",a()])},{handle:"D5DuLP"}],loader:[function(t,n){n.exports=t("G9z0Bl")},{}]},{},["G9z0Bl"]);</script>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
+<meta content="21600;URL='http://www.bloomberg.com/'" http-equiv='refresh'>
+<meta content='width=device-width, initial-scale=1.0' name='viewport'>
+<meta content='false' name='preview-mode'>
+<meta content='false' name='from-dash'>
+<meta content='telephone=no' name='format-detection'>
+<meta content='Bloomberg is a premier site for business and financial market news. It delivers world economic news, stock futures, stock quotes, &amp; personal finance advice.' name='description'>
+<meta content='financial news, business news, economic news, stock quotes, markets quotes, finance stocks, financial markets, stock futures, personal finance, personal finance advice, mutual funds, financial calculators, world business, small business, financial trends, forex trading, technology news, bloomberg financial news' name='keywords'>
+<meta content='1502271052,1617206,500566238,616620419,18776,1396618572,501161086,100001111898866,1223836' property='fb:admins'>
+<meta content='Business, Financial &amp; Economic News, Stock Quotes' property='og:title'>
+<meta content='Bloomberg' property='og:site_name'>
+<meta content='Bloomberg is a premier site for business and financial market news. It delivers world economic news, stock futures, stock quotes, &amp; personal finance advice.' property='og:description'>
+<meta content='http://www.bloomberg.com' property='og:url'>
+<meta content='http://cdn.gotraffic.net/custom_contents/bloombergonblack.jpg?v=20140711_154708' property='og:image'>
+<meta content='summary' name='twitter:card'>
+<meta content='@BloombergNews' name='twitter:site'>
+<meta content='jbkKc37cWTAF9H98nMRpsGyKakTnLBDhPnHzQZV5' name='readability-verification'>
+<meta content='mid:155509691' name='linkedin:owner'>
+<meta content='C963C19A805867EAF6818CA38D8484E8' name='msvalidate.01'>
+<meta content='Bloomberg - Business, Financial &amp; Economic News, Stock Quotes' name='application-name'>
+<meta content='#FF6D22' name='msapplication-TileColor'>
+<meta content='/images/icons/iepromo_144.png' name='msapplication-TileImage'>
+
+<!--[if lt IE 9]>
+<link href="http://cdn.gotraffic.net/assets/adaptive/full/global/global-da736bb3e97eff54b0a258fe9635b776.css" media="all" rel="stylesheet" />
+<link href="http://cdn.gotraffic.net/assets/adaptive/full/controller/home-1caf25f56436d9b350bef8d7cb6d5df8.css" media="all" rel="stylesheet" />
+<link href="http://cdn.gotraffic.net/assets/site_ie8-0e298567581c8559894998d473fe6499.css" media="all" rel="stylesheet" />
+<![endif]-->
+<!--[if lte IE 7]>
+<link href="http://cdn.gotraffic.net/assets/site_ie7-c0df5a017d976d4cb1b5d734bd4a954b.css" media="all" rel="stylesheet" />
+<![endif]-->
+<!--[if lte IE 9]>
+<link href="http://cdn.gotraffic.net/assets/site_ie9-e58e94cd4d8259a8807e59850b31e319.css" media="all" rel="stylesheet" />
+<![endif]-->
+<!--[if gte IE 9]>
+<link href="http://cdn.gotraffic.net/assets/adaptive/desktop/global/global-43d181885948f7ef3367e82fc2351194.css" media="all" rel="stylesheet" />
+<link href="http://cdn.gotraffic.net/assets/adaptive/desktop/controller/home-17a4a508e62ea6953cebba824b5dd846.css" media="all" rel="stylesheet" />
+
+<script src="//fonts.gotraffic.net/bnj8lwv.js"></script>
+<script>
+  try{Typekit.load();}catch(e){}
+</script>
+
+<link href="http://cdn.gotraffic.net/assets/adaptive/desktop/global/global/ie_drop_nav-32bdae7a8df2b2b4176fc8ff604507fd.css" media="all" rel="stylesheet" />
+<![endif]-->
+<!--[if !IE]> -->
+<link href="http://cdn.gotraffic.net/assets/adaptive/desktop/global/global-43d181885948f7ef3367e82fc2351194.css" media="all" rel="stylesheet" />
+<link href="http://cdn.gotraffic.net/assets/adaptive/desktop/controller/home-17a4a508e62ea6953cebba824b5dd846.css" media="all" rel="stylesheet" />
+
+<script src="//fonts.gotraffic.net/bnj8lwv.js"></script>
+<script>
+  try{Typekit.load();}catch(e){}
+</script>
+
+<!-- <![endif]-->
+
+<script>
+  if(defaultSectionCookie = document.cookie.match(/defaultSection=(\S+)\;/)){
+    if(document.location.pathname === '/' && defaultSectionCookie[1] !== '' && document.referrer === ''){
+      window.location = defaultSectionCookie[1] + '?cmpid_int=hpdft';
+    }
+  }
+</script>
+
+<link href="http://cdn.gotraffic.net/assets/application-dfc808d1af72c1984a89aa0efe012bc2.css" media="all" rel="stylesheet" />
+<script>
+  var _sf_startpt=(new Date()).getTime();
+</script>
+
+<script>
+  window.BcomServerVars = window.BcomServerVars || {};
+  (function(h){
+    h.asset_host = "http://cdn.gotraffic.net/";
+    h.ad_test_domain = "bb20ad";
+    h.bregUrl = "https://login.bloomberg.com";
+    h.chartCloseButton = "http://cdn.gotraffic.net/assets/chart/x-button-39393ad61195a7cd0e330b147a51c229.png"
+    h.chartStoryMarker = "http://cdn.gotraffic.net/assets/chart/story-marker-a93071dfe2cf24b829fff07e5214dd36.png"
+    h.forceTrusteConsentBar = false;
+    h.pageName = "home_page";
+    h.qRegCssJs = ["http://cdn.gotraffic.net/q/v/20140710_185929/stylesheets/q_reskin-min.css"].concat(["http://cdn.gotraffic.net/r/v/20140522_122937/javascripts/breg-min.js"], ["http://cdn.gotraffic.net/q/v/20140710_185929/javascripts/q_reskin-min.js"]);
+    h.qUrl = "https://q.bloomberg.com";
+    h.symautocompleteUrl = "http://www.bloomberg.com/apps/data?pid=symautocomplete&Query=";
+    h.utcOffset = -14400000;
+    h.watchlistUrl = "http://www.bloomberg.com/markets/watchlist";
+    h.watchlistSslProxyUrl = "https://login.bloomberg.com/watchlist/markets/watchlist/proxy";
+    h.refreshIfOriginChanged = false;
+    h.bucketRange = {"start":0,"end":0};
+    h.update_api_version = "20140711_154708";
+    h.mediaVoicePropertyId = "NA-BLOOCOM-11236026";
+    h.mediaVoicePlacementSwitch = "";
+  
+    if(false) {
+      h.disableAnalytics = false;
+      h.deviceType = "";
+      delete h.qRegCssJs;
+    }
+  })(window.BcomServerVars);
+  
+  window.mobileIOS = function(){
+    return (/(iPhone|iPad)/i).test(navigator.userAgent);
+  }
+</script>
+
+<script src="http://cdn.gotraffic.net/assets/application-7447e3715ffe4c2ef0df8c22ef9641eb.js"></script>
+
+
+<noscript>
+<meta content='300' http-equiv='refresh'>
+<style>
+  #bcom_homepage_headlines_top_news {
+    display: block;
+    margin-top: 12px;
+  }
+  .article_content .container {
+    margin-top: 0;
+  }
+  
+  .adsense,
+  .advertisements,
+  .article_interaction .save,
+  .footer_nav_toggle,
+  .headlines .filter,
+  .related_links,
+  .search_container,
+  .sidebar_panel_trigger {
+    display: none;
+  }
+  .b_nav {
+    cursor: default;
+  }
+  .footer_nav_contain {
+    max-height: none;
+  }
+  .homepage_content {
+    overflow: visible;
+  }
+  .mini_player,
+  .on_btv_now {
+    display: none;
+  }
+  .top_nav .drop_arrow {
+    display: none !important;
+  }
+  .quick_view nav .change_menu {
+    cursor: default;
+  }
+  .quick_view nav .change_menu h2:after {
+    content: '';
+  }
+  .quick_view nav .change_menu h2:hover {
+    color: #0c0c0c;
+  }
+  
+  @media screen and (min-width: 600px) {
+    .related_links {
+      display: block;
+    }
+  
+    .footer_nav .mobile_apps .mobile_icon {
+      background-image: url("http://cdn.gotraffic.net/assets/mobile-sprites-9ef274b94bbd974cc13cbf921bc0e56a.png");
+    }
+  }
+  
+  @media screen and (min-width: 768px) {
+    .article_interaction .save {
+      display: block;
+    }
+    .article_interaction .save .icon {
+      color: transparent;
+      cursor: default;
+    }
+    .article_interaction .save .icon:after {
+      background: none;
+    }
+    .article_interaction .save:hover .icon {
+      background-color: #545454;
+    }
+  }
+  
+  @media screen and (min-width: 970px) {
+    .section_nav ul.top_level li a {
+      font-size: 13.4px;
+    }
+  }
+  
+  @media screen and (min-width: 1366px) {
+    .section_nav ul.top_level li a {
+      font-size: 16px;
+    }
+  }
+</style>
+</noscript>
+
+</head>
+<body class='page'>
+<div class='content_disable'>
+<div class='content_contain'>
+<div class='desktop header_contain'>
+<script>
+  if(window.mobileIOS()){
+    $('.header_contain').removeClass('desktop');
+  }
+</script>
+<header class='global' role='banner'>
+<div class='hidden_container'></div>
+<div class='consent-track'>
+This site uses cookies. By continuing to browse the site you are agreeing to our use of cookies.
+<a class='close-consent-track' href='#closeConsentTrack'>X</a>
+<span id='consent-track-image'></span>
+</div>
+<noscript>
+<div id='noscript'>
+Bloomberg is best experienced with JavaScript enabled.
+</div>
+</noscript>
+<!--[if lte IE 7]>
+<div id='browser_upgrade'>
+Please upgrade your browser for a better user experience.
+</div>
+<![endif]-->
+<section class='main_head'>
+<nav class='top_nav'>
+<div class='container'>
+<ul class='top_sub no_small'>
+<li class='home_nav lg_hide'>
+<a href="/">Bloomberg.com</a>
+</li>
+<li class='region_nav mid_hide'>
+<a class='region_menu_trigger' href='#'><span class='text'>GLOBAL EDITION</span><span class='drop_arrow'></span>
+</a>
+<ul class='region_menu'></ul>
+</li>
+<li class='mid_hide'>
+<a href="http://www.businessweek.com">Businessweek.com</a>
+</li>
+<li>
+<a class='company_menu_trigger' href='#'>
+Company
+<span class='drop_arrow'></span>
+</a>
+<ul class='company_menu'>
+<li class='nav_hat_item'>
+<a href="http://www.bloomberg.com/company/">About</a>
+</li>
+<li class='nav_hat_item'>
+<a href="http://www.bloomberg.com/now">Blog</a>
+</li>
+<li class='nav_hat_item'>
+<a href="http://jobs.bloomberg.com">Careers</a>
+</li>
+<li class='nav_hat_item'>
+<a href="http://www.bloomberg.com/diversity-inclusion">Diversity &amp; Inclusion</a>
+</li>
+<li class='nav_hat_item'>
+<a href="http://www.bloomberg.com/now/bloomberg-news-mission-statement/">News Mission</a>
+</li>
+<li class='nav_hat_item'>
+<a href="http://www.bloomberg.com/philanthropy">Philanthropy</a>
+</li>
+<li class='nav_hat_item'>
+<a href="http://www.bloomberg.com/now/press-releases/">Press Room</a>
+</li>
+<li class='nav_hat_item'>
+<a href="http://www.bloomberg.com/bsustainable/">Sustainability</a>
+</li>
+</ul>
+<li>
+<a class='products_menu_trigger' href='#'>
+Products
+<span class='drop_arrow'></span>
+</a>
+<ul class='products_menu'>
+<li class='link_head'>
+Financial Products
+</li>
+<li class='nav_hat_item'>
+<a href="http://www.bloomberg.com/professional/">Bloomberg Professional Service</a>
+</li>
+<li class='nav_hat_item'>
+<a href="http://www.bloombergtradebook.com">Bloomberg Tradebook</a>
+</li>
+<li class='nav_hat_item'>
+<a href="http://www.bloombergbriefs.com">Bloomberg Briefs</a>
+</li>
+<li class='nav_hat_item'>
+<a href="http://www.bloombergindexes.com">Bloomberg Indexes</a>
+</li>
+<li class='nav_hat_item'>
+<a href="http://www.bloombergsef.com">Bloomberg SEF</a>
+</li>
+<li class='nav_hat_item'>
+<a href="https://service.bloomberg.com/">Service Center</a>
+</li>
+<li class='nav_hat_item'>
+<a href="http://www.bloomberg.com/professional/systems-support/customer-support/">Customer Support</a>
+</li>
+<li class='link_head'>
+Enterprise Products
+</li>
+<li class='nav_hat_item'>
+<a href="http://www.bloomberg.com/enterprise/">Enterprise Solutions</a>
+</li>
+<li class='nav_hat_item'>
+<a href="http://www.bloomberg.com/trading-solutions/">Trading Solutions</a>
+</li>
+<li class='link_head'>
+Industry Products
+</li>
+<li class='nav_hat_item'>
+<a href="http://www.bna.com/">Bloomberg BNA</a>
+</li>
+<li class='nav_hat_item'>
+<a href="http://about.bgov.com/">Bloomberg Government</a>
+</li>
+<li class='nav_hat_item'>
+<a href="http://about.bloomberglaw.com/">Bloomberg Law</a>
+</li>
+<li class='nav_hat_item'>
+<a href="http://www.bloomberglink.com/">Bloomberg Link</a>
+</li>
+<li class='nav_hat_item'>
+<a href="http://about.bnef.com">Bloomberg New Energy Finance</a>
+</li>
+<li class='nav_hat_item'>
+<a href="https://www.bloombergsports.com/">Bloomberg Sports</a>
+</li>
+<li class='nav_hat_item'>
+<a href="http://www.bloomberg.com/content-licensing">Content Licensing</a>
+</li>
+</ul>
+</li>
+</li>
+<li class='bba'>
+<a href="https://bba.bloomberg.net">Bloomberg Anywhere</a>
+</li>
+</ul>
+<ul class='top_social no_small'>
+<li>
+<a class="facebook-icon" href="http://www.facebook.com/bloombergnews"><img alt="Like us on Facebook" src="http://cdn.gotraffic.net/assets/icons/facebook-db49bc202f5c8c63a2783f99f4942090.svg" /></a>
+</li>
+<li>
+<a class="twitter-icon" href="http://www.twitter.com/bloombergnews"><img alt="Follow us on Twitter" src="http://cdn.gotraffic.net/assets/icons/twitter-2856bf711fa6245418bf232c7655dc5f.svg" /></a>
+</li>
+</ul>
+<div class='search_container' role='search'>
+<input autocomplete='off' id='symac_keyword_reskin' name='q' placeholder='Search for News and Quotes' type='text'>
+<button id='search'>
+<span></span>
+</button>
+<div id='symac_suggest'></div>
+</div>
+<ul class='top_utility'>
+<li class='sm_hide'>
+<a class='sign_in' href='https://login.bloomberg.com' id='sign_in_button'>
+Sign In
+<span class='drop_arrow'></span>
+</a>
+<div class='first' id='login_navigation_item'>
+<a class='login_placeholder' href='#'></a>
+</div>
+</li>
+<li class='search_toggle mid_hide' href='#'>
+<a class='search' href='//search1.bloomberg.com/search/?content_type=all&amp;page=1&amp;q=bloomberg'>Search</a>
+</li>
+</ul>
+</div>
+</nav>
+<div class='container'>
+<nav class='logo_nav'>
+<div class='b_nav'></div>
+<a class="logo" href="/"></a>
+</nav>
+<nav class='section_nav search_contain search_open'>
+<div class='container'>
+<ul class='top_level'>
+<li>
+<a class='news' href='/news/'>News</a>
+<ul class='news'>
+<li>
+<a href="/news/">Top Headlines</a>
+<a href="/popular/">Most Popular</a>
+<a href="/news/exclusive/">Exclusive</a>
+<a href="/news/law/">Law</a>
+<a href="/entrepreneurs/">Entrepreneurs</a>
+<a href="/leaders/">Leaders</a>
+<a href="/news/economy/">Economy</a>
+<a href="/news/environment/">Environment</a>
+<a href="/news/science/">Science</a>
+<a href="/sports/">Sports</a>
+<a href="/markets-magazine/">Markets Magazine</a>
+<a href="http://topics.bloomberg.com/bloomberg-pursuits/">Pursuits Magazine</a>
+<a href="/visual-data/">Bloomberg Visual Data</a>
+<a href="/visual-data/best-and-worst/">Bloomberg Best (and Worst)</a>
+<a class="contact_us" href="/help.html#contact-our-editors">For comments or complaints about news coverage click here</a>
+</li>
+<li>
+<a class="main" href="/news/regions/">Regions</a>
+<a href="/news/us/">U.S.</a>
+<a href="/news/china/">China</a>
+<a href="/news/europe/">Europe</a>
+<a href="/news/asia/">Asia</a>
+<a href="/news/uk-ireland/">U.K. &amp; Ireland</a>
+<a href="/news/australia-newzealand/">Australia &amp; New Zealand</a>
+<a href="/news/canada/">Canada</a>
+<a href="/news/india-pakistan/">India &amp; Pakistan</a>
+<a href="/news/japan/">Japan</a>
+<a href="/news/africa/">Africa</a>
+<a href="/news/eastern-europe/">Eastern Europe</a>
+<a href="/news/latin-america/">Latin America</a>
+</li>
+<li>
+<a class="main" href="/news/markets/">Markets</a>
+<a href="/news/commodities/">Commodities</a>
+<a href="/news/currencies/">Currencies</a>
+<a href="/news/bonds/">Bonds</a>
+<a href="/news/stocks/">Stocks</a>
+<a href="/news/energy-markets/">Energy Markets</a>
+<a href="/news/municipal-bonds/">Municipal Bonds</a>
+<a href="/news/emerging-markets/">Emerging Markets</a>
+<a href="/news/funds/">Funds</a>
+<a href="http://topics.bloomberg.com/islamic-finance/">Islamic Finance</a>
+</li>
+<li>
+<a class="main" href="/news/industries/">Industries</a>
+<a href="/news/energy/">Energy</a>
+<a href="/news/technology/">Technology</a>
+<a href="/news/real-estate/">Real Estate</a>
+<a href="/news/finance/">Finance</a>
+<a href="/news/health-care/">Health Care</a>
+<a href="/news/transportation/">Transportation</a>
+<a href="/news/insurance/">Insurance</a>
+<a href="/news/retail/">Retail</a>
+<a href="/news/media/">Media</a>
+<a href="/news/manufacturing/">Manufacturing</a>
+</li>
+</ul>
+</li>
+<li>
+<a class='quick' href='/quickview/'>Quick</a>
+</li>
+<li>
+<a class='markets' href='/markets/'>Markets</a>
+<ul class='market-data'>
+<li>
+<a class="main" href="/markets/stocks/">Stocks</a>
+<a href="/markets/stocks/futures/">Stock Futures</a>
+<a href="/markets/stocks/world-indexes/">World Indexes</a>
+<a href="/markets/stocks/world-indexes/americas">Americas</a>
+<a href="/markets/stocks/world-indexes/europe-africa-middle-east">Europe, Middle East, &amp; Africa</a>
+<a href="/markets/stocks/world-indexes/asia-pacific">Asia-Pacific</a>
+<a href="/markets/stocks/movers/dow/">Gainers &amp; Losers</a>
+<a href="/apps/ecal?c=US">Earnings Calendar</a>
+<a href="/visual-data/industries/">Industry Leaders</a>
+<a class="main sep" href="/markets/currencies/">Currencies</a>
+<a href="/markets/currencies/americas/">Americas</a>
+<a href="/markets/currencies/europe-africa-middle-east/">Europe, Middle East, &amp; Africa</a>
+<a href="/markets/currencies/asia-pacific/">Asia-Pacific</a>
+<a href="/markets/currencies/cross-rates/">Foreign Exchange Cross Rates</a>
+<a href="/markets/currencies/fx-fixings/">FX Fixings</a>
+<a href="/markets/currencies/currency-converter/">Currency Converter</a>
+<a href="/video/forex-trading">Forex Trading Videos</a>
+</li>
+<li>
+<a class="main" href="/markets/commodities/futures/">Commodities</a>
+<a href="/energy/">Energy Prices</a>
+<a href="/markets/commodities/futures/metals/">Metals Prices</a>
+<a href="/markets/commodities/futures/agriculture/">Agricultural Prices</a>
+<a class="main sep" href="/markets/rates-bonds/">Rates &amp; Bonds</a>
+<a href="/markets/rates-bonds/government-bonds/us/">US Treasuries</a>
+<a href="/markets/rates-bonds/government-bonds/uk/">UK Gilts</a>
+<a href="/markets/rates-bonds/government-bonds/germany/">Germany Bunds</a>
+<a href="/markets/rates-bonds/government-bonds/japan/">Japan Bonds</a>
+<a href="/markets/rates-bonds/government-bonds/australia/">Australia Bonds</a>
+<a href="/markets/rates-bonds/benchmark-bond-indexes/">Bloomberg Bond Indexes</a>
+<a href="/markets/rates-bonds/corporate-bonds/">Corporate Bonds</a>
+<a href="/markets/rates-bonds/consumer-interest-rates/">Consumer Rates</a>
+<a class="main sep" href="/markets/economic-calendar/">Economic Calendar</a>
+<a class="main" href="/markets/watchlist/">Watchlist</a>
+<a class="main" href="/markets/european-debt-crisis/">European Debt Crisis</a>
+<a class="main" href="/markets/symbolsearch/">Symbol Search</a>
+<a class="main" href="http://go.bloomberg.com/market-now/">The Market Now</a>
+</li>
+</ul>
+</li>
+<li>
+<a class='personal-finance' href='/personal-finance/'>Personal Finance</a>
+<ul class='personal-finance'>
+<li>
+<a href="/personal-finance/">Top Headlines</a>
+<a href="/personal-finance/saving-and-investing/">Saving &amp; Investing</a>
+<a href="/personal-finance/real-estate/">Real Estate</a>
+<a href="/personal-finance/retirement-planning/">Retirement Planning</a>
+<a href="/personal-finance/financial-advisers/">Financial Advisers</a>
+<a href="/personal-finance/taxes/">Taxes</a>
+<a href="/blogs/personal_finance/ventured-gained/">Blog: Ventured &amp; Gained</a>
+<a href="/personal-finance/consumer-spending/">Real Cost Of</a>
+<a href="/personal-finance/money-gallery/">Money Gallery</a>
+<a href="/personal-finance/calculators/">Calculators</a>
+<a href="/markets/watchlist/">Watchlist (Portfolio Tracker)</a>
+</li>
+</ul>
+</li>
+<li>
+<a class='tech' href='/technology/'>Tech</a>
+<ul class='tech'>
+<li>
+<a href="/technology/">Top Headlines</a>
+<a href="/technology/social-media/">Social Media</a>
+<a href="/technology/mobile-wireless/">Mobile &amp; Wireless</a>
+<a href="/technology/web/">Web</a>
+<a href="/technology/enterprise-tech/">Enterprise Tech</a>
+<a href="/technology/tv-games-movies/">TV, Games &amp; Movies</a>
+<a href="/technology/apple/">Apple</a>
+<a href="http://go.bloomberg.com/tech-deals/">Tech Deals</a>
+<a href="/blogs/technology/global-tech/">Global Tech</a>
+<a href="/technology/slideshows/">Slideshows</a>
+<a href="/video/technology/">Videos</a>
+</li>
+</ul>
+</li>
+<li>
+<a class='us-politics' href='/politics/'>U.S. Politics</a>
+<ul class='u.s.-politics'>
+<li>
+<a href="/politics/">Top Headlines</a>
+<a href="/politics/elections/">Elections</a>
+<a href="/politics/white-house/">White House</a>
+<a href="/politics/congress/">Congress</a>
+<a href="/politics/state-local/">State &amp; Local</a>
+<a href="http://go.bloomberg.com/political-economy/">Political Capital</a>
+<a href="/video/politics/">Videos</a>
+<a href="/politics/live-blogs/">Live Blogs</a>
+</li>
+</ul>
+</li>
+<li>
+<a class='sustainability' href='/sustainability/'>Sustainability</a>
+<ul class='sustainability'>
+<li>
+<a href="/sustainability/">Top Headlines</a>
+<a href="/sustainability/energy/">Energy</a>
+<a href="/sustainability/corporate/">Corporate Sustainability</a>
+<a href="/sustainability/policy/">Policy</a>
+<a href="/sustainability/natural-resources/">Natural Resources</a>
+<a href="/sustainability/health-population/">Health &amp; Population</a>
+<a href="/sustainability/slideshows/">Slideshows</a>
+<a href="/video/sustainability/">Videos</a>
+<a href="/blogs/sustainability/the-grid/">Blog: The Grid</a>
+</li>
+</ul>
+</li>
+<li>
+<a class='luxury' href='/luxury/'>Luxury</a>
+<ul class='luxury'>
+<li>
+<a href="/luxury/">Top Headlines</a>
+<a href="/luxury/autos/">Autos</a>
+<a href="/billionaires/">Billionaires</a>
+<a href="/luxury/living/">Living</a>
+<a href="/luxury/property/">Property</a>
+<a href="/luxury/travel/">Travel</a>
+<a href="/luxury/well-spent/">Well Spent</a>
+<a href="/blogs/luxury/loot/">Loot Blog</a>
+<a href="http://topics.bloomberg.com/bloomberg-pursuits/">Pursuits Magazine</a>
+<a href="/video/luxury/">Videos</a>
+</li>
+</ul>
+</li>
+<li>
+<a class='video' href='/video/'>Video</a>
+<ul class='video'>
+<li>
+<a href="/video/">Must See</a>
+<a href="/video/latest/">Latest</a>
+<a href="/tv/">Live TV</a>
+<a href="/tv/shows/">Shows</a>
+<a href="/playlist/">Playlist</a>
+</li>
+</ul>
+</li>
+<li>
+<a class='radio' href='/radio/'>Radio</a>
+<ul class='radio'>
+<li>
+<a href="/radio/">Live Radio</a>
+<a href="/radio/shows/">Shows</a>
+<a href="/radio/schedule/">Schedule</a>
+<a href="/personalities/">Personalities</a>
+<a class="main sep" href="/podcasts/">Podcasts</a>
+<a href="/podcasts/first-word/">First Word</a>
+<a href="/podcasts/surveillance/">Surveillance</a>
+<a href="/podcasts/hays-advantage/">Hays Advantage</a>
+<a href="/podcasts/in_the_loop/">In the Loop</a>
+<a href="/podcasts/law/">Bloomberg Law</a>
+<a href="/podcasts/taking-stock/">Taking Stock</a>
+</li>
+</ul>
+</li>
+<li>
+<a class='opinion' href='http://bloombergview.com/?cmpid=bb_primarynav'>Opinion</a>
+</li>
+</ul>
+</div>
+</nav>
+</div>
+</section>
+</header>
+</div>
+
+<script>
+  Bcom.Pages.Home.initABTest()
+</script>
+<section class='leaderboard_ad hide_missing_ad'>
+<div class='large_ad'>
+<div class="bcom_ad top " lazy_load="false"><div bcom-ad-code="blp.home/index" bcom-ad-lazy_load="false" bcom-ad-position="top" bcom-ad-sizes="[[970, 90], [728, 90], [970, 66], [1, 1]]" bcom-ad-url="/" class="ad_inner_container" id="ad-top"><script>
+//<![CDATA[
+Bcom.Ads.render("ad-top");
+//]]>
+</script></div></div>
+</div>
+</section>
+
+<div class='homepage_content quick_off bp_large_format bp_extra_large_format'>
+<div class='container'>
+<div class='home_blocks'>
+<div class='panels_container'>
+<section class='news_blocks' role='main'>
+<div class='breaking_news_bar_contain'>
+<div id='hot_off_the_wire'>
+
+</div>
+<section accessor="bcom_breaking_news" class="bcom_breaking_news">
+</section></div>
+<section class="hfs_contain editable" data-channel="hfs">
+</section><ul class='mid_tab_nav'>
+<li class='news_links'>
+<a class='featured_panel_trigger featured_link' href='#'>Editor's Picks</a>
+<a class='quick_panel_trigger quick_link' href='/news'>More News</a>
+</li>
+</ul>
+<section class='news_blocks_contain'>
+<section class='editors_pick_contain content_panel'>
+<div class="editors_wrap editable" data-channel="bcom_homepage_features, bcom_homepage_view"><section class='editors_pick'>
+<section class='article_block'>
+<article class='style_feature'>
+<a class="thumbnail " data-id="N8KBLB6JIJUU01" data-type="Story" href="/news/2014-07-11/ukraine-rebels-unleash-deadliest-attack-since-truce-ended.html"><img alt="Ukrainian government soldiers sit on top of an armoured vehicle as they take up a position almost 20Km south of Donetsk." height="349" src="http://www.bloomberg.com/image/ibe0zpEXT360.jpg" width="620" />
+</a><h2>
+<a class="icon-article-headline " data-id="N8KBLB6JIJUU01" data-type="Story" href="/news/2014-07-11/ukraine-rebels-unleash-deadliest-attack-since-truce-ended.html"><span class='headline'>Fighting Continues in Ukraine as Donetsk Apartment Blocks Attacked</span>
+</a>
+</h2>
+</article>
+</section>
+
+<section class='article_block with_related'>
+<article class='style_feature'>
+<a class="thumbnail " data-id="N8MDOQ6JTSE901" data-type="Story" href="/news/2014-07-12/netherlands-beats-brazil-3-0-in-world-cup-cosolation-game.html"><img alt="Brazil&#39;s goalkeeper Julio Cesar fails to stop a penalty kick by Netherlands&#39; forward and captain Robin van Persie during the third place play-off football match between Brazil and Netherlands during the 2014 FIFA World Cup at the National Stadium in Brasilia, on July 12, 2014." height="349" src="http://www.bloomberg.com/image/iT.JpfljQFNM.jpg" width="620" />
+</a><h2>
+<a class="icon-article-headline " data-id="N8MDOQ6JTSE901" data-type="Story" href="/news/2014-07-12/netherlands-beats-brazil-3-0-in-world-cup-cosolation-game.html"><span class='headline'>Netherlands Beats Brazil 3-0 in World Cup Consolation Game</span>
+</a>
+</h2>
+</article>
+<article class='style_link'>
+<a class="icon-article-headline " data-id="N8MCR06JTSEG01" data-type="Story" href="/news/2014-07-12/germany-fresher-as-messi-s-form-dips-ahead-of-world-cup-final.html"><span class='headline'>Germany Fresher as Messi’s Form Dips Ahead of World Cup Final</span>
+</a>
+</article>
+</section>
+
+<article class='opinion_block'>
+<div class='view_header'>
+<a href="http://www.bloombergview.com"><img alt="View logo text" src="http://cdn.gotraffic.net/assets/icons/view_logo_text-66a84d4613515260e1d21d7c1ecd5806.png" /></a>
+</div>
+<ul>
+<li>
+<a class="img_link " href="http://www.bloombergview.com/articles/2014-07-12/can-brazil-get-over-the-world-cup" rel="external nofollow"><img alt="It&#39;s OK, football is just a game." height="126" src="http://www.bloomberg.com/image/iY4l_1qeR5pc.jpg" width="190" />
+</a><div class='link'>
+<a href="http://www.bloombergview.com/articles/2014-07-12/can-brazil-get-over-the-world-cup" rel="external nofollow"><span class='author'>By Jim O'Neill</span>Can Brazil Get Over the World Cup?
+</a></div>
+</li>
+<li>
+<a href="http://www.bloombergview.com/articles/2014-07-11/is-hamas-trying-to-get-gazans-killed" rel="external nofollow"><span class='author'>By Jeffrey Goldberg</span>Is Hamas Trying to Get Gazans Killed?
+</a></li>
+<li>
+<a href="http://www.bloombergview.com/articles/2014-07-11/the-message-of-espirito-santo" rel="external nofollow"><span class='author'>By Mohamed A. El-Erian</span>The Message of Espirito Santo
+</a></li>
+<li>
+<a href="http://www.bloombergview.com/articles/2014-07-11/obama-merkel-and-the-spy-who-used-gmail" rel="external nofollow"><span class='author'>By The Editors</span>Obama, Merkel and the Spy Who Used Gmail
+</a></li>
+</ul>
+</article>
+
+<section class='article_block with_related'>
+<article class='style_feature'>
+<a class="thumbnail " data-id="N8LJMC6JTSEM01" data-type="Story" href="/news/2014-07-12/israel-pounds-gaza-for-fifth-day-as-palestinian-death-toll-rises.html"><img alt="Smoke rises following rocket attack in Ashdod, Israel." class="lazy" data-src="http://www.bloomberg.com/image/i2_9sT5FsvRA.jpg" height="349" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="620" />
+</a><h2>
+<a class="icon-article-headline " data-id="N8LJMC6JTSEM01" data-type="Story" href="/news/2014-07-12/israel-pounds-gaza-for-fifth-day-as-palestinian-death-toll-rises.html"><span class='headline'>Israel Pounds Gaza Strip as Palestinian Death Toll Increases</span>
+</a>
+</h2>
+</article>
+<article class='style_link'>
+<a class="icon-article-headline " data-id="N8K65Y6JTSEF01" data-type="Story" href="/news/2014-07-11/gaza-family-counts-its-dead-as-israelis-flee-rocket-attacks.html"><span class='headline'>Gaza Family Counts Its Dead as Israelis Flee Rocket Attacks</span>
+</a>
+</article>
+<article class='style_link'>
+<a class="link " href="http://www.bloomberg.com/quicktake/al-qaedas-heirs/" rel="external nofollow"><span class='headline'>Al-Qaeda's Heirs Redraw the Map of the Middle East: QuickTake</span>
+</a>
+</article>
+</section>
+
+<section class='article_block with_related'>
+<article class='style_feature'>
+<a class="thumbnail " data-id="N8JWA26KLVR801" data-type="Story" href="/news/2014-07-11/berlin-spying-prompted-u-s-offer-too-late-to-sway-merkel.html"><img alt="German Chancellor Angela Merkel attends a press confence with the Prime Ministers of East-German States on July 9, 2014 in Berlin." class="lazy" data-src="http://www.bloomberg.com/image/iclo9aiPrcUI.jpg" height="349" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="620" />
+</a><h2>
+<a class="icon-article-headline " data-id="N8JWA26KLVR801" data-type="Story" href="/news/2014-07-11/berlin-spying-prompted-u-s-offer-too-late-to-sway-merkel.html"><span class='headline'>U.S. Offered Berlin 'Five Eyes' Pact. Merkel Was Done With It</span>
+</a>
+</h2>
+</article>
+<article class='style_link'>
+<a class="icon-article-headline " data-id="N8LOM46JIJUU01" data-type="Story" href="/news/2014-07-12/merkel-says-u-s-cold-war-methods-won-t-end-german-partnership.html"><span class='headline'>Merkel Says U.S. Cold War Methods Won’t End German Partnership</span>
+</a>
+</article>
+<article class='style_link'>
+<a class="icon-article-headline " data-id="N8LKI06KLVR501" data-type="Story" href="/news/2014-07-12/merkel-warns-of-euro-fragility-citing-portugal-turmoil.html"><span class='headline'>Merkel Warns of Euro Fragility, Citing Portugal Turmoil</span>
+</a>
+</article>
+</section>
+
+<article class='clearfix in_focus_block personal-finance sponsored_section'>
+<ul>
+<li>
+<a data-id="a721b850e4f20131afa1005056b05fc6" data-type="Story" href="/news/2014-07-10/pssst-wanna-sell-your-house-can-you-keep-a-secret-.html"><img alt="" height="245" src="http://www.bloomberg.com/image/ifW2DM.aw7m8.jpg" width="368" />
+</a><span>
+<a class="in_focus_headline" href="/personal-finance/"><span>personal finance</span>
+</a>
+</span><a class="in_focus_headline icon-article-headline " data-id="a721b850e4f20131afa1005056b05fc6" data-type="Story" href="/news/2014-07-10/pssst-wanna-sell-your-house-can-you-keep-a-secret-.html"><span class='headline'>Pssst. Wanna Sell Your House? Can You Keep a Secret?</span>
+</a>
+</li>
+<li>
+<a class="icon-article-headline " data-id="4c9fb240e8120131bea5005056b05fc6" data-type="Story" href="/news/2014-07-10/bitcoin-by-bitcoin-the-winklevii-etf-inches-closer-to-reality.html"><span class='headline'>Bitcoin by Bitcoin, the Winklevii ETF Inches Closer to Reality</span>
+</a>
+</li>
+<li>
+<a class="icon-article-headline " data-id="6f5126e0eaa80131d65d005056b05fc6" data-type="Story" href="/news/2014-07-11/give-millennials-credit-though-they-might-not-take-it-.html"><span class='headline'>The New Card Sharks: Charge It -- Then Pay It Off</span>
+</a>
+</li>
+</ul>
+<div class="sponsor_button hide_missing_ad"><div class="sponsored_by">Sponsored by</div><div class="button"><div class="bcom_ad sponsored-personal-finance " lazy_load="false"><div bcom-ad-code="blp.home/index" bcom-ad-position="sponsored-personal-finance" bcom-ad-sizes="[88, 31]" bcom-ad-url="/" class="ad_inner_container" id="ad-sponsored-personal-finance"><script>
+//<![CDATA[
+Bcom.Ads.render("ad-sponsored-personal-finance");
+//]]>
+</script></div></div></div></div>
+</article>
+
+<section class='article_block'>
+<article class='style_feature'>
+<a class="thumbnail " data-id="UhhXylimTuSucLwyCshApA" data-type="Video" href="http://www.bloomberg.com/video/the-five-fastest-cars-on-the-planet-UhhXylimTuSucLwyCshApA.html"><img alt="July 11 (Bloomberg) –- Supercars have a lot going for them - from lighting quick acceleration to staggering horsepower - but no spec is quite as impressive as top speed. Bloomberg RANX lists the five fastest production cars on the planet. (Source: Bloomberg)" class="lazy" data-src="http://www.bloomberg.com/image/ioHlH8JsIyVI.jpg" height="353" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="628" />
+</a><h2>
+<a class="icon-video-headline " data-id="UhhXylimTuSucLwyCshApA" data-type="Video" href="http://www.bloomberg.com/video/the-five-fastest-cars-on-the-planet-UhhXylimTuSucLwyCshApA.html"><span class='headline'>The Fastest Cars on the Planet</span>
+</a>
+</h2>
+</article>
+</section>
+
+<section class='article_block'>
+<article class='style_feature'>
+<a class="thumbnail " data-id="N8K6UR6JTSEE01" data-type="Story" href="/news/2014-07-11/s-p-500-has-worst-week-since-april-on-europe-valuations.html"><img alt="" class="lazy" data-src="http://www.bloomberg.com/image/iAUptt.23LaI.jpg" height="349" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="620" />
+</a><h2>
+<a class="icon-article-headline " data-id="N8K6UR6JTSEE01" data-type="Story" href="/news/2014-07-11/s-p-500-has-worst-week-since-april-on-europe-valuations.html"><span class='headline'>S&P 500 Has Worst Week Since April on Europe, Valuations</span>
+</a>
+</h2>
+</article>
+</section>
+
+<section class='article_block with_related'>
+<article class='style_feature'>
+<a class="thumbnail " data-id="N8F9GV6KLVR701" data-type="Story" href="/news/2014-07-11/classrooms-in-u-s-prepare-for-flood-as-migrants-become-pupils.html"><img alt="Border Patrol agents process a group of 22 migrants, mostly women and children from Honduras and Guatemala, who have just crossed the Rio Grande near McAllen, Texas, on June 18, 2014." class="lazy" data-src="http://www.bloomberg.com/image/iy0IDJfNrOxc.jpg" height="349" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="620" />
+</a><h2>
+<a class="icon-article-headline " data-id="N8F9GV6KLVR701" data-type="Story" href="/news/2014-07-11/classrooms-in-u-s-prepare-for-flood-as-migrants-become-pupils.html"><span class='headline'>Classrooms in U.S. Prepare for Flood as Migrants Become Pupils</span>
+</a>
+</h2>
+</article>
+<article class='style_link'>
+<a class="icon-article-headline " data-id="N8IT136K50Y301" data-type="Story" href="/news/2014-07-11/gates-adelson-and-buffett-scold-congress-on-immigration.html"><span class='headline'>Gates, Adelson and Buffett Scold Congress on Immigration</span>
+</a>
+</article>
+<article class='style_link'>
+<a class="link " href="http://go.bloomberg.com/political-capital/2014-07-11/washington-theater-sound/" rel="external nofollow"><span class='headline'>The Texas Three-Step: This Isn't Theater. Well, It Is. Wait, It Isn't...</span>
+</a>
+</article>
+</section>
+
+<section class='article_block with_related'>
+<article class='bloomberg-businessweek label style_feature'>
+<a class="thumbnail " href="http://www.businessweek.com/articles/2014-07-10/how-lebron-james-could-upstage-the-2016-gop-convention#r=hp-ls" rel="external nofollow"><img alt="" class="lazy" data-src="http://www.bloomberg.com/image/ihFOCrfkzSeg.jpg" height="349" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="620" />
+</a><a href="http://www.businessweek.com/"><span>bloomberg businessweek</span>
+</a>
+<h2>
+<a class="link " href="http://www.businessweek.com/articles/2014-07-10/how-lebron-james-could-upstage-the-2016-gop-convention#r=hp-ls" rel="external nofollow"><span class='headline'>How LeBron James Could Upstage the 2016 GOP Convention</span>
+</a>
+</h2>
+</article>
+<article class='style_link'>
+<a class="link " href="http://www.businessweek.com/articles/2014-07-10/japans-pachinko-operators-mull-casino-alliance-to-stem-decline#r=hp-ls" rel="external nofollow"><span class='headline'>Japan's Pachinko Industry Eyes a Big Gamble</span>
+</a>
+</article>
+<article class='style_link'>
+<a class="link " href="http://www.businessweek.com/articles/2014-07-10/in-las-vegas-climate-change-deniers-re-group-vow-to-keep-doubt-alive-hold-for-art#r=hp-ls" rel="external nofollow"><span class='headline'>Climate Change
+Deniers Gather in Vegas, Vow to Keep Doubt Alive </span>
+</a>
+</article>
+</section>
+
+<section class='article_block'>
+<article class='style_feature'>
+<a class="thumbnail " data-id="N8JWA26KLVR801" data-type="Story" href="/news/2014-07-11/berlin-spying-prompted-u-s-offer-too-late-to-sway-merkel.html"><img alt="German Chancellor Angela Merkel attends a press confence with the Prime Ministers of East-German States on July 9, 2014 in Berlin." class="lazy" data-src="http://www.bloomberg.com/image/iclo9aiPrcUI.jpg" height="349" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="620" />
+</a><h2>
+<a class="icon-article-headline " data-id="N8JWA26KLVR801" data-type="Story" href="/news/2014-07-11/berlin-spying-prompted-u-s-offer-too-late-to-sway-merkel.html"><span class='headline'>U.S. Tried to Calm Berlin With Cold War 'Five Eyes' Pact. Merkel Was Done With It</span>
+</a>
+</h2>
+</article>
+</section>
+
+<section class='article_block'>
+<article class='style_feature'>
+<a class="thumbnail " data-id="N8JUQK6KLVRY01" data-type="Story" href="/news/2014-07-11/deadliest-rarest-form-of-plague-contracted-near-denver.html"><img alt="Scanning electron micrograph depicting a mass of Yersinia pestis bacteria. Photograph: Rocky Mountain Laboratories/NIAID/NIH" class="lazy" data-src="http://www.bloomberg.com/image/iCR_ZLNUlv0k.jpg" height="349" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="620" />
+</a><h2>
+<a class="icon-article-headline " data-id="N8JUQK6KLVRY01" data-type="Story" href="/news/2014-07-11/deadliest-rarest-form-of-plague-contracted-near-denver.html"><span class='headline'>Deadliest, Rarest Form of Plague Contracted Near Denver</span>
+</a>
+</h2>
+</article>
+</section>
+
+<section class='article_block'>
+<article class='style_feature'>
+<a class="thumbnail " data-id="JBP78SOhSa6ywkmWGDHTZA" data-type="Video" href="http://www.bloomberg.com/video/five-of-the-most-bizarre-airbnb-rental-listings-JBP78SOhSa6ywkmWGDHTZA.html"><img alt="July 10 (Bloomberg) –- Airbnb, the poster child of the sharing economy, is planning a big brand announcement on July 16th. As this hotel disrupting business continues to grow, so are the number of homes people are willing to offer. Bloomberg RANX takes a look at five of the most bizarre listings currently available on Airbnb. (Source: Bloomberg)" class="lazy" data-src="http://www.bloomberg.com/image/iGGBi46v59lA.jpg" height="349" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="620" />
+</a><h2>
+<a class="icon-video-headline " data-id="JBP78SOhSa6ywkmWGDHTZA" data-type="Video" href="http://www.bloomberg.com/video/five-of-the-most-bizarre-airbnb-rental-listings-JBP78SOhSa6ywkmWGDHTZA.html"><span class='headline'>Five of the Most Bizarre Airbnb Listings Ever</span>
+</a>
+</h2>
+</article>
+</section>
+
+<section class='article_block'>
+<article class='style_feature'>
+<a class="thumbnail " data-id="N85LWK6KLVRV01" data-type="Story" href="/news/2014-07-10/crumbling-roads-in-oil-fields-slowing-u-s-energy-boom.html"><img alt="Oil-field trucks rumble down a beat-up county road in DeWitt County, Texas, in the heart of the Eagle Ford shale formation, in 2013." class="lazy" data-src="http://www.bloomberg.com/image/iCtFo6bEpuRg.jpg" height="349" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="620" />
+</a><h2>
+<a class="icon-article-headline " data-id="N85LWK6KLVRV01" data-type="Story" href="/news/2014-07-10/crumbling-roads-in-oil-fields-slowing-u-s-energy-boom.html"><span class='headline'>Crumbling Roads in Oil Fields Slow U.S. Energy Boom</span>
+</a>
+</h2>
+</article>
+</section>
+
+<section class='article_block with_related'>
+<article class='style_feature'>
+<a class="thumbnail " data-id="63eb5190ea990131d3eb005056b05fc6" data-type="Story" href="/news/2014-07-10/we-are-all-texans-tomorrow-1001-blistering-future-summers.html"><img alt="Behavioral thermo-regulation by a Texas horned lizard (Phrynosoma cornutum), panting with body elevated above hot sand. This species is the official State Reptile of Texas, where it is threatened from habitat loss." class="lazy" data-src="http://www.bloomberg.com/image/i2SkQNNCGxoU.jpg" height="349" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="620" />
+</a><h2>
+<a class="icon-article-headline " data-id="63eb5190ea990131d3eb005056b05fc6" data-type="Story" href="/news/2014-07-10/we-are-all-texans-tomorrow-1001-blistering-future-summers.html"><span class='headline'>We Are All Texans Tomorrow: 1,001 Blistering Future Summers</span>
+</a>
+</h2>
+</article>
+<article class='style_link'>
+<a class="icon-article-headline " data-id="59f81340e9a80131ca80005056b05fc6" data-type="Story" href="/news/2014-07-09/fix-the-climate-problem-easy-cut-u-s-emissions-to-1901-levels.html"><span class='headline'>Fix the Climate Problem? Easy. Cut U.S. Emissions to 1901 Levels</span>
+</a>
+</article>
+</section>
+
+<section class='article_block'>
+<article class='style_feature'>
+<a class="thumbnail " href="http://go.bloomberg.com/political-capital/2014-07-11/washington-theater-sound/" rel="external nofollow"><img alt="President Obama speaks on stage at the Paramount Theatre on July 10 in Austin." class="lazy" data-src="http://www.bloomberg.com/image/iqtMdK2jSbP8.jpg" height="349" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="620" />
+</a><h2>
+<a class="link " href="http://go.bloomberg.com/political-capital/2014-07-11/washington-theater-sound/" rel="external nofollow"><span class='headline'>The Texas Three-Step: This Isn't Theater. Well, It Is. Wait, It Isn't...</span>
+</a>
+</h2>
+</article>
+</section>
+
+<section class='article_block'>
+<article class='style_feature'>
+<a class="thumbnail " data-id="6f5126e0eaa80131d65d005056b05fc6" data-type="Story" href="/news/2014-07-11/give-millennials-credit-though-they-might-not-take-it-.html"><img alt="Photograph: Getty Images" class="lazy" data-src="http://www.bloomberg.com/image/ieUQtm4kD56s.jpg" height="349" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="620" />
+</a><h2>
+<a class="icon-article-headline " data-id="6f5126e0eaa80131d65d005056b05fc6" data-type="Story" href="/news/2014-07-11/give-millennials-credit-though-they-might-not-take-it-.html"><span class='headline'>The New Card Sharks: Charge It -- Then Pay It Off</span>
+</a>
+</h2>
+</article>
+</section>
+
+<section class='most_popular_block'>
+<h2>
+<a href="/popular">Most Popular News</a>
+</h2>
+<ul>
+<li>
+<article class='style_link'>
+<a class="icon-article-headline " data-id="N8JUQK6KLVRY01" data-type="Story" href="/news/2014-07-11/deadliest-rarest-form-of-plague-contracted-near-denver.html"><span class='headline'>Deadliest, Rarest Form of Plague Contracted Near Denver</span>
+</a>
+</article>
+</li>
+<li>
+<article class='style_link'>
+<a class="view-headline " href="http://www.bloombergview.com/articles/2014-07-11/if-boehner-sues-obama-roberts-wins" rel="external nofollow"><span class='headline'>If Boehner Sues Obama, Roberts Wins</span>
+</a>
+</article>
+</li>
+<li>
+<article class='style_link'>
+<a class="icon-article-headline " data-id="N8JWA26KLVR801" data-type="Story" href="/news/2014-07-11/berlin-spying-prompted-u-s-offer-too-late-to-sway-merkel.html"><span class='headline'>U.S. Offered Berlin 'Five Eyes' Pact. Merkel Was Done With It</span>
+</a>
+</article>
+</li>
+<li>
+<article class='style_link'>
+<a class="view-headline " href="http://www.bloombergview.com/articles/2014-07-11/is-hamas-trying-to-get-gazans-killed" rel="external nofollow"><span class='headline'>Is Hamas Trying to Get Gazans Killed?</span>
+</a>
+</article>
+</li>
+<li>
+<article class='style_link'>
+<a class="icon-article-headline " data-id="N8050G6M62H101" data-type="Story" href="/news/2014-07-11/daughter-doesn-t-buy-dad-s-cheerleading-for-u-s-homeownership.html"><span class='headline'>He's the Top U.S. Mortgage Salesman. His Daughter Isn't Buying It</span>
+</a>
+</article>
+</li>
+</ul>
+
+</section>
+
+</section>
+
+</div></section>
+<section class='quick_view_contain content_panel' data-current-headline-id='bcom_homepage_headlines_top_news'>
+<section class="quick_view editable" data-channel="bcom_homepage_headlines_top_news, bcom_homepage_touts"><nav>
+<div class='change_menu_container'>
+<div class='change_menu'>
+<h2>Top News</h2>
+<ul class='change_menu_drop'>
+<li>
+<a class='active' href='#bcom_homepage_headlines_top_news'>Top News</a>
+</li>
+<li>
+<a href='#bcom_homepage_non_stop_news'>Non-stop News</a>
+</li>
+<li>
+<a href='#bcom_homepage_most_popular'>Most popular</a>
+</li>
+<li>
+<a href='#bcom_homepage_headlines_exclusive'>Exclusive</a>
+</li>
+<li>
+<a href='#bcom_homepage_headlines_economy'>Economy</a>
+</li>
+<li>
+<a href='#bcom_homepage_headlines_health_science'>Health &amp; Science</a>
+</li>
+<li>
+<a href='#bcom_homepage_headlines_personal_finance'>Personal Finance</a>
+</li>
+<li>
+<a href='#bcom_homepage_headlines_politics'>Politics</a>
+</li>
+<li>
+<a href='#bcom_homepage_headlines_sustainability'>Sustainability</a>
+</li>
+<li>
+<a href='#bcom_homepage_headlines_leaders'>Leaders</a>
+</li>
+<li>
+<a href='#bcom_homepage_headlines_technology'>Technology</a>
+</li>
+<li>
+<a href='#bcom_homepage_headlines_sports'>Sports</a>
+</li>
+<li>
+<a href='#bcom_homepage_headlines_arts_culture'>Arts &amp; Culture</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+<div class='headlines_contain'>
+<ul class='quick_list'>
+<li>
+<a class="icon-article-headline" data-id="N8K6UR6JTSEE01" data-type="Story" href="/news/2014-07-11/s-p-500-has-worst-week-since-april-on-europe-valuations.html"><span class='headline'>S&P 500 Has Worst Week Since April on Europe, Valuations</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8LOM46JIJUU01" data-type="Story" href="/news/2014-07-12/merkel-says-u-s-cold-war-methods-won-t-end-german-partnership.html"><span class='headline'>Merkel Says U.S. Cold War Methods Won’t End German Partnership</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8KDNU6KLVR501" data-type="Story" href="/news/2014-07-11/kerry-stays-on-in-kabul-seeking-to-end-afghan-deadlock.html"><span class='headline'>Kerry Brokers Accord With Candidates on Disputed Afghan Election</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8MDBH6JTSFO01" data-type="Story" href="/news/2014-07-12/apple-refutes-china-assertions-on-iphone-as-security-risk.html"><span class='headline'>Apple Refutes China Assertions on IPhone as Security Risk</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8F9GV6KLVR701" data-type="Story" href="/news/2014-07-11/classrooms-in-u-s-prepare-for-flood-as-migrants-become-pupils.html"><span class='headline'>Classrooms in U.S. Prepare for Flood as Migrants Become Pupils</span>
+</a></li>
+
+<li>
+<a class="view-headline" href="http://www.bloombergview.com/articles/2014-07-10/harry-potter-belongs-to-j-k-rowling" rel="external nofollow"><span class='headline'>Harry Potter Belongs to J.K. Rowling</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N7E2XX6K50YL01" data-type="Story" href="/news/2014-07-09/tiny-houses-big-with-u-s-owners-seeking-economic-freedom.html"><span class='headline'>Tiny Houses Big With U.S. Owners Seeking Economic Freedom</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N6EHX86KLVSC01" data-type="Story" href="/news/2014-07-12/falcone-s-harbinger-sues-u-s-for-blocking-lightsquared.html"><span class='headline'>Falcone’s Harbinger Sues U.S. for Blocking LightSquared</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8KC8R6KLVRU01" data-type="Story" href="/news/2014-07-11/world-s-richest-lose-33-billion-as-slim-plans-breakup.html"><span class='headline'>World’s Richest Lose $33 Billion as Slim Plans Breakup</span>
+</a></li>
+
+<li>
+<a class="view-headline" href="http://www.bloombergview.com/articles/2014-07-10/the-end-of-made-in-japan" rel="external nofollow"><span class='headline'>The End of `Made in Japan'?</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8JS676JTSEG01" data-type="Story" href="/news/2014-07-11/cynk-halted-after-no-member-network-s-surge-from-pennies.html"><span class='headline'>Cynk Suspended by SEC After No-Member Network’s Surge</span>
+</a></li>
+
+<li class='tout left_image_tout'>
+<a href='http://www.bloomberg.com/visual-data/world-cup/#0,3,63'><img src='http://www.bloomberg.com/image/iMbgmzwSW4n8.jpg'>World Cup Sunday: Germany vs. Argentina-- Key Players, Strengths and Weaknesses</a>
+</li>
+
+<li>
+<a class="view-headline" href="http://www.bloombergview.com/articles/2014-07-11/is-boehner-lawsuit-a-warm-welcome-to-immigrants" rel="external nofollow"><span class='headline'>Is Boehner Lawsuit a Warm Welcome to Immigrants?</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8LTEZ6TTDS101" data-type="Story" href="/news/2014-07-12/reynolds-moves-closer-to-lorillard-takeover-as-market-contracts.html"><span class='headline'>Reynolds Moves Closer to Lorillard Takeover as Market Contracts</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8LS3F6JTSEG01" data-type="Story" href="/news/2014-07-12/ebola-spreads-to-sierra-leone-capital-of-freetown-as-deaths-rise.html"><span class='headline'>Ebola Spreads to Sierra Leone Capital of Freetown as Deaths Rise</span>
+</a></li>
+
+<li>
+<a class="view-headline" href="http://www.bloombergview.com/articles/2014-07-10/how-to-tame-argentina-s-debt-vultures" rel="external nofollow"><span class='headline'>How to Tame Argentina's Debt Vultures</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8KEB66JIJV701" data-type="Story" href="/news/2014-07-11/chinese-citizen-charged-with-hacking-boeing-computer-in-u-s-.html"><span class='headline'>Chinese Man Charged in Plot to Steal U.S. Military Data</span>
+</a></li>
+
+<li>
+<a class="view-headline" href="http://www.bloombergview.com/articles/2014-07-11/if-boehner-sues-obama-roberts-wins" rel="external nofollow"><span class='headline'>If Boehner Sues Obama, Roberts Wins</span>
+</a></li>
+
+<li>
+<a class="icon-video-headline" data-id="T8~c9jXVRX2YFOOhWbsDSg" data-type="Video" href="http://www.bloomberg.com/video/all-of-our-allies-are-spying-on-us-jaime-metzl-T8~c9jXVRX2YFOOhWbsDSg.html"><span class='headline'>All of Our Allies Are Spying on Us</span>
+</a></li>
+
+<li>
+<a class="icon-video-headline" data-id="UhhXylimTuSucLwyCshApA" data-type="Video" href="http://www.bloomberg.com/video/the-five-fastest-cars-on-the-planet-UhhXylimTuSucLwyCshApA.html"><span class='headline'>The Five Fastest Cars on the Planet</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8LMOP6K50XS01" data-type="Story" href="/news/2014-07-12/china-s-hony-capital-buys-pizzaexpress-for-1-54-billion.html"><span class='headline'>China’s Hony Capital Buys PizzaExpress for $1.54 Billion</span>
+</a></li>
+
+<li>
+<a class="view-headline" href="http://www.bloombergview.com/articles/2014-07-11/why-adidas-beat-nike-at-the-world-cup" rel="external nofollow"><span class='headline'>Why Adidas Beat Nike at the World Cup</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8LV326KLVR501" data-type="Story" href="/news/2014-07-12/trump-atlantic-city-casino-may-close-in-september.html"><span class='headline'>Trump Atlantic City Casino May Close in September</span>
+</a></li>
+
+<li class='tout left_image_tout'>
+<a href='http://www.bloomberg.com/quicktake/ebola/'><img src='http://www.bloomberg.com/image/i6v75A.fZgKQ.jpg'>Ebola: What's Different This Time Around</a>
+</li>
+
+<li>
+<a class="icon-article-headline" data-id="N8KEY26S972L01" data-type="Story" href="/news/2014-07-11/united-airlines-joins-peers-cutting-flights-to-venezuela.html"><span class='headline'>Venezuela Feud Over Trapped Cash Spurs United to Cut Flights 43%</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8IIMW6JTSEC01" data-type="Story" href="/news/2014-07-11/charney-s-american-apparel-fate-hinges-on-new-directors.html"><span class='headline'>Charney’s American Apparel Fate Hinges on New Directors</span>
+</a></li>
+
+<li>
+<a class="view-headline" href="http://www.bloombergview.com/articles/2014-07-11/is-reform-conservative-an-oxymoron" rel="external nofollow"><span class='headline'>Is 'Reform Conservative' an Oxymoron?</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8KIHH6K50Y601" data-type="Story" href="/news/2014-07-12/renaissance-said-probed-by-senate-panel-on-tax-maneuver.html"><span class='headline'>Renaissance Said Probed by Senate Panel on Tax Maneuver</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8JUQK6KLVRY01" data-type="Story" href="/news/2014-07-11/deadliest-rarest-form-of-plague-contracted-near-denver.html"><span class='headline'>Deadliest, Rarest Form of Plague Contracted Near Denver</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8K8Z96S972N01" data-type="Story" href="/news/2014-07-11/lebron-james-boosts-image-by-taking-talents-back-to-cleveland.html"><span class='headline'>LeBron James Boosts Image by Taking Talents Back to Cleveland</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8KC0Z6K50YT01" data-type="Story" href="/news/2014-07-11/cantor-loss-spurs-adelson-buffett-gates-immigration-op-ed.html"><span class='headline'>Cantor Loss Spurs $184 Billion Immigration Op-Ed by Adelson, Buffett and Gates </span>
+</a></li>
+
+<li>
+<a class="icon-video-headline" data-id="8LpRaI6~TWWNWyMUMfwzjg" data-type="Video" href="http://www.bloomberg.com/video/porsche-macan-suburban-dad-s-review-of-compact-suv-8LpRaI6~TWWNWyMUMfwzjg.html"><span class='headline'>Porsche Macan: Suburban Dad's Review of Compact SUV</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8K6KM6KLVS001" data-type="Story" href="/news/2014-07-12/highway-fund-tug-of-war-seen-sending-house-bill-to-obama.html"><span class='headline'>Highway-Fund Tug-of-War Seen Sending House Bill to Obama</span>
+</a></li>
+
+<li>
+<a class="icon-video-headline" data-id="JBP78SOhSa6ywkmWGDHTZA" data-type="Video" href="http://www.bloomberg.com/video/five-of-the-most-bizarre-airbnb-rental-listings-JBP78SOhSa6ywkmWGDHTZA.html"><span class='headline'>Five of the Most Bizarre Airbnb Rental Listings</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8I5SK6S972P01" data-type="Story" href="/news/2014-07-10/leuthold-selling-stocks-on-concern-s-p-500-may-tumble-8-.html"><span class='headline'>S&P 500 Tumble of 8% Is Fear Driving Money Manager Leuthold to Sell</span>
+</a></li>
+
+<li class='tout sponsor'>
+<a href='http://www.bloomberg.com/ad-section/samsung/mobilenext/'><span>Brought to you by Samsung</span>Mobile Next: The Business Evolution</a>
+</li>
+
+<li>
+<a class="icon-article-headline" data-id="N8HYA76JIJUO01" data-type="Story" href="/news/2014-07-11/budget-gap-shrinks-to-narrowest-since-2008-so-far-in-fiscal-year.html"><span class='headline'>Budget Gap Shrinks to Narrowest Since 2008 So Far in Fiscal Year</span>
+</a></li>
+
+<li>
+<a class="icon-video-headline" data-id="cc5shRKcSsu6Jlq5PVQUMw" data-type="Video" href="http://www.bloomberg.com/video/eat-like-a-champion-the-pro-cyclist-diet-cc5shRKcSsu6Jlq5PVQUMw.html"><span class='headline'>Eat Like a Champion: The Pro-Cyclist Diet</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8KHGI6K50YA01" data-type="Story" href="/news/2014-07-12/obama-maps-out-path-around-congress-on-u-s-border-crisis.html"><span class='headline'>Obama Maps Out Path Around Congress on U.S. Border Crisis</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8KI936KLVRQ01" data-type="Story" href="/news/2014-07-12/u-s-steel-gains-as-obama-sets-duties-on-steel-imports.html"><span class='headline'>U.S. Steel Gains as Obama Sets Duties on Steel Imports</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8L7N46S972M01" data-type="Story" href="/news/2014-07-12/tommy-ramone-punk-band-s-last-surviving-original-member-dies.html"><span class='headline'>Tommy Ramone, Punk Band’s Last Original Member, Dies at 62</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8JXNX6JTSES01" data-type="Story" href="/news/2014-07-11/mondelez-separation-of-cheese-and-grocery-said-to-lead-to-sale.html"><span class='headline'>Mondelez’s Cheese, Grocery Breakup Said to Lead to Sale</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8K8U66KLVRH01" data-type="Story" href="/news/2014-07-11/gutierrez-urges-obama-to-let-undocumented-immigrants-stay.html"><span class='headline'>Gutierrez Urges Obama to Let Undocumented Immigrants Stay</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8KGG46JTSEM01" data-type="Story" href="/news/2014-07-11/las-vegas-sands-sued-for-5-billion-over-trade-secrets.html"><span class='headline'>Las Vegas Sands, Adelson Face $5 Billion Macau Plan Suit</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8KAQ86KLVRB01" data-type="Story" href="/news/2014-07-11/anthrax-bird-flu-safety-breaches-shut-down-cdc-labs.html"><span class='headline'>Anthrax, Bird Flu Safety Breaches Shut Down CDC Labs</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="6f5126e0eaa80131d65d005056b05fc6" data-type="Story" href="/news/2014-07-11/give-millennials-credit-though-they-might-not-take-it-.html"><span class='headline'>The New Card Sharks: Charge It -- Then Pay It Off</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8KJF96JIJV301" data-type="Story" href="/news/2014-07-11/argentina-mediator-meets-with-government-officials-elliott.html"><span class='headline'>Argentina Mediator Meets With Government Officials, Elliott</span>
+</a></li>
+
+<li class='tout left_image_tout'>
+<a href='http://www.bloomberg.com/quicktake/discouraged-workers/'><img src='http://www.bloomberg.com/image/iX2PYwyzREHc.jpg'>Discouraged Workers: Economists Puzzle Over Labor Force Dropouts</a>
+</li>
+
+<li>
+<a class="view-headline" href="http://www.bloombergview.com/articles/2014-07-11/ritholtz-s-reads-the-app-store-and-mini-madoffs" rel="external nofollow"><span class='headline'>Ritholtz's Reads: The App Store and Mini Madoffs </span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N85C036K50XS01" data-type="Story" href="/news/2014-07-10/london-seeks-new-spenders-as-russians-skip-719-champagne.html"><span class='headline'>London Seeks New Spenders as Russians Skip $719 Champagne</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8KEXS6KLVR401" data-type="Story" href="/news/2014-07-11/england-asks-illumina-to-map-100-000-genomes.html"><span class='headline'>England Asks Illumina to Map 100,000 Genomes</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8IJO46S972L01" data-type="Story" href="/news/2014-07-10/jpmorgan-tech-executive-killed-wife-before-suicide-police-say.html"><span class='headline'>JPMorgan Tech Executive Killed Wife Before Suicide, Police Say</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="e6fca490eb3f0131db3e005056b05fc6" data-type="Story" href="/news/2014-07-11/keeping-the-world-cup-honest-referee-smartwatches-and-high-speed-cameras.html"><span class='headline'>Referee Smartwatches and High-Speed Cameras to Keep the World Cup Honest</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8K3W96K50Y701" data-type="Story" href="/news/2014-07-11/portman-weighs-filling-bush-gap-in-2016-primary-field.html"><span class='headline'>Portman Weighs Filling Bush Gap in 2016 Primary Field</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8IST76K50XS01" data-type="Story" href="/news/2014-07-10/espirito-santo-discloses-1-2-billion-euro-exposure-to-e-s-group.html"><span class='headline'>Portuguese Bank Reveals Exposure After Missed Payment Shakes Markets</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8IOAS6JIJVF01" data-type="Story" href="/news/2014-07-11/crumbs-works-to-save-cupcake-empire-after-shutting-its-stores.html"><span class='headline'>Crumbs Works to Save Cupcake Empire After Chain Shutdown</span>
+</a></li>
+
+<li>
+<a class="link" href="http://go.bloomberg.com/political-capital/2014-07-11/washington-theater-sound/" rel="external nofollow"><span class='headline'>The Texas Three-Step: This Isn't Theater. Well, It Is. Wait, It Isn't...</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8IBLF6KLVRH01" data-type="Story" href="/news/2014-07-11/air-show-to-focus-on-established-models-as-all-new-jets-sell-out.html"><span class='headline'>Farnborough Airshow Focuses on Established Planes on Backlog</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8JUWF6JTSEB01" data-type="Story" href="/news/2014-07-11/plosser-says-rate-increase-closer-thank-many-people-think.html"><span class='headline'>Fed Presidents Differ on Timetable for Raising Interest Rate</span>
+</a></li>
+
+<li class='tout marketing_tout'>
+<a href='https://login.bloomberg.com/register?pid=newsletter-share-the-view&amp;cmpid=mod_view'>Get the Bloomberg View Newsletter<span class='action'>Sign Up Now</span></a>
+</li>
+
+<li>
+<a class="icon-article-headline" data-id="N8K65Y6JTSEF01" data-type="Story" href="/news/2014-07-11/gaza-family-counts-its-dead-as-israelis-flee-rocket-attacks.html"><span class='headline'>Gaza Family Counts Its Dead as Israelis Flee Rocket Attacks</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8IBRF6KLVRW01" data-type="Story" href="/news/2014-07-10/republicans-demand-child-deportation-in-u-s-border-plan.html"><span class='headline'>House Won’t Back $3.7 Billion for Border, Rogers Says</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8JXUY6S972N01" data-type="Story" href="/news/2014-07-11/slim-s-assets-offer-suitors-rare-opening-in-mexico-real-m-a.html"><span class='headline'>Slim’s Assets Offer Suitors Rare Opening in Mexico: Real M&A</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8IKWN6KLVRG01" data-type="Story" href="/news/2014-07-11/detroit-vote-deadline-sets-stage-for-bankruptcy-showdown.html"><span class='headline'>Detroit Vote Deadline Sets Stage for Bankruptcy Showdown</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8IGN86JTSEP01" data-type="Story" href="/news/2014-07-11/james-pushes-cavs-valuation-past-billion-dollar-mark.html"><span class='headline'>James Pushes Cavs Valuation Past Billion-Dollar Mark</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8JSMW6S972F01" data-type="Story" href="/news/2014-07-11/russia-writes-off-90-of-cuba-debt-as-putin-meets-castros.html"><span class='headline'>Russia Writes Off 90% of Cuba Debt as Putin Meets Castros</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8050G6M62H101" data-type="Story" href="/news/2014-07-11/daughter-doesn-t-buy-dad-s-cheerleading-for-u-s-homeownership.html"><span class='headline'>He's the Top U.S. Mortgage Salesman. His Daughter Isn't Buying It</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="63eb5190ea990131d3eb005056b05fc6" data-type="Story" href="/news/2014-07-10/we-are-all-texans-tomorrow-1001-blistering-future-summers.html"><span class='headline'>We Are All Texans Tomorrow: 1,001 Blistering Future Summers</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8GP7F6TTDTN01" data-type="Story" href="/news/2014-07-11/u-s-said-to-set-duties-on-korean-steel-for-oil-drilling.html"><span class='headline'>U.S. Sets Duties on Korean Steel for Oil Drilling</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="33713860e9a90131ca88005056b05fc6" data-type="Story" href="/news/2014-07-09/you-want-a-raise-that-s-nice-next-.html"><span class='headline'>You Want a Raise? That’s Nice. Next!</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8I77B6K50Y801" data-type="Story" href="/news/2014-07-10/humiliated-brazil-team-must-endure-one-more-world-cup-encounter.html"><span class='headline'>Humiliated Brazilian Team to Endure One More World Cup Match</span>
+</a></li>
+
+<li class='tout sponsor'>
+<a href='http://www.bloomberg.com/ad-section/graystone/cio-trends-revealed/'><span>Brought to you by Graystone Consulting</span>CIO Trends Revealed</a>
+</li>
+
+<li>
+<a class="icon-article-headline" data-id="N8FRAO6JTSFF01" data-type="Story" href="/news/2014-07-10/german-drone-upgrade-feels-heat-of-u-s-spying-dispute.html"><span class='headline'>German Drone Upgrade Takes Heat Amid U.S. Spying Dispute</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8IA0T6K50XU01" data-type="Story" href="/news/2014-07-10/winning-world-cup-in-brazil-would-bring-double-joy-for-argentina.html"><span class='headline'>Winning World Cup in Brazil Would Bring Double Joy for Argentina</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8JZUL6JTSEN01" data-type="Story" href="/news/2014-07-11/uber-competitor-lyft-sued-by-new-york-to-halt-operations.html"><span class='headline'>Uber Competitor Lyft Delays N.Y. Start After State Sues</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8JY2C6JTSEE01" data-type="Story" href="/news/2014-07-11/notice-to-bond-buyers-we-re-all-out-of-high-grade-notes.html"><span class='headline'>Notice to Bond Buyers: We’re All Out of High-Grade Notes</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8IF5K6S972H01" data-type="Story" href="/news/2014-07-11/investors-keep-faith-in-u-s-stocks-as-dip-gives-buy-sign.html"><span class='headline'>Investors Keep Faith in U.S. Stocks as Dip Gives Buy Sign</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8JYM66S972F01" data-type="Story" href="/news/2014-07-11/shire-said-to-hold-takeover-talks-with-abbvie.html"><span class='headline'>Shire Holding Takeover Talks With AbbVie</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8IL8W6KLVR501" data-type="Story" href="/news/2014-07-10/limit-on-contracts-for-inverted-companies-wins-in-house.html"><span class='headline'>House Votes to Curb Contract Awards to U.S. Companies That Move Offshore</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8IMSS6K50Z801" data-type="Story" href="/news/2014-07-10/house-to-sue-obama-over-health-care-law-s-mandate-waiver.html"><span class='headline'>House to Sue Obama Over Health-Care Law’s Mandate Waiver</span>
+</a></li>
+
+<li>
+<a class="icon-article-headline" data-id="N8JODM6JTSET01" data-type="Story" href="/news/2014-07-11/reynolds-american-confirms-discussions-to-buy-lorillard.html"><span class='headline'>Reynolds American Confirms Discussions to Buy Lorillard</span>
+</a></li>
+
+</ul>
+
+</div>
+<script id='headlines_personalization_template' type='application/mustache'>
+<ul class='quick_list'>
+  {{#.}}
+  <li>
+    <a class="{{headlineClass}}" data-id="{{assetID}}" data-type="{{assetType}}" href="{{url}}">
+      <span class="headline">{{{headline}}}</span>
+    </a>
+  </li>
+  {{/.}}
+</ul>
+
+</script>
+</section></section>
+</section>
+</section>
+</div>
+<section class='homepage_right_rail'>
+<div id='markets_snapshot'>
+<section class='inhouse market_snapshot' data-module-name='MarketSnapshot' data-module-type='MarketSnapshot'>
+<ul class='tabs'>
+<li class='selected'>
+<a class='overview'>overview</a>
+</li>
+<li class=''>
+<a class='us'>americas</a>
+</li>
+<li class=''>
+<a class='europe'>europe</a>
+</li>
+<li class=''>
+<a class='asia'>asia</a>
+</li>
+<li class=''>
+<a class='commodities'>Commodities</a>
+</li>
+</ul>
+<ul class='tab tickers'>
+<li class='selected' data-ticker='INDU:IND'>
+<span class='name'>
+<a href="/quote/INDU:IND">DJIA</a>
+</span>
+<span class='day_change level0 up'>
+<span>+28.74</span>
+<span>+0.17%</span>
+</span>
+<span class='price'>16,943.81</span>
+</li>
+<li class='' data-ticker='SPX:IND'>
+<span class='name'>
+<a href="/quote/SPX:IND">S&amp;P 500</a>
+</span>
+<span class='day_change level1 up'>
+<span>+2.89</span>
+<span>+0.15%</span>
+</span>
+<span class='price'>1,967.57</span>
+</li>
+<li class='' data-ticker='UKX:IND'>
+<span class='name'>
+<a href="/quote/UKX:IND">FTSE 100</a>
+</span>
+<span class='day_change level2 up'>
+<span>+17.80</span>
+<span>+0.27%</span>
+</span>
+<span class='price'>6,690.17</span>
+</li>
+<li class='' data-ticker='NKY:IND'>
+<span class='name'>
+<a href="/quote/NKY:IND">Nikkei 225</a>
+</span>
+<span class='day_change down level3'>
+<span>-52</span>
+<span>-0.34%</span>
+</span>
+<span class='price'>15,164</span>
+</li>
+<li class='' data-ticker='CL1:COM'>
+<span class='name'>
+<a href="/energy/">Crude Oil (WTI)</a>
+</span>
+<span class='day_change down level4'>
+<span>-2.10</span>
+<span>-2.04%</span>
+</span>
+<span class='price'>100.83</span>
+</li>
+</ul>
+<script>
+  Bcom.MarketData["MarketSnapshot"]= {
+      selected_tab:      "overview",
+      selected_security: "INDU:IND"
+  };
+</script>
+</section>
+
+</div>
+<div id='video_player'>
+<div class='player'>
+<div id='poster_container'>
+<img class='poster_image' id='video_poster' src='http://www.bloomberg.com/image/ijOl92JUYuIg.jpg'>
+<div id='lede_video_play'></div>
+</div>
+<div id='bvp_container'></div>
+</div>
+<div class="clearfix editable" data-channel="bcom_homepage_video_module" id="video_cassette"><ul>
+<li class='default' data-id-type='BMMR' data-id='rwvk_vbdSUexl_Cd7LoI~Q' data-poster-image='http://www.bloomberg.com/image/ijOl92JUYuIg.jpg'>
+<a>Spoiler Alert: We Know the 2014 World Cup Winner</a>
+</li>
+<li data-id-type='BMMR' data-id='UhhXylimTuSucLwyCshApA' data-poster-image='http://www.bloomberg.com/image/inVZ4TAm9DsA.jpg'>
+<a>The Five Fastest Cars on the Planet</a>
+</li>
+<li data-id-type='BMMR' data-id='cbAZVZjgQAqU5olxCOs3ig' data-poster-image='http://www.bloomberg.com/image/iv_y2NPV4tVw.jpg'>
+<a>World's Largest Plane a Gravitational Marvel</a>
+</li>
+</ul>
+</div></div>
+
+<section class="live_video editable" data-channel="btv_overrides"><div id='live_tv'>
+<div class='player_container'>
+<ul class='menu tv_selections'>
+<li class='tv_channels'>
+<span class='contents'>U.S.</span>
+<ul>
+<li data-region='US'>U.S.</li>
+<li data-region='EU'>Europe</li>
+<li data-region='ASIA'>Asia</li>
+<li data-region='EVENT'>Event</li>
+</ul>
+</li>
+</ul>
+<div class='mini_player'>
+<img alt="Default livetv thumbnail" height="70" src="http://cdn.gotraffic.net/assets/default_livetv_thumbnail-41a3d9a8a619f22aa1d7c1db1fb7056f.png" width="120" />
+<div id='projector-html'>
+<!--
+<video  id='mini_bvp_container' class='video-js vjs-default-skin' controls='' preload='auto' auto-setup='true' data-setup='{"techOrder":["flash","html5"],"controls":false,"flash":{"flashVars":{"live":true,"poster_as_slate":false,"module.com.bloomberg.player.ads::AdPlayer":"enabled","module.com.bloomberg.player.ads::LiveStreamAdSensor":"enabled","ads.preroll.unit":"","ads.preroll.gpt":true,"ads.midroll.unit":"","ads.midroll.gpt":true,"ads.companions.disable":true,"ads.playback.timeout":3000,"ads.vast.timeout":3000,"ads.live.ads_per_block":3,"ads.live.playback_delay":4,"autoplay":true,"module.com.bloomberg.player.media::MediaController":"enabled","module.com.bloomberg.player.media::MediaLoader":"enabled","module.com.bloomberg.player.media::MediaContainer":"enabled","module.com.bloomberg.player.chrome::Chrome":"disabled","module.com.bloomberg.player.captions::Captions":"enabled","module.com.bloomberg.player.js::JsMediaController":"enabled","module.com.bloomberg.player.js::EventBridge":"enabled","module.com.bloomberg.player.js::UserPreferencesStore":"enabled","module.com.bloomberg.player.reporting::ConvivaInsights":"enabled","log.*.debug":true,"js.events.callback":"onPlayerEvent","js.playback.callback":"onPlaybackStatusChange","ui.autohide.timeout":2000,"controls.popout":true,"controls.fullscreen":true,"allow_dvr":false,"ads.preroll.network.id":5262,"ads.midroll.network.id":5262,"conviva.account":"c3.Bloomberg","ui.skin.url":"http://cdn.gotraffic.net/projector/latest/skin.png","buffering.animation":"http://cdn.gotraffic.net/projector/latest/buffering-animation.gif","poster":"http://www.bloomberg.com/image/iUFlwtQzdxWE.jpg"},"params":{"allowfullscreen":true,"quality":"high","bgcolor":"#000000","allowscriptaccess":"always","wmode":"transparent"},"swf":"http://cdn.gotraffic.net/projector/latest/BloombergPlayer.swf"},"start_time":0,"plugins":{"comscoreMatrixPlugin":{"c3":"BBG"},"comscoreStreamSensePlugin":{"ns_site":"bloomberg","page_level_tags":"javascript:comScoreVideoTags","c4":"BBG","c5":"02"},"liveDisplayPlugin":{"enabled":true},"overlayPlugin":{"enabled":false},"childVideoPlugin":{"enabled":false},"adClickPlugin":{},"chartbeatPlugin":{"uid":15087,"domain":"bloomberg.com"}},"use_comscore":true,"use_clickable_ads":true,"use_thumbnail":111011423,"use_chartbeat":true,"limit_html_player_to":"","asset_protocol":"http","asset_version":"latest","width":70,"height":120,"metadata":{"id":"LIVE_US_MINI","title":"LIVE_US_MINI","live":1,"form_type":"Live US Mini","version":"latest"}}' width='70' height='120' poster='http://www.bloomberg.com/image/iUFlwtQzdxWE.jpg' style=' ' ><source src="http://cdn3.videos.bloomberg.com/btv/us/master.m3u8" type="application/x-mpegURL" data-bitrate=""/><source src="http://blive_us-lh.akamaihd.net/z/us_1@141015/manifest.f4m?hdcore=1" type="video/mp4" data-bitrate=""/></video>
+-->
+</div>
+<div class='click-overlay'>Click to watch</div>
+<div class='defer-overlay'>
+<div class='defer-overlay-icon'></div>
+</div>
+<script>
+  window.BcomServerVars = window.BcomServerVars || {};
+  (function(h){
+    h.btvAllUsersToTvPage = false
+    h.btvMobileUsersToTvPage = false && window.BB.isMobile();
+    h.miniBtvClickToStart = false || h.btvMobileUsersToTvPage;
+    h.projectorCssJs = ["http://cdn.gotraffic.net/projector/latest/bvp.css", "http://cdn.gotraffic.net/projector/latest/video.js"];
+    if (h.miniBtvClickToStart)
+      $('.click-overlay').addClass('defer');
+  })(window.BcomServerVars);
+</script>
+</div>
+
+</div>
+<div class='title_container'>
+<div class='on_btv_now'>On Live TV Now</div>
+<div class='current_show_title'>Political Capital with Al Hunt</div>
+</div>
+</div>
+</section>
+<div class='right_rail_primary_top'>
+<div class='right_rail_primary content_panel'>
+<div class='right_rail_primary_shadow'>
+<div class='ad_medium'>
+<div class="bcom_ad right2 " lazy_load="false"><div bcom-ad-code="blp.home/index" bcom-ad-position="right2" bcom-ad-sizes="[[300, 600], [300, 250], [1, 1]]" bcom-ad-url="/" class="ad_inner_container" id="ad-right2"><script>
+//<![CDATA[
+Bcom.Ads.render("ad-right2");
+//]]>
+</script></div></div>
+
+</div>
+<script id='video_panel_personalization_template' type='application/mustache'>
+{{#.}}
+<article>
+  <a href="{{url}}">
+    <img src="http://www.bloomberg.com/image/{{thumbnailID}}.jpg" height="80" width="140">
+  </a>
+  <p>
+    <a href="{{url}}" data-id="{{assetID}}" data-type="{{assetType}}">{{{headline}}}</a>
+  </p>
+</article>
+{{/.}}
+
+</script>
+<div class="more_video editable" data-channel="bcom_homepage_video_editors_picks"><div class='more_video_list clearfix'>
+<h4>Top Video</h4>
+<div class='videos_contain'>
+<article>
+<a href="http://www.bloomberg.com/video/what-is-lebron-james-worth-to-the-cleveland-cavs-JfxZJ3s7RGGDR0MZ5PMYZQ.html"><img alt="July 11 (Bloomberg) -- LeBron James’s return to the Cleveland Cavaliers made his new team the betting favorite to win next season’s National Basketball Association title, and helped his old one set a record. Scott Soshnick has more on &quot;Street Smart.&quot; (Source: Bloomberg)" class="lazy" data-src="http://www.bloomberg.com/image/iiQVaz8fA_y0.jpg" height="80" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="140" />
+</a><p>
+<a data-id="JfxZJ3s7RGGDR0MZ5PMYZQ" data-type="Video" href="http://www.bloomberg.com/video/what-is-lebron-james-worth-to-the-cleveland-cavs-JfxZJ3s7RGGDR0MZ5PMYZQ.html">What Is LeBron James Worth to the Cleveland Cavs?</a>
+</p>
+</article>
+<article>
+<a href="http://www.bloomberg.com/video/inside-disney-s-virtual-playground-for-fantasies-uzVLE8wsQcqmDn6xgNLf7A.html"><img alt="July 11 (Bloomberg) -- Walt Disney Imagineering helps bring Disney&#39;s ambitious park ideas to life, including the New Fantasyland expansion at Walt Disney World. Bloomberg&#39;s Jon Erlichman checks out WDI&#39;s innovative approach. (Source: Bloomberg)" class="lazy" data-src="http://www.bloomberg.com/image/i6S.ybyPUixo.jpg" height="80" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="140" />
+</a><p>
+<a data-id="uzVLE8wsQcqmDn6xgNLf7A" data-type="Video" href="http://www.bloomberg.com/video/inside-disney-s-virtual-playground-for-fantasies-uzVLE8wsQcqmDn6xgNLf7A.html">Inside Disney's Virtual Playground for Fantasies</a>
+</p>
+</article>
+<article>
+<a href="http://www.bloomberg.com/video/five-of-the-most-bizarre-airbnb-rental-listings-JBP78SOhSa6ywkmWGDHTZA.html"><img alt="July 10 (Bloomberg) –- Airbnb, the poster child of the sharing economy, is planning a big brand announcement on July 16th. As this hotel disrupting business continues to grow, so are the number of homes people are willing to offer. Bloomberg RANX takes a look at five of the most bizarre listings currently available on Airbnb. (Source: Bloomberg)" class="lazy" data-src="http://www.bloomberg.com/image/i0CDKKLcYhq8.jpg" height="80" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="140" />
+</a><p>
+<a data-id="JBP78SOhSa6ywkmWGDHTZA" data-type="Video" href="http://www.bloomberg.com/video/five-of-the-most-bizarre-airbnb-rental-listings-JBP78SOhSa6ywkmWGDHTZA.html">Five of the Most Bizarre Airbnb Rental Listings</a>
+</p>
+</article>
+<article>
+<a href="http://www.bloomberg.com/video/the-gold-fix-time-to-hang-up-this-phone-call-XOnoaJUaQySbfZZd5urD8A.html"><img alt="July 8 (Bloomberg) –- The World Gold Council is meeting today to try and come up with a new way of pricing the commodity. It comes as the London Bullion Market Association prepares to announce their plans to change the way silver is priced. Bloomberg&#39;s Jessica Howard reports. (Source: Bloomberg)" class="lazy" data-src="http://www.bloomberg.com/image/iA2ascgOVvqA.jpg" height="80" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="140" />
+</a><p>
+<a data-id="XOnoaJUaQySbfZZd5urD8A" data-type="Video" href="http://www.bloomberg.com/video/the-gold-fix-time-to-hang-up-this-phone-call-XOnoaJUaQySbfZZd5urD8A.html">The Gold Fix: Can Benchmark Price Be Manipulated?</a>
+</p>
+</article>
+<article>
+<a href="http://www.bloomberg.com/video/sec-halts-trading-in-cynk-technology-XWYIxkWwT66Hstp9WjpEcg.html"><img alt="July 11 (Bloomberg) -- Cynk Technology Corp., the supposed operator of a social network that caught the attention of the financial world with its skyrocketing stock price, was suspended from trading by the U.S. Securities and Exchange Commission. Julie Hyman reports on  “Market Makers.”  (Source: Bloomberg)" class="lazy" data-src="http://www.bloomberg.com/image/iztdljIKltfY.jpg" height="80" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="140" />
+</a><p>
+<a data-id="XWYIxkWwT66Hstp9WjpEcg" data-type="Video" href="http://www.bloomberg.com/video/sec-halts-trading-in-cynk-technology-XWYIxkWwT66Hstp9WjpEcg.html">SEC Halts Trading in Cynk Technology</a>
+</p>
+</article>
+<article>
+<a href="http://www.bloomberg.com/video/spoiler-alert-we-know-the-2014-world-cup-winner-rwvk_vbdSUexl_Cd7LoI~Q.html"><img alt="July 10 (Bloomberg) -- Germany takes on Argentina in the final game of the month-long World Cup. But you do not have to wait until Sunday to find out who the winner is. We already know who won it. Bloomberg Businessweek&#39;s Brendan Greeley explains. Video by: Alyssa Zahler, David Yim. (Source: Bloomberg)" class="lazy" data-src="http://www.bloomberg.com/image/inPagvW0iSqE.jpg" height="80" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="140" />
+</a><p>
+<a data-id="rwvk_vbdSUexl_Cd7LoI~Q" data-type="Video" href="http://www.bloomberg.com/video/spoiler-alert-we-know-the-2014-world-cup-winner-rwvk_vbdSUexl_Cd7LoI~Q.html">Spoiler Alert: We Know the 2014 World Cup Winner</a>
+</p>
+</article>
+<article>
+<a href="http://www.bloomberg.com/video/uberx-vs-nyc-taxi-testing-which-is-really-cheaper-miyH3dcbQk2fDUHy9JyfaA.html"><img alt="July 8 (Bloomberg) –- Taxi cabs are part of the iconic New York landscape, but is Uber about to change that? The company says they&#39;ve lowered UberX fares by 20%, making them cheaper than a cab. But is it true? Bloomberg sent two interns on a race around town to find out which is less expensive. Video by: Sadie Bass, Justin Beach. (Source: Bloomberg)" class="lazy" data-src="http://www.bloomberg.com/image/i6ltHvhuYeT4.jpg" height="80" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="140" />
+</a><p>
+<a data-id="miyH3dcbQk2fDUHy9JyfaA" data-type="Video" href="http://www.bloomberg.com/video/uberx-vs-nyc-taxi-testing-which-is-really-cheaper-miyH3dcbQk2fDUHy9JyfaA.html">UberX vs. NYC Taxi: Testing Which Is Really Cheaper</a>
+</p>
+</article>
+<article>
+<a href="http://www.bloomberg.com/video/-100m-historic-estate-for-sale-owner-included-ryX2m13qQui0C_1LXWfr8g.html"><img alt="July 11 (Bloomberg) –- The de Guigne estate has been in the family for 150 years. Now Christian de Guigne IV is looking to sell the 47-acre property located between San Francisco and Silicon Valley for a staggering $100 million. There&#39;s a catch though -- the future buyer won&#39;t be able to move in until de Guigne dies. (Source: Bloomberg)" class="lazy" data-src="http://www.bloomberg.com/image/iyOcbCXcLZQw.jpg" height="80" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="140" />
+</a><p>
+<a data-id="ryX2m13qQui0C_1LXWfr8g" data-type="Video" href="http://www.bloomberg.com/video/-100m-historic-estate-for-sale-owner-included-ryX2m13qQui0C_1LXWfr8g.html">$100M Historic Estate For Sale, Owner Included</a>
+</p>
+</article>
+<article>
+<a href="http://www.bloomberg.com/video/eat-like-a-champion-the-pro-cyclist-diet-cc5shRKcSsu6Jlq5PVQUMw.html"><img alt="July 9 (Bloomberg) –- When a pro cyclist travels the Tour de France they need to fuel up to maintain performance. If you&#39;re a weekend rider or a commuter pay attention--Bloomberg&#39;s Ryan Chilcote met Alberto Contador&#39;s team chef to pick up some vital ingredients to the perfect cycling dinner. (Source: Bloomberg)" class="lazy" data-src="http://www.bloomberg.com/image/ip373d4SiY50.jpg" height="80" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="140" />
+</a><p>
+<a data-id="cc5shRKcSsu6Jlq5PVQUMw" data-type="Video" href="http://www.bloomberg.com/video/eat-like-a-champion-the-pro-cyclist-diet-cc5shRKcSsu6Jlq5PVQUMw.html">Eat Like a Champion: The Pro-Cyclist Diet</a>
+</p>
+</article>
+<article>
+<a href="http://www.bloomberg.com/video/the-five-fastest-cars-on-the-planet-UhhXylimTuSucLwyCshApA.html"><img alt="July 11 (Bloomberg) –- Supercars have a lot going for them - from lighting quick acceleration to staggering horsepower - but no spec is quite as impressive as top speed. Bloomberg RANX lists the five fastest production cars on the planet. (Source: Bloomberg)" class="lazy" data-src="http://www.bloomberg.com/image/imn4tftlOP5s.jpg" height="80" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="140" />
+</a><p>
+<a data-id="UhhXylimTuSucLwyCshApA" data-type="Video" href="http://www.bloomberg.com/video/the-five-fastest-cars-on-the-planet-UhhXylimTuSucLwyCshApA.html">The Five Fastest Cars on the Planet</a>
+</p>
+</article>
+<article>
+<a href="http://www.bloomberg.com/video/how-to-make-millions-and-run-a-pro-cycling-team-EYhrGGXpTMagf6mGqfy5pw.html"><img alt="July 7 (Bloomberg) –- An exclusive look behind the scenes with one of pro cycling&#39;s top teams, Tinkoff-Saxo, as they prepare for the Tour De France.  Owner Oleg Tinkov, who made his fortune selling beer, dumplings and credit cards, is one of its driving forces. (Source: Bloomberg)" class="lazy" data-src="http://www.bloomberg.com/image/ibdkVz6gLjR0.jpg" height="80" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="140" />
+</a><p>
+<a data-id="EYhrGGXpTMagf6mGqfy5pw" data-type="Video" href="http://www.bloomberg.com/video/how-to-make-millions-and-run-a-pro-cycling-team-EYhrGGXpTMagf6mGqfy5pw.html">How to Make Millions and Run a Pro Cycling Team</a>
+</p>
+</article>
+<article>
+<a href="http://www.bloomberg.com/video/porsche-macan-suburban-dad-s-review-of-compact-suv-8LpRaI6~TWWNWyMUMfwzjg.html"><img alt="July 10 (Bloomberg) –- Is the new Porsche Macan a Porsche 911 on steroids? It&#39;s small enough for city streets and big enough to drive your kids all over town. It is the first compact SUV in the luxury automaker&#39;s lineup. Starting at just under $50,000, the car comes standard with 340 horsepower. Bloomberg Businessweek&#39;s Sam Grobart (and suburban dad) took the car for a test drive. Video by: Alyssa Zahler, Victoria Blackburne-Daniell. (Source: Bloomberg)" class="lazy" data-src="http://www.bloomberg.com/image/imVF_rM.6q_g.jpg" height="80" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="140" />
+</a><p>
+<a data-id="8LpRaI6~TWWNWyMUMfwzjg" data-type="Video" href="http://www.bloomberg.com/video/porsche-macan-suburban-dad-s-review-of-compact-suv-8LpRaI6~TWWNWyMUMfwzjg.html">Porsche Macan: Suburban Dad's Review of Compact SUV</a>
+</p>
+</article>
+<article>
+<a href="http://www.bloomberg.com/video/the-big-squeeze-why-are-lime-prices-so-erratic-COPDB9NCQdWWNJtS8EDAoQ.html"><img alt="July 10 (Bloomberg) –- This spring, the price of limes skyrocketed, upsetting margarita lovers across
+the country. But recently, lime prices have dropped back down to more reasonable rates. Bloomberg Businessweek&#39;s Brendan Greeley gets to the root of these erratic prices and explains why the cycle is likely to continue for the forseeable future. Video by: Jennafer Savino. (Source: Bloomberg)" class="lazy" data-src="http://www.bloomberg.com/image/iAPsZyKaIp04.jpg" height="80" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="140" />
+</a><p>
+<a data-id="COPDB9NCQdWWNJtS8EDAoQ" data-type="Video" href="http://www.bloomberg.com/video/the-big-squeeze-why-are-lime-prices-so-erratic-COPDB9NCQdWWNJtS8EDAoQ.html">The Big Squeeze: Why Are Lime Prices So Erratic?</a>
+</p>
+</article>
+<article>
+<a href="http://www.bloomberg.com/video/is-ackman-right-following-the-herbalife-claims-PZ~bhTNYRuSWUeJQ9eFSJw.html"><img alt="July 7 (Bloomberg) –- We&#39;ve heard time and time again claims from Bill Ackman that Herbalife is a pyramid scheme, while the company and Carl Ichan say those claims are without merit. In March, the FTC opened an investigation and the Illinois Attorney General has been looking into complaints filed by a group of 13 Latinos who claim they were duped out of their life&#39;s savings and Herbalife is to blame. Bloomberg has been looking into those claims to get a sense of what investigators have cut out for them. (Source: Bloomberg)" class="lazy" data-src="http://www.bloomberg.com/image/iH9eh8nqW1ig.jpg" height="80" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="140" />
+</a><p>
+<a data-id="PZ~bhTNYRuSWUeJQ9eFSJw" data-type="Video" href="http://www.bloomberg.com/video/is-ackman-right-following-the-herbalife-claims-PZ~bhTNYRuSWUeJQ9eFSJw.html">Is Ackman Right? Following the Herbalife Claims</a>
+</p>
+</article>
+<article>
+<a href="http://www.bloomberg.com/video/green-sriracha-new-hot-sauce-heats-up-spice-market-m79yYHemR7y3Vz1h04OdeQ.html"><img alt="July 9 (Bloomberg) –- Sriracha, the popular hot sauce, doesn’t just come in fire-truck red anymore: a new version of the sauce, made by New York-based Musashi Foods, comes in forest green. Musashi owner Gideon Sarraf gives Bloomberg an exclusive look at his colorful new product. Video by: Alan Jeffries, Amy Marino. (Source: Bloomberg)" class="lazy" data-src="http://www.bloomberg.com/image/ivf6myr3kF5g.jpg" height="80" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="140" />
+</a><p>
+<a data-id="m79yYHemR7y3Vz1h04OdeQ" data-type="Video" href="http://www.bloomberg.com/video/green-sriracha-new-hot-sauce-heats-up-spice-market-m79yYHemR7y3Vz1h04OdeQ.html">Green Sriracha: New Hot Sauce Heats Up Spice Market</a>
+</p>
+</article>
+<article>
+<a href="http://www.bloomberg.com/video/audi-vs-mercedes-luxury-vehicles-go-budget-ezzAvn_fTZmnXxv9GcOQew.html"><img alt="July 9 (Bloomberg) -- Kelley Blue Book&#39;s Matt Degen and Bloomberg&#39;s Mark Clothier discuss Audi closing in on Mercedes-Benz in the small but crucial market for premium cars priced that start below $30,000. They speak with Trish Regan on &quot;Street Smart.&quot; (Source: Bloomberg)" class="lazy" data-src="http://www.bloomberg.com/image/iKVcaQjnTYuk.jpg" height="80" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="140" />
+</a><p>
+<a data-id="ezzAvn_fTZmnXxv9GcOQew" data-type="Video" href="http://www.bloomberg.com/video/audi-vs-mercedes-luxury-vehicles-go-budget-ezzAvn_fTZmnXxv9GcOQew.html">Audi vs. Mercedes: Luxury Vehicles Go Budget</a>
+</p>
+</article>
+<article>
+<a href="http://www.bloomberg.com/video/new-mega-warship-is-the-biggest-uk-has-ever-built-CHChAGa4TaakN3XVM_wSFQ.html"><img alt="July 7 (Bloomberg) –- Britain once ruled the seas with a navy that had global dominance and influence. While those days are now long gone, the UK is set to re-establish some naval power with a newly launched and special aircraft carrier. Tom Gibson
+reports. (Source: Bloomberg)" class="lazy" data-src="http://www.bloomberg.com/image/iBKH1S7GPEts.jpg" height="80" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="140" />
+</a><p>
+<a data-id="CHChAGa4TaakN3XVM_wSFQ" data-type="Video" href="http://www.bloomberg.com/video/new-mega-warship-is-the-biggest-uk-has-ever-built-CHChAGa4TaakN3XVM_wSFQ.html">New Mega Warship Is the Biggest UK Has Ever Built</a>
+</p>
+</article>
+<article>
+<a href="http://www.bloomberg.com/video/world-s-largest-plane-defies-the-laws-of-physics-cbAZVZjgQAqU5olxCOs3ig.html"><img alt="July 8 (Bloomberg) –- The Antonov-225 Mriya is 275-feet long and has a wingspan the size of a football field. The Mriya attracted hundreds of spectators when it made an appearance in Minneapolis last week. Its load from Minnesota was reportedly air-conditioning units destined for the Middle East. Video by: Kelly Buzby, Victoria Blackburne-Daniel (Source: Bloomberg)" class="lazy" data-src="http://www.bloomberg.com/image/iQYP5BYmvRmc.jpg" height="80" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="140" />
+</a><p>
+<a data-id="cbAZVZjgQAqU5olxCOs3ig" data-type="Video" href="http://www.bloomberg.com/video/world-s-largest-plane-defies-the-laws-of-physics-cbAZVZjgQAqU5olxCOs3ig.html">World's Largest Plane a Gravitational Marvel</a>
+</p>
+</article>
+<article>
+<a href="http://www.bloomberg.com/video/mercedes-is-building-1-million-rolls-royce-killer-G3jyLXvCTw6PZ9dHavN5lw.html"><img alt="July 7 (Bloomberg) –- Mercedes is bringing back the Pullman version of its top of the line S-Class. The new Mercedes Pullman is plated with protective armor and costs over $1 million dollars -- more than twice the price of the most expensive Rolls-Royce.
+Bloomberg&#39;s Matt Miller takes a look at why Mercedes is building a luxury sedan aimed at royalty and the ridiculously rich. Video by: Kelly Buzby and Justin Beach (Source: Bloomberg)" class="lazy" data-src="http://www.bloomberg.com/image/iKzF5idnmsh4.jpg" height="80" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="140" />
+</a><p>
+<a data-id="G3jyLXvCTw6PZ9dHavN5lw" data-type="Video" href="http://www.bloomberg.com/video/mercedes-is-building-1-million-rolls-royce-killer-G3jyLXvCTw6PZ9dHavN5lw.html">Mercedes Is Building $1 Million Rolls-Royce Killer</a>
+</p>
+</article>
+<article>
+<a href="http://www.bloomberg.com/video/here-s-a-fashionable-swiss-made-wearable-smartwatch-Ad8c~hHkQYmMkY9XMSTEXA.html"><img alt="July 9 (Bloomberg) -- Withings CEO Cedric Hutchings weighs in on the future and fashion of wearable computing and discusses the company’s health products on “Market Makers.”    (Source: Bloomberg)" class="lazy" data-src="http://www.bloomberg.com/image/irl2MQVfxk5k.jpg" height="80" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="140" />
+</a><p>
+<a data-id="Ad8c~hHkQYmMkY9XMSTEXA" data-type="Video" href="http://www.bloomberg.com/video/here-s-a-fashionable-swiss-made-wearable-smartwatch-Ad8c~hHkQYmMkY9XMSTEXA.html">Here’s a Fashionable Swiss-Made Smartwatch</a>
+</p>
+</article>
+<article>
+<a href="http://www.bloomberg.com/video/four-of-the-most-expensive-toys-for-billionaires-frpqZnCzRq2x~pOBqHfJKw.html"><img alt="July 8 (Bloomberg) –- In today&#39;s world of excess, the richest of the rich desire the priciest toys they can find. The wheels, wings and engines of the uber-rich comes at a cost. Bloomberg Ranx looks at how the 1% chooses to get around. Video by: Victoria Blackburne-Daniell, Henry Bernstein. (Source: Bloomberg)" class="lazy" data-src="http://www.bloomberg.com/image/i4KaCKrC7NM8.jpg" height="80" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="140" />
+</a><p>
+<a data-id="frpqZnCzRq2x~pOBqHfJKw" data-type="Video" href="http://www.bloomberg.com/video/four-of-the-most-expensive-toys-for-billionaires-frpqZnCzRq2x~pOBqHfJKw.html">Four of the Most Expensive Toys for Billionaires</a>
+</p>
+</article>
+</div>
+</div>
+
+</div></div>
+</div>
+</div>
+
+<section class='right_rail_secondary content_panel'>
+<section class='right_rail_secondary_shadow'>
+<section class='right_rail_dataviz'>
+<div class="datavis_list editable" data-channel="bcom_homepage_right_rail_dataviz"><div class='contain'>
+<h4>VISUAL DATA</h4>
+<div class='dataviz_touts_contain article_contain'>
+<article>
+<a href="http://www.bloomberg.com/infographics/2014-04-02/yellens-labor-market-dashboard.html"><img alt="Yellen’s Labor Market Dashboard" class="lazy" data-src="http://www.bloomberg.com/image/iaFWyvi.yc1c.jpg" height="76" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="150" />
+</a><p>
+<a href="http://www.bloomberg.com/infographics/2014-04-02/yellens-labor-market-dashboard.html">Yellen’s Labor Market Dashboard</a>
+</p>
+</article>
+
+<article>
+<a href="http://www.bloomberg.com/infographics/2014-06-25/tracking-isil-occupation-in-syria-and-iraq.html"><img alt="Tracking Islamic State Militants in Syria and Iraq" class="lazy" data-src="http://www.bloomberg.com/image/ihKXgDxQJzk8.png" height="76" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="150" />
+</a><p>
+<a href="http://www.bloomberg.com/infographics/2014-06-25/tracking-isil-occupation-in-syria-and-iraq.html">Tracking Islamic State Militants in Syria and Iraq</a>
+</p>
+</article>
+
+<article>
+<a href="http://www.bloomberg.com/visual-data/world-cup/#0,0,-1"><img alt="World Cup 2014: Predictions &amp; Results" class="lazy" data-src="http://www.bloomberg.com/image/iMpTIVKn1a20.png" height="76" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="150" />
+</a><p>
+<a href="http://www.bloomberg.com/visual-data/world-cup/#0,0,-1">World Cup 2014: Predictions &amp; Results</a>
+</p>
+</article>
+
+<article class='hide_missing_ad'>
+<div class="bcom_ad slider " lazy_load="false"><div bcom-ad-code="blp.home/index" bcom-ad-position="slider" bcom-ad-sizes="[150, 150]" bcom-ad-url="/" class="ad_inner_container" id="ad-slider"><script>
+//<![CDATA[
+Bcom.Ads.render("ad-slider");
+//]]>
+</script></div></div>
+</article>
+
+<article>
+<a href="http://www.bloomberg.com/infographics/2013-03-25/supreme-court-weighs-same-sex-marriage.html"><img alt="The Shifting Landscape of State Same-Sex Marriage Laws" class="lazy" data-src="http://www.bloomberg.com/image/iA9vElk7oLi0.png" height="76" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="150" />
+</a><p>
+<a href="http://www.bloomberg.com/infographics/2013-03-25/supreme-court-weighs-same-sex-marriage.html">The Shifting Landscape of State Same-Sex Marriage Laws</a>
+</p>
+</article>
+
+<article>
+<a href="http://www.bloomberg.com/infographics/2014-06-25/car-thefts-2013.html"><img alt="Car Thefts Across the Country" class="lazy" data-src="http://www.bloomberg.com/image/itRL59aw27Hk.jpg" height="76" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="150" />
+</a><p>
+<a href="http://www.bloomberg.com/infographics/2014-06-25/car-thefts-2013.html">Car Thefts Across the Country</a>
+</p>
+</article>
+
+<article>
+<a href="http://www.bloomberg.com/infographics/2014-06-12/solar-storm-damage-could-top-one-trillion-dollars.html"><img alt="Solar Storm Damage Could Top $2 Trillion" class="lazy" data-src="http://www.bloomberg.com/image/iyy1gOiSJdb0.jpg" height="76" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="150" />
+</a><p>
+<a href="http://www.bloomberg.com/infographics/2014-06-12/solar-storm-damage-could-top-one-trillion-dollars.html">Solar Storm Damage Could Top $2 Trillion</a>
+</p>
+</article>
+
+<article>
+<a href="http://www.bloomberg.com/infographics/2014-06-19/southwest-ups-airliners-aid-in-weather-forecasting-revolution.html"><img alt="Planes Aid in Weather Forecasting Revolution" class="lazy" data-src="http://www.bloomberg.com/image/iQaM0BYzRcE4.png" height="76" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="150" />
+</a><p>
+<a href="http://www.bloomberg.com/infographics/2014-06-19/southwest-ups-airliners-aid-in-weather-forecasting-revolution.html">Planes Aid in Weather Forecasting Revolution</a>
+</p>
+</article>
+
+<article>
+<a href="http://www.bloomberg.com/infographics/2014-06-11/national-poll.html"><img alt="Bloomberg U.S. National Poll: Obama Hits Low" class="lazy" data-src="http://www.bloomberg.com/image/i8MHUHAzw5fs.jpg" height="76" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="150" />
+</a><p>
+<a href="http://www.bloomberg.com/infographics/2014-06-11/national-poll.html">Bloomberg U.S. National Poll: Obama Hits Low</a>
+</p>
+</article>
+
+<article>
+<a href="http://www.bloomberg.com/infographics/2014-06-11/nike-tops-adidas-puma-in-world-cup-jersey-fight.html"><img alt="Nike Tops Adidas, Puma in World Cup Jersey Fight" class="lazy" data-src="http://www.bloomberg.com/image/ibi8znlRma30.png" height="76" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="150" />
+</a><p>
+<a href="http://www.bloomberg.com/infographics/2014-06-11/nike-tops-adidas-puma-in-world-cup-jersey-fight.html">Nike Tops Adidas, Puma in World Cup Jersey Fight</a>
+</p>
+</article>
+
+<article>
+<a href="http://www.bloomberg.com/infographics/2014-06-12/guardrail-design-lawsuit.html"><img alt="Lawsuit Alleges Deadly Guardrail Secret" class="lazy" data-src="http://www.bloomberg.com/image/ikcQy.xT6EKw.png" height="76" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="150" />
+</a><p>
+<a href="http://www.bloomberg.com/infographics/2014-06-12/guardrail-design-lawsuit.html">Lawsuit Alleges Deadly Guardrail Secret</a>
+</p>
+</article>
+
+<article>
+<a href="http://www.bloomberg.com/infographics/2014-06-06/biggest-overachievers-in-the-world-cup.html"><img alt="Biggest Overachievers in the World Cup" class="lazy" data-src="http://www.bloomberg.com/image/ix2cFhjayEDk.jpg" height="76" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="150" />
+</a><p>
+<a href="http://www.bloomberg.com/infographics/2014-06-06/biggest-overachievers-in-the-world-cup.html">Biggest Overachievers in the World Cup</a>
+</p>
+</article>
+
+<article>
+<a href="http://www.bloomberg.com/visual-data/gas-prices/"><img alt="Pain at the Pump: Gasoline Prices by Country" class="lazy" data-src="http://www.bloomberg.com/image/izWpPDNtfRqI.jpg" height="76" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="150" />
+</a><p>
+<a href="http://www.bloomberg.com/visual-data/gas-prices/">Pain at the Pump: Gasoline Prices by Country</a>
+</p>
+</article>
+
+<article>
+<a href="http://www.bloomberg.com/infographics/2014-06-11/detroit-trouble-starts-before-birth.html"><img alt="In Detroit, Trouble Starts Before Birth" class="lazy" data-src="http://www.bloomberg.com/image/iW.22DNu3r70.png" height="76" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="150" />
+</a><p>
+<a href="http://www.bloomberg.com/infographics/2014-06-11/detroit-trouble-starts-before-birth.html">In Detroit, Trouble Starts Before Birth</a>
+</p>
+</article>
+
+<article>
+<a href="http://www.bloomberg.com/infographics/2014-06-05/obama-punishes-banks-for-violating-sanctions.html"><img alt="Obama Punishes Banks for Violating Sanctions" class="lazy" data-src="http://www.bloomberg.com/image/iVrY7WqEKsio.png" height="76" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="150" />
+</a><p>
+<a href="http://www.bloomberg.com/infographics/2014-06-05/obama-punishes-banks-for-violating-sanctions.html">Obama Punishes Banks for Violating Sanctions</a>
+</p>
+</article>
+
+<article>
+<a href="http://www.bloomberg.com/infographics/2014-06-06/us-carbon-emissions-by-state.html"><img alt="Top U.S. Carbon Emitters" class="lazy" data-src="http://www.bloomberg.com/image/i1edUKNmHyx4.jpg" height="76" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="150" />
+</a><p>
+<a href="http://www.bloomberg.com/infographics/2014-06-06/us-carbon-emissions-by-state.html">Top U.S. Carbon Emitters</a>
+</p>
+</article>
+
+<article>
+<a href="http://www.bloomberg.com/infographics/2014-05-22/bubble-states-get-underemployment.html"><img alt="Bubble States Have Underemployment Hangover" class="lazy" data-src="http://www.bloomberg.com/image/iTm6NSF.qWr0.jpg" height="76" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="150" />
+</a><p>
+<a href="http://www.bloomberg.com/infographics/2014-05-22/bubble-states-get-underemployment.html">Bubble States Have Underemployment Hangover</a>
+</p>
+</article>
+
+<article>
+<a href="http://www.bloomberg.com/infographics/2014-05-12/income-inequality-map.html"><img alt="Income Inequality by Congressional District" class="lazy" data-src="http://www.bloomberg.com/image/iWauUM_6uqh8.jpg" height="76" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="150" />
+</a><p>
+<a href="http://www.bloomberg.com/infographics/2014-05-12/income-inequality-map.html">Income Inequality by Congressional District</a>
+</p>
+</article>
+
+<article>
+<a href="http://www.bloomberg.com/infographics/2014-05-05/americans-raid-their-401k-piggy-banks.html"><img alt="America&#39;s New Piggy Bank" class="lazy" data-src="http://www.bloomberg.com/image/ib2eCG2sGYoA.jpg" height="76" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="150" />
+</a><p>
+<a href="http://www.bloomberg.com/infographics/2014-05-05/americans-raid-their-401k-piggy-banks.html">America&#39;s New Piggy Bank</a>
+</p>
+</article>
+
+<article>
+<a href="http://www.bloomberg.com/infographics/2014-05-04/companies-shift-addresses-abroad.html"><img alt="Companies That Shift Addresses to Tax Havens" class="lazy" data-src="http://www.bloomberg.com/image/iLFuoq_ecv8o.png" height="76" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="150" />
+</a><p>
+<a href="http://www.bloomberg.com/infographics/2014-05-04/companies-shift-addresses-abroad.html">Companies That Shift Addresses to Tax Havens</a>
+</p>
+</article>
+
+<article>
+<a href="http://www.bloomberg.com/dataview/2014-04-17/how-americans-die.html"><img alt="How Americans Die" class="lazy" data-src="http://www.bloomberg.com/image/iukAQgSSkV.s.png" height="76" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="150" />
+</a><p>
+<a href="http://www.bloomberg.com/dataview/2014-04-17/how-americans-die.html">How Americans Die</a>
+</p>
+</article>
+
+<article>
+<a href="http://www.bloomberg.com/billionaires/"><img alt="Bloomberg Billionaires" class="lazy" data-src="http://www.bloomberg.com/image/itZ06MAAdlPg.jpg" height="76" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="150" />
+</a><p>
+<a href="http://www.bloomberg.com/billionaires/">Bloomberg Billionaires</a>
+</p>
+</article>
+
+<article>
+<a href="http://www.bloomberg.com/visual-data/industries/"><img alt="Industry Leaderboard" class="lazy" data-src="http://www.bloomberg.com/image/i2hlqalEUwx0.jpg" height="76" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="150" />
+</a><p>
+<a href="http://www.bloomberg.com/visual-data/industries/">Industry Leaderboard</a>
+</p>
+</article>
+
+<article>
+<a href="http://www.bloomberg.com/visual-data/best-and-worst/"><img alt="Bloomberg Best (and Worst)" class="lazy" data-src="http://www.bloomberg.com/image/iLkRi0Uu0OV0.jpg" height="76" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="150" />
+</a><p>
+<a href="http://www.bloomberg.com/visual-data/best-and-worst/">Bloomberg Best (and Worst)</a>
+</p>
+</article>
+
+<article>
+<a href="http://www.bloomberg.com/visual-data/state-by-state/"><img alt="U.S. Economy &amp; Politics: State by State" class="lazy" data-src="http://www.bloomberg.com/image/iQ4QrX7C8wzU.jpg" height="76" src="http://cdn.gotraffic.net/assets/1x1-6ca3bc23dc20bc7ed1b8526825a83651.png" width="150" />
+</a><p>
+<a href="http://www.bloomberg.com/visual-data/state-by-state/">U.S. Economy &amp; Politics: State by State</a>
+</p>
+</article>
+
+</div>
+
+</div>
+</div></section>
+</section>
+</section>
+
+<div class='right_rail_primary_bottom'>
+<section class="right_rail_primary content_panel editable" data-channel="bcom_homepage_marketdata"><div class="bcom_ad ad_medium static right3"><div class='static_bbg_ad'>
+<a href='http://www.bloomberg.com/professional/' target='_blank'>
+<img alt="Static bbg ad 300x250" border="none" class="static_bbg_ad_image" height="250" src="http://cdn.gotraffic.net/assets/static_bbg_ad_300x250-f0f9083742cf8554f0c2358930d5f86a.gif" width="300" />
+</a>
+</div>
+</div>
+
+<div class='left_column'>
+<section class='visual_data_modules' data-module-name='Best-and-worst' data-module-type='VisualDataModules'>
+<div class="dvz-widget-best-and-worst"><div class="header"><h2 class="title lifestyle"><a href="/visual-data/best-and-worst/fattest-metro-areas-us-cities">Fattest Metro Areas: U.S. Cities</a></h2></div><div class="content"><a href="/visual-data/best-and-worst/fattest-metro-areas-us-cities"><table class="dvz-widget-table"><thead><tr><th class="rank"></th><th>Metro area</th><th class="num">Percentage of adults who are overweight or obese</th></tr></thead><tr><td class="rank">1</td><td>Huntington-Ashland, WV-KY-OH</td><td class="num">72.7<span class="postfix">%</span></td></tr><tr><td class="rank">2</td><td>Mobile, AL</td><td class="num">71.5<span class="postfix">%</span></td></tr><tr><td class="rank">3</td><td>Toledo, OH</td><td class="num">71.4<span class="postfix">%</span></td></tr><tr><td class="rank">4</td><td>Sioux City, IA-NE-SD</td><td class="num">71.1<span class="postfix">%</span></td></tr><tr><td class="rank">5</td><td>Dayton, OH</td><td class="num">69.7<span class="postfix">%</span></td></tr></table></a></div><p class="product"><a href="/visual-data/best-and-worst/">Bloomberg Best (and Worst)</a></p></div>
+<style>@font-face{font-family:"MonoNumerals";src:url("http://cdn.gotraffic.net/v/20130905_121604/stylesheets/type/BloombergMonoNumerals-Heavy.ttf") format("truetype")}@font-face{font-family:"MonoNumeralsWOFF";src:url("http://cdn.gotraffic.net/v/20130905_121604/stylesheets/type/BloombergMonoNumerals-Heavy.woff")}@font-face{font-family:"MonoNumeralsEOT";src:url("http://cdn.gotraffic.net/v/20130905_121604/stylesheets/type/BloombergMonoNumerals-Heavy.eot")}.dvz-widget-best-and-worst{font-family:sans-serif;-webkit-font-smoothing:antialiased}.dvz-widget-best-and-worst *{margin:0;padding:0;border:none;float:none;width:auto;box-sizing:border-box}.dvz-widget-best-and-worst a{text-decoration:none;color:inherit}.dvz-widget-best-and-worst table{border-collapse:collapse;width:100%}.dvz-widget-best-and-worst .header{margin-bottom:12px;margin-bottom:0px}.dvz-widget-best-and-worst .header .title{font-size:1.2em;font-family:"proxima-nova","Helvectica Neue",Helvectica,Arial,sans-serif;font-weight:600;line-height:24px;margin-bottom:10px;color:#fff}.dvz-widget-best-and-worst .header .subtitle{font-family:Arial,Helvetica,sans-serif;font-size:12px;font-weight:500;line-height:12px;color:#576065}.dvz-widget-best-and-worst .header .title{margin-bottom:0px;padding:12px}.dvz-widget-best-and-worst .content{background:#000;padding:12px}.dvz-widget-best-and-worst .dvz-widget-table{font-size:15px;font-weight:800;font-family:"bloomberg-m","Helvectica Neue",Helvectica,Arial,sans-serif;line-height:18px;color:#afb9c3}.dvz-widget-best-and-worst .dvz-widget-table th,.dvz-widget-best-and-worst .dvz-widget-table td{padding:4px 6px}.dvz-widget-best-and-worst .dvz-widget-table th.num,.dvz-widget-best-and-worst .dvz-widget-table td.num{text-align:right}.dvz-widget-best-and-worst .dvz-widget-table th{font-family:"akzidenz-grotesk-std-bloom","Helvectica Neue",Helvectica,Arial,sans-serif;font-size:13px;font-weight:800;line-height:15px;border-bottom:1px solid #87919b;text-align:left;vertical-align:bottom}.dvz-widget-best-and-worst .dvz-widget-table td{vertical-align:top}.dvz-widget-best-and-worst .dvz-widget-table td.rank{width:1%;text-align:right;font-family:"MonoNumerals","MonoNumeralsWOFF","MonoNumeralsEOT",Courier,monospace}.dvz-widget-best-and-worst .dvz-widget-table td.num{font-family:"MonoNumerals","MonoNumeralsWOFF","MonoNumeralsEOT",Courier,monospace;white-space:nowrap}.dvz-widget-best-and-worst .dvz-widget-table td.positive{color:#67bf3c}.dvz-widget-best-and-worst .dvz-widget-table td.negative{color:#f13147}.dvz-widget-best-and-worst .dvz-widget-table tbody tr:first-child{color:#fff}.dvz-widget-best-and-worst .dvz-widget-table tr:not(:last-child) td{border-bottom:1px solid #1e262e}.dvz-widget-best-and-worst .dvz-widget-table .num{text-align:right}.dvz-widget-best-and-worst p.product a{display:block;position:relative;font-size:1em;font-weight:400;line-height:17px;margin-top:12px;color:#A2A5A7;font-family:"proxima-nova","Helvectica Neue",Helvectica,Arial,sans-serif;background-image:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAARBAMAAAAf5oCsAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABtQTFRF////h5Gbh5Gbh5Gbh5Gbh5Gbh5GbAAAAh5GbbN7FXwAAAAd0Uk5TABAwQICg8J4IXQ0AAAA0SURBVAjXY/DoAIEWhg4IQKbbK8B0OVa6vQJIl+Om0c2D2cNoHNHRaswABExpCgxgoATEANVCNHi4zpVIAAAAAElFTkSuQmCC");background-repeat:no-repeat;background-position:top right;-webkit-transition:color 0.4s;-moz-transition:color 0.4s;-o-transition:color 0.4s;transition:color 0.4s}.dvz-widget-best-and-worst p.product a:hover{color:#fff}.dvz-widget-best-and-worst .prefix,.dvz-widget-best-and-worst .postfix{font-family:"bloomberg-m","Helvectica Neue",Helvectica,Arial,sans-serif}.dvz-widget-best-and-worst .business{background:#580090}.dvz-widget-best-and-worst .economics{background:#e121a1}.dvz-widget-best-and-worst .education{background:#006fbe}.dvz-widget-best-and-worst .investing{background:#00c497}.dvz-widget-best-and-worst .lifestyle{background:#9e21bf}.dvz-widget-best-and-worst .politics-and-policy{background:#9b60ff}.dvz-widget-best-and-worst .personal-finance{background:#00b5dd}
+</style>
+<script>
+  Bcom.MarketData["Best-and-worst"]= {
+      'js': ""
+  };
+</script>
+</section>
+
+<section class='visual_data_modules' data-module-name='Infographics' data-module-type='VisualDataModules'>
+<div class="dvz-widget dvz-widget-infographics">
+  <div class="header">
+    <h2 class="title"><a href="http:&#x2F;&#x2F;www.bloomberg.com&#x2F;infographics&#x2F;2014-06-11&#x2F;national-poll.html">National Poll 2014-06-11</a></h2>
+    <p class="subtitle"><time datetime="2013-08-06">June 11, 2014</time></p>
+  </div>
+
+  <div class="content">
+    <a href="http:&#x2F;&#x2F;www.bloomberg.com&#x2F;infographics&#x2F;2014-06-11&#x2F;national-poll.html">
+      <img src="http:&#x2F;&#x2F;www.bloomberg.com&#x2F;image&#x2F;ihAFZB6EgrSk.jpg">
+    </a>
+  </div>
+
+  <p class="product">
+    <a href="http://www.bloomberg.com/visual-data/">Bloomberg Visual Data</a>
+  </p>
+</div>
+
+<style>@font-face{font-family:"MonoNumerals";src:url("http://cdn.gotraffic.net/v/20130905_121604/stylesheets/type/BloombergMonoNumerals-Heavy.ttf") format("truetype")}@font-face{font-family:"MonoNumeralsWOFF";src:url("http://cdn.gotraffic.net/v/20130905_121604/stylesheets/type/BloombergMonoNumerals-Heavy.woff")}@font-face{font-family:"MonoNumeralsEOT";src:url("http://cdn.gotraffic.net/v/20130905_121604/stylesheets/type/BloombergMonoNumerals-Heavy.eot")}.dvz-widget-infographics{font-family:sans-serif;-webkit-font-smoothing:antialiased}.dvz-widget-infographics *{margin:0;padding:0;border:none;float:none;width:auto;box-sizing:border-box}.dvz-widget-infographics a{text-decoration:none;color:inherit}.dvz-widget-infographics table{border-collapse:collapse;width:100%}.dvz-widget-infographics .header{margin-bottom:12px}.dvz-widget-infographics .header .title{font-size:1.2em;font-family:"proxima-nova","Helvectica Neue",Helvectica,Arial,sans-serif;font-weight:600;line-height:24px;margin-bottom:10px;color:#fff}.dvz-widget-infographics .header .subtitle{font-family:Arial,Helvetica,sans-serif;font-size:12px;font-weight:500;line-height:12px;color:#576065}.dvz-widget-infographics .button-group{height:20px;margin-bottom:12px}.dvz-widget-infographics .button-group .button{font-family:"akzidenz-grotesk-std-bloom","Helvectica Neue",Helvectica,Arial,sans-serif;font-weight:700;font-size:13px;line-height:19px;display:block;float:left;margin-right:8px;border-radius:3px;padding:1px 4px 0;text-decoration:none;background:#1e262e;color:#646e78;cursor:pointer;-webkit-transition:color 0.4s,background 0.4s;-moz-transition:color 0.4s,background 0.4s;-o-transition:color 0.4s,background 0.4s;transition:color 0.4s,background 0.4s}.dvz-widget-infographics .button-group .button:hover{background:#46505a;color:#87919b}.dvz-widget-infographics .button-group .button.active,.dvz-widget-infographics .button-group .button.active:hover{background:#646e78;color:#fff;cursor:default}.dvz-widget-infographics .button-group .button.active.positive,.dvz-widget-infographics .button-group .button.active:hover.positive{background:#67bf3c}.dvz-widget-infographics .button-group .button.active.negative,.dvz-widget-infographics .button-group .button.active:hover.negative{background:#f13147}.dvz-widget-infographics .content{background:#000;color:#fff}.dvz-widget-infographics .content img{display:block;width:100%}.dvz-widget-infographics p.product a{display:block;position:relative;font-size:1em;font-weight:400;line-height:17px;margin-top:12px;color:#A2A5A7;font-family:"proxima-nova","Helvectica Neue",Helvectica,Arial,sans-serif;background-image:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAARBAMAAAAf5oCsAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABtQTFRF////h5Gbh5Gbh5Gbh5Gbh5Gbh5GbAAAAh5GbbN7FXwAAAAd0Uk5TABAwQICg8J4IXQ0AAAA0SURBVAjXY/DoAIEWhg4IQKbbK8B0OVa6vQJIl+Om0c2D2cNoHNHRaswABExpCgxgoATEANVCNHi4zpVIAAAAAElFTkSuQmCC");background-repeat:no-repeat;background-position:top right;-webkit-transition:color 0.4s;-moz-transition:color 0.4s;-o-transition:color 0.4s;transition:color 0.4s}.dvz-widget-infographics p.product a:hover{color:#fff}
+</style>
+<script>
+  Bcom.MarketData["Infographics"]= {
+      'js': ""
+  };
+</script>
+</section>
+
+<section class='visual_data_modules' data-module-name='Wealth-changes' data-module-type='VisualDataModules'>
+<div blp2_version="20140708_152550" class="dvz-widget-wealth-changes"><div class="header"><h2 class="title"><a href="http://www.bloomberg.com/billionaires/latest">Biggest Changes in Wealth</a></h2><p class="subtitle"><time datetime="2014-07-11">July 11, 2014</time></p></div><div class="content"><div class="button-group"><span class="button positive active">Gains</span><span class="button negative">Losses</span></div><div class="dvz-abs-container"><a href="/billionaires/"><table class="dvz-widget-table active"><tr><td class="face"><img alt="Jeff Bezos" src="//cdn.gotraffic.net/v/20140708_152550/images/visual-data/billionaires/heads/faces/jeff-bezos.png" /></td><td class="rank">1</td><td>Jeff Bezos</td><td class="num positive">+$1.5B</td></tr><tr><td class="face"><img alt="Carlos Slim" src="//cdn.gotraffic.net/v/20140708_152550/images/visual-data/billionaires/heads/faces/carlos-slim.png" /></td><td class="rank">2</td><td>Carlos Slim</td><td class="num positive">+$1.1B</td></tr><tr><td class="face"><img alt="Mark Zuckerberg" src="//cdn.gotraffic.net/v/20140708_152550/images/visual-data/billionaires/heads/faces/mark-zuckerberg.png" /></td><td class="rank">3</td><td>Mark Zuckerberg</td><td class="num positive">+$625.5M</td></tr><tr><td class="face"><img alt="Georg Schaeffler" src="//cdn.gotraffic.net/v/20140708_152550/images/visual-data/billionaires/heads/faces/georg-schaeffler.png" /></td><td class="rank">4</td><td>Georg Schaeffler</td><td class="num positive">+$368.1M</td></tr><tr><td class="face"><img alt="Dilip Shanghvi" src="//cdn.gotraffic.net/v/20140708_152550/images/visual-data/billionaires/heads/faces/dilip-shanghvi.png" /></td><td class="rank">5</td><td>Dilip Shanghvi</td><td class="num positive">+$361.2M</td></tr></table><table class="dvz-widget-table"><tr><td class="face"><img alt="Mukesh Ambani" src="//cdn.gotraffic.net/v/20140708_152550/images/visual-data/billionaires/heads/faces/mukesh-ambani.png" /></td><td class="rank">1</td><td>Mukesh Ambani</td><td class="num negative">−$689.7M</td></tr><tr><td class="face"><img alt="Harold Hamm" src="//cdn.gotraffic.net/v/20140708_152550/images/visual-data/billionaires/heads/faces/harold-hamm.png" /></td><td class="rank">2</td><td>Harold Hamm</td><td class="num negative">−$477.0M</td></tr><tr><td class="face"><img alt="Anil Ambani" src="//cdn.gotraffic.net/v/20140708_152550/images/visual-data/billionaires/heads/faces/anil-ambani.png" /></td><td class="rank">3</td><td>Anil Ambani</td><td class="num negative">−$447.0M</td></tr><tr><td class="face"><img alt="Savitri Jindal" src="//cdn.gotraffic.net/v/20140708_152550/images/visual-data/billionaires/heads/faces/savitri-jindal.png" /></td><td class="rank">4</td><td>Savitri Jindal</td><td class="num negative">−$438.9M</td></tr><tr><td class="face"><img alt="Aliko Dangote" src="//cdn.gotraffic.net/v/20140708_152550/images/visual-data/billionaires/heads/faces/aliko-dangote.png" /></td><td class="rank">5</td><td>Aliko Dangote</td><td class="num negative">−$407.2M</td></tr></table></a></div></div><p class="product"><a href="http://www.bloomberg.com/billionaires/latest">Bloomberg Billionaires</a></p></div>
+<style>@font-face{font-family:"MonoNumerals";src:url("http://cdn.gotraffic.net/v/20130905_121604/stylesheets/type/BloombergMonoNumerals-Heavy.ttf") format("truetype")}@font-face{font-family:"MonoNumeralsWOFF";src:url("http://cdn.gotraffic.net/v/20130905_121604/stylesheets/type/BloombergMonoNumerals-Heavy.woff")}@font-face{font-family:"MonoNumeralsEOT";src:url("http://cdn.gotraffic.net/v/20130905_121604/stylesheets/type/BloombergMonoNumerals-Heavy.eot")}.dvz-widget-wealth-changes{font-family:sans-serif;-webkit-font-smoothing:antialiased}.dvz-widget-wealth-changes *{margin:0;padding:0;border:none;float:none;width:auto;box-sizing:border-box}.dvz-widget-wealth-changes a{text-decoration:none;color:inherit}.dvz-widget-wealth-changes table{border-collapse:collapse;width:100%}.dvz-widget-wealth-changes .header{margin-bottom:12px}.dvz-widget-wealth-changes .header .title{font-size:1.2em;font-family:"proxima-nova","Helvectica Neue",Helvectica,Arial,sans-serif;font-weight:600;line-height:24px;margin-bottom:10px;color:#fff}.dvz-widget-wealth-changes .header .subtitle{font-family:Arial,Helvetica,sans-serif;font-size:12px;font-weight:500;line-height:12px;color:#576065}.dvz-widget-wealth-changes .button-group{height:20px;margin-bottom:12px}.dvz-widget-wealth-changes .button-group .button{font-family:"akzidenz-grotesk-std-bloom","Helvectica Neue",Helvectica,Arial,sans-serif;font-weight:700;font-size:13px;line-height:19px;display:block;float:left;margin-right:8px;border-radius:3px;padding:1px 4px 0;text-decoration:none;background:#1e262e;color:#646e78;cursor:pointer;-webkit-transition:color 0.4s,background 0.4s;-moz-transition:color 0.4s,background 0.4s;-o-transition:color 0.4s,background 0.4s;transition:color 0.4s,background 0.4s}.dvz-widget-wealth-changes .button-group .button:hover{background:#46505a;color:#87919b}.dvz-widget-wealth-changes .button-group .button.active,.dvz-widget-wealth-changes .button-group .button.active:hover{background:#646e78;color:#fff;cursor:default}.dvz-widget-wealth-changes .button-group .button.active.positive,.dvz-widget-wealth-changes .button-group .button.active:hover.positive{background:#67bf3c}.dvz-widget-wealth-changes .button-group .button.active.negative,.dvz-widget-wealth-changes .button-group .button.active:hover.negative{background:#f13147}.dvz-widget-wealth-changes .content{background:#000;padding:12px}.dvz-widget-wealth-changes .dvz-abs-container{position:relative;height:296px}.dvz-widget-wealth-changes .dvz-widget-table{font-size:15px;font-weight:800;font-family:"bloomberg-m","Helvectica Neue",Helvectica,Arial,sans-serif;line-height:18px;color:#afb9c3;position:absolute;top:0;left:0;opacity:0;filter:alpha(opacity=0);-ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=$opacity);-webkit-transition:opacity 0.4s;-moz-transition:opacity 0.4s;-o-transition:opacity 0.4s;transition:opacity 0.4s}.dvz-widget-wealth-changes .dvz-widget-table th,.dvz-widget-wealth-changes .dvz-widget-table td{padding:4px 6px}.dvz-widget-wealth-changes .dvz-widget-table th.num,.dvz-widget-wealth-changes .dvz-widget-table td.num{text-align:right}.dvz-widget-wealth-changes .dvz-widget-table th{font-family:"akzidenz-grotesk-std-bloom","Helvectica Neue",Helvectica,Arial,sans-serif;font-size:13px;font-weight:800;line-height:15px;border-bottom:1px solid #87919b;text-align:left;vertical-align:bottom}.dvz-widget-wealth-changes .dvz-widget-table td{vertical-align:top}.dvz-widget-wealth-changes .dvz-widget-table td.rank{width:1%;text-align:right;font-family:"MonoNumerals","MonoNumeralsWOFF","MonoNumeralsEOT",Courier,monospace}.dvz-widget-wealth-changes .dvz-widget-table td.num{font-family:"MonoNumerals","MonoNumeralsWOFF","MonoNumeralsEOT",Courier,monospace;white-space:nowrap}.dvz-widget-wealth-changes .dvz-widget-table td.positive{color:#67bf3c}.dvz-widget-wealth-changes .dvz-widget-table td.negative{color:#f13147}.dvz-widget-wealth-changes .dvz-widget-table tbody tr:first-child{color:#fff}.dvz-widget-wealth-changes .dvz-widget-table tr:not(:last-child) td{border-bottom:1px solid #1e262e}.dvz-widget-wealth-changes .dvz-widget-table.active{opacity:1;filter:alpha(opacity=100);-ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=$opacity)}.dvz-widget-wealth-changes .dvz-widget-table td{vertical-align:middle}.dvz-widget-wealth-changes .dvz-widget-table td.long{font-size:12px}.dvz-widget-wealth-changes .dvz-widget-table td.rank{color:#f90;padding:0}.dvz-widget-wealth-changes .dvz-widget-table td.face{width:50px}.dvz-widget-wealth-changes .dvz-widget-table td.face img{display:block;width:50px;height:50px}.dvz-widget-wealth-changes p.product a{display:block;position:relative;font-size:1em;font-weight:400;line-height:17px;margin-top:12px;color:#A2A5A7;font-family:"proxima-nova","Helvectica Neue",Helvectica,Arial,sans-serif;background-image:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAARBAMAAAAf5oCsAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABtQTFRF////h5Gbh5Gbh5Gbh5Gbh5Gbh5GbAAAAh5GbbN7FXwAAAAd0Uk5TABAwQICg8J4IXQ0AAAA0SURBVAjXY/DoAIEWhg4IQKbbK8B0OVa6vQJIl+Om0c2D2cNoHNHRaswABExpCgxgoATEANVCNHi4zpVIAAAAAElFTkSuQmCC");background-repeat:no-repeat;background-position:top right;-webkit-transition:color 0.4s;-moz-transition:color 0.4s;-o-transition:color 0.4s;transition:color 0.4s}.dvz-widget-wealth-changes p.product a:hover{color:#fff}
+</style>
+<script>
+  Bcom.MarketData["Wealth-changes"]= {
+      'js': "!function(t){\"use strict\";var e=t(\".dvz-widget-wealth-changes\"),a=t(\"table\",e).height();t(\".dvz-abs-container\",e).height(a),t(\".button\",e).on(\"click\",function(){t(this).hasClass(\"active\")||t(\".button, table\",e).toggleClass(\"active\")})}(jQuery);"
+  };
+</script>
+</section>
+
+<section class='visual_data_modules' data-module-name='Market-leaders' data-module-type='VisualDataModules'>
+<div class="dvz-widget dvz-widget-best-industries">
+  <div class="header">
+    <h2 class="title">
+      <a href="http://www.bloomberg.com/visual-data/industries/detail/homebuilders">Homebuilders (Single Family) Industry Leaders</a>
+    </h2>
+    <p class="subtitle"><time datetime="2014-07-12">July 12, 2014</time></p>
+  </div>
+
+  <div class="content">
+    <div class="button-group">
+      <span class="button active" data-metric="1">Market Share</span>
+      <span class="button" data-metric="2">P/E</span>
+      <span class="button" data-metric="3">1Y Total Return</span>
+    </div>
+
+    <a href="http://www.bloomberg.com/visual-data/industries/detail/homebuilders">
+  <table class="dvz-widget-table metric-1 active">
+      <tr>
+        <td class="rank">1</td>
+        <td>PulteGroup Inc</td>
+        <td class="num ">16.30%</td>
+        <td class="bar"><div class="above-median4" style="width: 100.0%"></div></td>
+      </tr>
+      <tr>
+        <td class="rank">2</td>
+        <td>DR Horton Inc</td>
+        <td class="num ">15.10%</td>
+        <td class="bar"><div class="above-median4" style="width: 90.5511811023622%"></div></td>
+      </tr>
+      <tr>
+        <td class="rank">3</td>
+        <td>Lennar Corp</td>
+        <td class="num ">12.50%</td>
+        <td class="bar"><div class="above-median4" style="width: 70.07874015748031%"></div></td>
+      </tr>
+      <tr>
+        <td class="rank">4</td>
+        <td>NVR Inc</td>
+        <td class="num ">9.40%</td>
+        <td class="bar"><div class="above-median3" style="width: 45.66929133858268%"></div></td>
+      </tr>
+      <tr>
+        <td class="rank">5</td>
+        <td>Toll Brothers Inc</td>
+        <td class="num ">6.80%</td>
+        <td class="bar"><div class="above-median3" style="width: 25.196850393700792%"></div></td>
+      </tr>
+      <tr>
+        <td class="rank">6</td>
+        <td>KB Home</td>
+        <td class="num ">5.60%</td>
+        <td class="bar"><div class="above-median3" style="width: 15.748031496062998%"></div></td>
+      </tr>
+      <tr>
+        <td class="rank">7</td>
+        <td>Hovnanian Enterprises Inc</td>
+        <td class="num ">5.00%</td>
+        <td class="bar"><div class="above-median2" style="width: 11.023622047244096%"></div></td>
+      </tr>
+      <tr>
+        <td class="rank">8</td>
+        <td>Ryland Group Inc&#x2F;The</td>
+        <td class="num ">4.60%</td>
+        <td class="bar"><div class="above-median2" style="width: 7.874015748031496%"></div></td>
+      </tr>
+      <tr>
+        <td class="rank">9</td>
+        <td>Standard Pacific Corp</td>
+        <td class="num ">4.30%</td>
+        <td class="bar"><div class="above-median2" style="width: 5.511811023622048%"></div></td>
+      </tr>
+      <tr>
+        <td class="rank">10</td>
+        <td>Meritage Homes Corp</td>
+        <td class="num ">4.20%</td>
+        <td class="bar"><div class="above-median1" style="width: 4.724409448818902%"></div></td>
+      </tr>
+  </table>
+</a>
+
+    <a href="http://www.bloomberg.com/visual-data/industries/detail/homebuilders">
+  <table class="dvz-widget-table metric-2 ">
+      <tr>
+        <td class="rank">1</td>
+        <td>Hovnanian Enterprises Inc</td>
+        <td class="num ">62.54</td>
+        <td class="bar"><div class="above-median4" style="width: 100.0%"></div></td>
+      </tr>
+      <tr>
+        <td class="rank">2</td>
+        <td>Toll Brothers Inc</td>
+        <td class="num ">24.72</td>
+        <td class="bar"><div class="above-median3" style="width: 34.68692917625842%"></div></td>
+      </tr>
+      <tr>
+        <td class="rank">3</td>
+        <td>NVR Inc</td>
+        <td class="num ">19.16</td>
+        <td class="bar"><div class="above-median1" style="width: 25.094386703784267%"></div></td>
+      </tr>
+      <tr>
+        <td class="rank">4</td>
+        <td>Lennar Corp</td>
+        <td class="num ">17.81</td>
+        <td class="bar"><div class="above-median1" style="width: 22.766695974582063%"></div></td>
+      </tr>
+      <tr>
+        <td class="rank">5</td>
+        <td>DR Horton Inc</td>
+        <td class="num ">16.26</td>
+        <td class="bar"><div class="below-median1" style="width: 20.08319924593646%"></div></td>
+      </tr>
+      <tr>
+        <td class="rank">6</td>
+        <td>Standard Pacific Corp</td>
+        <td class="num ">16.00</td>
+        <td class="bar"><div class="below-median1" style="width: 19.63330669053623%"></div></td>
+      </tr>
+      <tr>
+        <td class="rank">7</td>
+        <td>KB Home</td>
+        <td class="num ">14.67</td>
+        <td class="bar"><div class="below-median2" style="width: 17.343882679078465%"></div></td>
+      </tr>
+      <tr>
+        <td class="rank">8</td>
+        <td>PulteGroup Inc</td>
+        <td class="num ">14.57</td>
+        <td class="bar"><div class="below-median2" style="width: 17.165343806085588%"></div></td>
+      </tr>
+      <tr>
+        <td class="rank">9</td>
+        <td>Meritage Homes Corp</td>
+        <td class="num ">11.56</td>
+        <td class="bar"><div class="below-median3" style="width: 11.964789016351629%"></div></td>
+      </tr>
+      <tr>
+        <td class="rank">10</td>
+        <td>Ryland Group Inc&#x2F;The</td>
+        <td class="num ">5.64</td>
+        <td class="bar"><div class="below-median4" style="width: 1.7413016488373148%"></div></td>
+      </tr>
+  </table>
+</a>
+
+    <a href="http://www.bloomberg.com/visual-data/industries/detail/homebuilders">
+  <table class="dvz-widget-table metric-3 ">
+      <tr>
+        <td class="rank">1</td>
+        <td>NVR Inc</td>
+        <td class="num ">16.87%</td>
+        <td class="bar"><div class="above-zero2" style="width: 100.0%"></div></td>
+      </tr>
+      <tr>
+        <td class="rank">2</td>
+        <td>Lennar Corp</td>
+        <td class="num ">9.15%</td>
+        <td class="bar"><div class="above-zero1" style="width: 80.30442622122067%"></div></td>
+      </tr>
+      <tr>
+        <td class="rank">3</td>
+        <td>DR Horton Inc</td>
+        <td class="num ">6.28%</td>
+        <td class="bar"><div class="above-zero1" style="width: 72.96470369559013%"></div></td>
+      </tr>
+      <tr>
+        <td class="rank">4</td>
+        <td>Toll Brothers Inc</td>
+        <td class="num ">2.80%</td>
+        <td class="bar"><div class="above-zero1" style="width: 64.09087543475053%"></div></td>
+      </tr>
+      <tr>
+        <td class="rank">5</td>
+        <td>Beazer Homes USA Inc</td>
+        <td class="num ">2.72%</td>
+        <td class="bar"><div class="above-zero1" style="width: 63.86666135595696%"></div></td>
+      </tr>
+      <tr>
+        <td class="rank">6</td>
+        <td>PulteGroup Inc</td>
+        <td class="num ">-1.03%</td>
+        <td class="bar"><div class="below-zero1" style="width: 54.30450894573732%"></div></td>
+      </tr>
+      <tr>
+        <td class="rank">7</td>
+        <td>Standard Pacific Corp</td>
+        <td class="num ">-6.53%</td>
+        <td class="bar"><div class="below-zero2" style="width: 40.26244097580206%"></div></td>
+      </tr>
+      <tr>
+        <td class="rank">8</td>
+        <td>Ryland Group Inc&#x2F;The</td>
+        <td class="num ">-6.84%</td>
+        <td class="bar"><div class="below-zero2" style="width: 39.4803189693955%"></div></td>
+      </tr>
+      <tr>
+        <td class="rank">9</td>
+        <td>KB Home</td>
+        <td class="num ">-8.04%</td>
+        <td class="bar"><div class="below-zero3" style="width: 36.39498811984025%"></div></td>
+      </tr>
+      <tr>
+        <td class="rank">10</td>
+        <td>Meritage Homes Corp</td>
+        <td class="num ">-8.49%</td>
+        <td class="bar"><div class="below-zero3" style="width: 35.249894424112256%"></div></td>
+      </tr>
+  </table>
+</a>
+
+
+    <div class="dvz-widget-best-industries-scale median metric-1 metric-2 active">
+      <div><span class="above-median4"></span><span class="above-median3"></span><span class="above-median2"></span><span class="above-median1"></span><span class="dvz-widget-best-industries-scale">Above median</span></div><!--
+   --><div><span class="below-median1"></span><span class="below-median2"></span><span class="below-median3"></span><span class="below-median4"></span><span class="dvz-widget-best-industries-scale">Below median</span></div>
+    </div>
+
+    <div class="dvz-widget-best-industries-scale zero metric-3">
+      <div><span class="above-zero4"></span><span class="above-zero3"></span><span class="above-zero2"></span><span class="above-zero1"></span><span class="dvz-widget-best-industries-scale">Positive</span></div><!--
+   --><div><span class="below-zero1"></span><span class="below-zero2"></span><span class="below-zero3"></span><span class="below-zero4"></span><span class="dvz-widget-best-industries-scale">Negative</span></div>
+    </div>
+
+    <div class="dvz-widget-sponsor">
+      <span>Sponsored by</span>
+      <a href="http://clk.atdmt.com/MRT/go/472367527/direct;at.DL_LG_COM_Cloud_88x31_1x1;wi.1;hi.1/01/" target="_blank">
+        <img src="http://www.bloomberg.com/visual-data/widgets/images/ms-cloud-white-88x31.png" alt="Microsoft Cloud">
+      </a>
+      <img src="http://view.atdmt.com/MRT/view/472367527/direct;at.DL_LG_COM_Cloud_88x31_1x1;wi.1;hi.1/01/?href=http://analytics.bluekai.com/site/17694?phint=event%3Dimp&amp;phint=pid%3D472367527&amp;phint=crid%3DDL_LG_COM_Cloud_88x31_1x1">
+    </div>
+
+  </div>
+
+
+  <p class="product">
+    <a href="http://www.bloomberg.com/visual-data/industries">Bloomberg Industry Leaderboard</a>
+  </p>
+</div>
+
+<style>@font-face{font-family:"MonoNumerals";src:url("http://cdn.gotraffic.net/v/20130905_121604/stylesheets/type/BloombergMonoNumerals-Heavy.ttf") format("truetype")}@font-face{font-family:"MonoNumeralsWOFF";src:url("http://cdn.gotraffic.net/v/20130905_121604/stylesheets/type/BloombergMonoNumerals-Heavy.woff")}@font-face{font-family:"MonoNumeralsEOT";src:url("http://cdn.gotraffic.net/v/20130905_121604/stylesheets/type/BloombergMonoNumerals-Heavy.eot")}.dvz-widget-best-industries{width:300px;font-family:sans-serif;-webkit-font-smoothing:antialiased}.dvz-widget-best-industries *{margin:0;padding:0;border:none;float:none;width:auto;box-sizing:border-box}.dvz-widget-best-industries a{text-decoration:none;color:inherit}.dvz-widget-best-industries table{border-collapse:collapse;width:100%}.dvz-widget-best-industries .header{margin-bottom:12px}.dvz-widget-best-industries .header .title{font-size:1.2em;font-family:"proxima-nova","Helvectica Neue",Helvectica,Arial,sans-serif;font-weight:600;line-height:24px;margin-bottom:10px;color:#fff}.dvz-widget-best-industries .header .subtitle{font-family:Arial,Helvetica,sans-serif;font-size:12px;font-weight:500;line-height:12px;color:#576065}.dvz-widget-best-industries .button-group{height:20px;margin-bottom:12px}.dvz-widget-best-industries .button-group .button{font-family:"akzidenz-grotesk-std-bloom","Helvectica Neue",Helvectica,Arial,sans-serif;font-weight:700;font-size:13px;line-height:19px;display:block;float:left;margin-right:8px;border-radius:3px;padding:1px 4px 0;text-decoration:none;background:#1e262e;color:#646e78;cursor:pointer;-webkit-transition:color 0.4s,background 0.4s;-moz-transition:color 0.4s,background 0.4s;-o-transition:color 0.4s,background 0.4s;transition:color 0.4s,background 0.4s}.dvz-widget-best-industries .button-group .button:hover{background:#46505a;color:#87919b}.dvz-widget-best-industries .button-group .button.active,.dvz-widget-best-industries .button-group .button.active:hover{background:#646e78;color:#fff;cursor:default}.dvz-widget-best-industries .button-group .button.active.positive,.dvz-widget-best-industries .button-group .button.active:hover.positive{background:#67bf3c}.dvz-widget-best-industries .button-group .button.active.negative,.dvz-widget-best-industries .button-group .button.active:hover.negative{background:#f13147}.dvz-widget-best-industries .button-group .button{margin-right:4px}.dvz-widget-best-industries .content{background:#000;padding:12px}.dvz-widget-best-industries .content .dvz-widget-sponsor{margin-right:auto;margin-left:auto;width:195px}.dvz-widget-best-industries .content .dvz-widget-sponsor span{font-size:15px;color:#646e78;margin-right:10px}.dvz-widget-best-industries .content .dvz-widget-sponsor img{vertical-align:middle}.dvz-widget-best-industries .dvz-widget-table{font-size:15px;font-weight:800;font-family:"bloomberg-m","Helvectica Neue",Helvectica,Arial,sans-serif;line-height:18px;color:#afb9c3;display:none}.dvz-widget-best-industries .dvz-widget-table th,.dvz-widget-best-industries .dvz-widget-table td{padding:4px 6px}.dvz-widget-best-industries .dvz-widget-table th.num,.dvz-widget-best-industries .dvz-widget-table td.num{text-align:right}.dvz-widget-best-industries .dvz-widget-table th{font-family:"akzidenz-grotesk-std-bloom","Helvectica Neue",Helvectica,Arial,sans-serif;font-size:13px;font-weight:800;line-height:15px;border-bottom:1px solid #87919b;text-align:left;vertical-align:bottom}.dvz-widget-best-industries .dvz-widget-table td{vertical-align:top}.dvz-widget-best-industries .dvz-widget-table td.rank{width:1%;text-align:right;font-family:"MonoNumerals","MonoNumeralsWOFF","MonoNumeralsEOT",Courier,monospace}.dvz-widget-best-industries .dvz-widget-table td.num{font-family:"MonoNumerals","MonoNumeralsWOFF","MonoNumeralsEOT",Courier,monospace;white-space:nowrap}.dvz-widget-best-industries .dvz-widget-table td.positive{color:#67bf3c}.dvz-widget-best-industries .dvz-widget-table td.negative{color:#f13147}.dvz-widget-best-industries .dvz-widget-table tbody tr:first-child{color:#fff}.dvz-widget-best-industries .dvz-widget-table tr:not(:last-child) td{border-bottom:1px solid #1e262e}.dvz-widget-best-industries .dvz-widget-table td.num.na{font-family:"bloomberg-m","Helvectica Neue",Helvectica,Arial,sans-serif}.dvz-widget-best-industries .dvz-widget-table td.bar{width:64px}.dvz-widget-best-industries .dvz-widget-table td.bar div{height:14px;background:#28aade;min-width:1px}.dvz-widget-best-industries .dvz-widget-table td.bar div.above-median1{background:#001899}.dvz-widget-best-industries .dvz-widget-table td.bar div.above-median2{background:#0d48af}.dvz-widget-best-industries .dvz-widget-table td.bar div.above-median3{background:#1b79c6}.dvz-widget-best-industries .dvz-widget-table td.bar div.above-median4{background:#28aade}.dvz-widget-best-industries .dvz-widget-table td.bar div.below-median1{background:#7800aa}.dvz-widget-best-industries .dvz-widget-table td.bar div.below-median2{background:#9b31c3}.dvz-widget-best-industries .dvz-widget-table td.bar div.below-median3{background:#bd5fe0}.dvz-widget-best-industries .dvz-widget-table td.bar div.below-median4{background:#e08bff}.dvz-widget-best-industries .dvz-widget-table td.bar div.above-zero1{background:#074c28}.dvz-widget-best-industries .dvz-widget-table td.bar div.above-zero2{background:#28733c}.dvz-widget-best-industries .dvz-widget-table td.bar div.above-zero3{background:#489849}.dvz-widget-best-industries .dvz-widget-table td.bar div.above-zero4{background:#6cba4c}.dvz-widget-best-industries .dvz-widget-table td.bar div.below-zero1{background:#4a1112}.dvz-widget-best-industries .dvz-widget-table td.bar div.below-zero2{background:#83191e}.dvz-widget-best-industries .dvz-widget-table td.bar div.below-zero3{background:#b82334}.dvz-widget-best-industries .dvz-widget-table td.bar div.below-zero4{background:#ea364c}.dvz-widget-best-industries .dvz-widget-table td.bar div.na{min-width:0;width:0}.dvz-widget-best-industries .dvz-widget-table.active{display:table}.dvz-widget-best-industries .dvz-widget-best-industries-scale{margin:14px 0;display:none}.dvz-widget-best-industries .dvz-widget-best-industries-scale.active{display:block}.dvz-widget-best-industries .dvz-widget-best-industries-scale span{display:inline-block;width:24px;height:8px}.dvz-widget-best-industries .dvz-widget-best-industries-scale div{display:inline-block;width:98px;color:#646e78;text-transform:uppercase;font-size:10px;font-weight:700;text-align:left}.dvz-widget-best-industries .dvz-widget-best-industries-scale div:first-child{border-right:1px solid #646e78;text-align:right}.dvz-widget-best-industries .dvz-widget-best-industries-scale .dvz-widget-best-industries-scale{display:inline;padding:0 4px}.dvz-widget-best-industries .above-median1{background:#001899}.dvz-widget-best-industries .above-median2{background:#0d48af}.dvz-widget-best-industries .above-median3{background:#1b79c6}.dvz-widget-best-industries .above-median4{background:#28aade}.dvz-widget-best-industries .below-median1{background:#7800aa}.dvz-widget-best-industries .below-median2{background:#9b31c3}.dvz-widget-best-industries .below-median3{background:#bd5fe0}.dvz-widget-best-industries .below-median4{background:#e08bff}.dvz-widget-best-industries .above-zero1{background:#074c28}.dvz-widget-best-industries .above-zero2{background:#28733c}.dvz-widget-best-industries .above-zero3{background:#489849}.dvz-widget-best-industries .above-zero4{background:#6cba4c}.dvz-widget-best-industries .below-zero1{background:#4a1112}.dvz-widget-best-industries .below-zero2{background:#83191e}.dvz-widget-best-industries .below-zero3{background:#b82334}.dvz-widget-best-industries .below-zero4{background:#ea364c}.dvz-widget-best-industries p.product a{display:block;position:relative;font-size:1em;font-weight:400;line-height:17px;margin-top:12px;color:#A2A5A7;font-family:"proxima-nova","Helvectica Neue",Helvectica,Arial,sans-serif;background-image:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAARBAMAAAAf5oCsAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABtQTFRF////h5Gbh5Gbh5Gbh5Gbh5Gbh5GbAAAAh5GbbN7FXwAAAAd0Uk5TABAwQICg8J4IXQ0AAAA0SURBVAjXY/DoAIEWhg4IQKbbK8B0OVa6vQJIl+Om0c2D2cNoHNHRaswABExpCgxgoATEANVCNHi4zpVIAAAAAElFTkSuQmCC");background-repeat:no-repeat;background-position:top right;-webkit-transition:color 0.4s;-moz-transition:color 0.4s;-o-transition:color 0.4s;transition:color 0.4s}.dvz-widget-best-industries p.product a:hover{color:#fff}
+</style>
+<script>
+  Bcom.MarketData["Market-leaders"]= {
+      'js': "!function(t){\"use strict\";var e=t(\".dvz-widget-best-industries\");t(\".button\",e).bind(\"click\",function(){var a=t(this);a.hasClass(\"active\")||(t(\".button, table\",e).removeClass(\"active\"),t(\".dvz-widget-best-industries-scale\",e).removeClass(\"active\"),a.addClass(\"active\"),t(\"table.metric-\"+a.attr(\"data-metric\"),e).addClass(\"active\"),t(\".dvz-widget-best-industries-scale.metric-\"+a.attr(\"data-metric\"),e).addClass(\"active\"))})}(jQuery);"
+  };
+</script>
+<div class="bcom_ad matrix " lazy_load="false"><div bcom-ad-code="blp.home/index" bcom-ad-position="matrix" bcom-ad-sizes="[[300, 100]]" bcom-ad-url="/" class="ad_inner_container" id="ad-matrix"><script>
+//<![CDATA[
+Bcom.Ads.render("ad-matrix");
+//]]>
+</script></div></div>
+</section>
+
+<section class='inhouse currency_watch_contain' data-module-name='CurrencyWatch' data-module-type='CurrencyWatch'>
+<p class='footer'>Currency Watch</p>
+<p class='headline'>Spot returns against the</p>
+<ul class='menu currency_watch currencies'>
+<li>
+<span class='contents'>USD</span>
+<span class='drop_arrow'></span>
+<ul>
+<li>USD</li>
+<li>EUR</li>
+<li>GBP</li>
+<li>JPY</li>
+<li>AUD</li>
+</ul>
+</li>
+</ul>
+<ul class='menu currency_watch timeframes'>
+<li>
+<span class='contents'>Today</span>
+<span class='drop_arrow'></span>
+<ul>
+<li>Today</li>
+<li>1 Week</li>
+<li>1 Month</li>
+<li>Year to Date</li>
+<li>1 Year</li>
+</ul>
+</li>
+</ul>
+<div class='chart_container'></div>
+<script>
+  Bcom.MarketData["CurrencyWatch"] = {"Today":{"USD":{"EUR":-7.348000000000001e-05,"GBP":-0.00093392,"JPY":-0.0002027,"AUD":-0.00031932},"EUR":{"USD":0.00013609,"GBP":-0.00039717,"JPY":0.00020687,"AUD":-0.00043453},"GBP":{"USD":0.00119925,"EUR":0.00089381,"JPY":0.00017361,"AUD":-0.00014588},"JPY":{"USD":-0.00039471,"EUR":-7.251e-05,"GBP":-0.00196409,"AUD":-0.00088227},"AUD":{"USD":0.00037580000000000003,"EUR":0.00022782,"GBP":-0.0008225499999999999,"JPY":0.0}},"1 Week":{"USD":{"EUR":0.0009562339,"GBP":-0.0025641026,"JPY":0.0071465033,"AUD":0.0028830753},"EUR":{"USD":-0.0009516041,"GBP":-0.0030895984,"JPY":0.0063970026999999995,"AUD":0.0017419074000000001},"GBP":{"USD":0.0027453672,"EUR":0.0036101994,"JPY":0.0092852137,"AUD":0.0047091159},"JPY":{"USD":-0.0074466,"EUR":-0.0061261261000000004,"GBP":-0.0106090194,"AUD":-0.0047187578},"AUD":{"USD":-0.0028095149000000002,"EUR":-0.0019700769,"GBP":-0.0056210434,"JPY":0.0039189448}},"1 Month":{"USD":{"EUR":0.0056163169,"GBP":0.0195377651,"JPY":0.0069409003,"AUD":0.0009591815},"EUR":{"USD":-0.0056825869,"GBP":0.0142661401,"JPY":0.0017264955000000002,"AUD":-0.0046156065},"GBP":{"USD":-0.018969279800000002,"EUR":-0.0135976775,"JPY":-0.012851268,"AUD":-0.0188247083},"JPY":{"USD":-0.0075438425,"EUR":-0.0015928178000000001,"GBP":0.0111929411,"AUD":-0.0068489575},"AUD":{"USD":-0.0008445153,"EUR":0.0045831167,"GBP":0.018331191,"JPY":0.0059381285}},"Year to Date":{"USD":{"EUR":-0.0098231827,"GBP":0.033762154999999995,"JPY":0.0387490787,"AUD":0.0532690367},"EUR":{"USD":0.0098941872,"GBP":0.0450959223,"JPY":0.0497018468,"AUD":0.0636559803},"GBP":{"USD":-0.0324503311,"EUR":-0.042327150099999995,"JPY":0.0043584379000000005,"AUD":0.018046788},"JPY":{"USD":-0.0380780553,"EUR":-0.0471913218,"GBP":-0.0062170223000000005,"AUD":0.0133479632},"AUD":{"USD":-0.0507265757,"EUR":-0.059889953,"GBP":-0.0188994185,"JPY":-0.0140805407}},"1 Year":{"USD":{"EUR":0.039016568700000004,"GBP":0.1272391992,"JPY":-0.023750618499999997,"AUD":0.022202873300000002},"EUR":{"USD":-0.0375851231,"GBP":0.0853889943,"JPY":-0.0600204777,"AUD":-0.016391106},"GBP":{"USD":-0.11266322499999999,"EUR":-0.0782126791,"JPY":-0.1343350864,"AUD":-0.0937908011},"JPY":{"USD":0.023645917500000002,"EUR":0.0639611141,"GBP":0.1531744975,"AUD":0.046249450100000006},"AUD":{"USD":-0.0216832047,"EUR":0.0164014928,"GBP":0.1025656541,"JPY":-0.045008183300000004}}}
+</script>
+</section>
+
+</div>
+<div class='right_column'>
+<section class='inhouse sector_performance_contain' data-module-name='SectorPerformance' data-module-type='SectorPerformance'>
+<ul class='tabs'>
+<li class=''>
+<a class='us'>U.S.</a>
+</li>
+<li class=''>
+<a class='uk'>U.K.</a>
+</li>
+<li class='selected'>
+<a class='japan'>Japan</a>
+</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th class='sectors' colspan='2'>Sectors</th>
+<th>
+<div class='decliners'>Decline</div>
+<div class='neutral'></div>
+<div class='advancers'>Advance</div>
+</th>
+</tr>
+</thead>
+<tbody class='us '>
+<tr>
+<td class='icon-sector-financial image'></td>
+<td class='financial name'>Financials</td>
+<td>
+<div class='decliners' style='width: 36%'>56</div>
+<div class='neutral' style='width: 1%'>0</div>
+<div class='advancers' style='width: 63%'>96</div>
+</td>
+</tr>
+<tr>
+<td class='icon-sector-healthcare image'></td>
+<td class='healthcare name'>Health</td>
+<td>
+<div class='decliners' style='width: 38%'>30</div>
+<div class='neutral' style='width: 1%'>0</div>
+<div class='advancers' style='width: 61%'>47</div>
+</td>
+</tr>
+<tr>
+<td class='icon-sector-industrial image'></td>
+<td class='industrial name'>Indus.</td>
+<td>
+<div class='decliners' style='width: 25%'>18</div>
+<div class='neutral' style='width: 0%'>0</div>
+<div class='advancers' style='width: 75%'>54</div>
+</td>
+</tr>
+<tr>
+<td class='icon-sector-consumerdiscretionary image'></td>
+<td class='consumerdiscretionary name'>Cons. Disc.</td>
+<td>
+<div class='decliners' style='width: 52%'>58</div>
+<div class='neutral' style='width: 2%'>1</div>
+<div class='advancers' style='width: 46%'>51</div>
+</td>
+</tr>
+<tr>
+<td class='icon-sector-consumerstaples image'></td>
+<td class='consumerstaples name'>Cons. Stpl.</td>
+<td>
+<div class='decliners' style='width: 51%'>28</div>
+<div class='neutral' style='width: 1%'>0</div>
+<div class='advancers' style='width: 48%'>26</div>
+</td>
+</tr>
+<tr>
+<td class='icon-sector-energy image'></td>
+<td class='energy name'>Energy</td>
+<td>
+<div class='decliners' style='width: 54%'>52</div>
+<div class='neutral' style='width: 2%'>1</div>
+<div class='advancers' style='width: 44%'>42</div>
+</td>
+</tr>
+<tr>
+<td class='icon-sector-technology image'></td>
+<td class='name technology'>Tech</td>
+<td>
+<div class='decliners' style='width: 46%'>41</div>
+<div class='neutral' style='width: 3%'>2</div>
+<div class='advancers' style='width: 51%'>46</div>
+</td>
+</tr>
+<tr>
+<td class='icon-sector-materials image'></td>
+<td class='materials name'>Materials</td>
+<td>
+<div class='decliners' style='width: 35%'>16</div>
+<div class='neutral' style='width: 3%'>1</div>
+<div class='advancers' style='width: 62%'>28</div>
+</td>
+</tr>
+<tr>
+<td class='icon-sector-communications image'></td>
+<td class='communications name'>Comm.</td>
+<td>
+<div class='decliners' style='width: 35%'>19</div>
+<div class='neutral' style='width: 3%'>1</div>
+<div class='advancers' style='width: 62%'>34</div>
+</td>
+</tr>
+<tr>
+<td class='icon-sector-utilities image'></td>
+<td class='name utilities'>Utils</td>
+<td>
+<div class='decliners' style='width: 80%'>36</div>
+<div class='neutral' style='width: 0%'>0</div>
+<div class='advancers' style='width: 20%'>3</div>
+</td>
+</tr>
+</tbody>
+<tbody class='uk '>
+<tr>
+<td class='icon-sector-communications image'></td>
+<td class='communications name'>Comm.</td>
+<td>
+<div class='decliners' style='width: 33%'>8</div>
+<div class='neutral' style='width: 5%'>1</div>
+<div class='advancers' style='width: 62%'>15</div>
+</td>
+</tr>
+<tr>
+<td class='icon-sector-consumerstaples image'></td>
+<td class='consumerstaples name'>Cons. Stpl.</td>
+<td>
+<div class='decliners' style='width: 35%'>11</div>
+<div class='neutral' style='width: 4%'>1</div>
+<div class='advancers' style='width: 61%'>19</div>
+</td>
+</tr>
+<tr>
+<td class='icon-sector-financial image'></td>
+<td class='financial name'>Financials</td>
+<td>
+<div class='decliners' style='width: 39%'>34</div>
+<div class='neutral' style='width: 6%'>4</div>
+<div class='advancers' style='width: 55%'>48</div>
+</td>
+</tr>
+<tr>
+<td class='icon-sector-utilities image'></td>
+<td class='name utilities'>Utils</td>
+<td>
+<div class='decliners' style='width: 28%'>2</div>
+<div class='neutral' style='width: 15%'>1</div>
+<div class='advancers' style='width: 57%'>4</div>
+</td>
+</tr>
+<tr>
+<td class='icon-sector-materials image'></td>
+<td class='materials name'>Materials</td>
+<td>
+<div class='decliners' style='width: 65%'>19</div>
+<div class='neutral' style='width: 4%'>1</div>
+<div class='advancers' style='width: 31%'>9</div>
+</td>
+</tr>
+<tr>
+<td class='icon-sector-consumerdiscretionary image'></td>
+<td class='consumerdiscretionary name'>Cons. Disc.</td>
+<td>
+<div class='decliners' style='width: 44%'>37</div>
+<div class='neutral' style='width: 3%'>2</div>
+<div class='advancers' style='width: 53%'>45</div>
+</td>
+</tr>
+<tr>
+<td class='icon-sector-technology image'></td>
+<td class='name technology'>Tech</td>
+<td>
+<div class='decliners' style='width: 50%'>10</div>
+<div class='neutral' style='width: 0%'>0</div>
+<div class='advancers' style='width: 50%'>10</div>
+</td>
+</tr>
+<tr>
+<td class='icon-sector-energy image'></td>
+<td class='energy name'>Energy</td>
+<td>
+<div class='decliners' style='width: 46%'>12</div>
+<div class='neutral' style='width: 4%'>1</div>
+<div class='advancers' style='width: 50%'>13</div>
+</td>
+</tr>
+<tr>
+<td class='icon-sector-healthcare image'></td>
+<td class='healthcare name'>Health</td>
+<td>
+<div class='decliners' style='width: 33%'>5</div>
+<div class='neutral' style='width: 1%'>0</div>
+<div class='advancers' style='width: 66%'>10</div>
+</td>
+</tr>
+<tr>
+<td class='icon-sector-industrial image'></td>
+<td class='industrial name'>Indus.</td>
+<td>
+<div class='decliners' style='width: 48%'>18</div>
+<div class='neutral' style='width: 1%'>0</div>
+<div class='advancers' style='width: 51%'>19</div>
+</td>
+</tr>
+</tbody>
+<tbody class='japan show'>
+<tr>
+<td class='icon-sector-communications image'></td>
+<td class='communications name'>Comm.</td>
+<td>
+<div class='decliners' style='width: 57%'>15</div>
+<div class='neutral' style='width: 9%'>2</div>
+<div class='advancers' style='width: 34%'>9</div>
+</td>
+</tr>
+<tr>
+<td class='icon-sector-consumerstaples image'></td>
+<td class='consumerstaples name'>Cons. Stpl.</td>
+<td>
+<div class='decliners' style='width: 37%'>20</div>
+<div class='neutral' style='width: 5%'>2</div>
+<div class='advancers' style='width: 58%'>31</div>
+</td>
+</tr>
+<tr>
+<td class='icon-sector-healthcare image'></td>
+<td class='healthcare name'>Health</td>
+<td>
+<div class='decliners' style='width: 45%'>20</div>
+<div class='neutral' style='width: 5%'>2</div>
+<div class='advancers' style='width: 50%'>22</div>
+</td>
+</tr>
+<tr>
+<td class='icon-sector-energy image'></td>
+<td class='energy name'>Energy</td>
+<td>
+<div class='decliners' style='width: 33%'>4</div>
+<div class='neutral' style='width: 1%'>0</div>
+<div class='advancers' style='width: 66%'>8</div>
+</td>
+</tr>
+<tr>
+<td class='icon-sector-technology image'></td>
+<td class='name technology'>Tech</td>
+<td>
+<div class='decliners' style='width: 56%'>36</div>
+<div class='neutral' style='width: 2%'>1</div>
+<div class='advancers' style='width: 42%'>27</div>
+</td>
+</tr>
+<tr>
+<td class='icon-sector-consumerdiscretionary image'></td>
+<td class='consumerdiscretionary name'>Cons. Disc.</td>
+<td>
+<div class='decliners' style='width: 60%'>91</div>
+<div class='neutral' style='width: 3%'>3</div>
+<div class='advancers' style='width: 37%'>56</div>
+</td>
+</tr>
+<tr>
+<td class='icon-sector-materials image'></td>
+<td class='materials name'>Materials</td>
+<td>
+<div class='decliners' style='width: 64%'>41</div>
+<div class='neutral' style='width: 7%'>4</div>
+<div class='advancers' style='width: 29%'>19</div>
+</td>
+</tr>
+<tr>
+<td class='icon-sector-industrial image'></td>
+<td class='industrial name'>Indus.</td>
+<td>
+<div class='decliners' style='width: 58%'>53</div>
+<div class='neutral' style='width: 4%'>2</div>
+<div class='advancers' style='width: 38%'>35</div>
+</td>
+</tr>
+<tr>
+<td class='icon-sector-financial image'></td>
+<td class='financial name'>Financials</td>
+<td>
+<div class='decliners' style='width: 80%'>93</div>
+<div class='neutral' style='width: 0%'>6</div>
+<div class='advancers' style='width: 20%'>16</div>
+</td>
+</tr>
+<tr>
+<td class='icon-sector-utilities image'></td>
+<td class='name utilities'>Utils</td>
+<td>
+<div class='decliners' style='width: 80%'>12</div>
+<div class='neutral' style='width: 0%'>0</div>
+<div class='advancers' style='width: 20%'>3</div>
+</td>
+</tr>
+</tbody>
+</table>
+<script>
+  Bcom.MarketData["SectorPerformance"]= {
+      'selected_tab':      "japan"
+  };
+</script>
+</section>
+
+<section class='inhouse google_adwords' data-module-name='HomepageGoogleAdwords' data-module-type='GoogleAdwords'>
+<iframe frameborder='0' height='260' scrolling='no' src='/bcom/home/iframe/google-adwords' width='310'></iframe>
+</section>
+
+</div>
+
+</section></div>
+
+</section>
+
+</div>
+</div>
+</div>
+<script src="http://cdn.gotraffic.net/assets/native_ads/primary_view-35028ca8ccc3978af6da66aa333f02a0.js"></script>
+<script>
+  Bcom.currentPage = new Bcom.Pages.Home()
+  Bcom.Tracker.Page.setDescription('blp.home/index');
+  $(document).ready(function () {
+    Bcom.Modules.Analytics.initializeForHome()
+  });
+</script>
+
+
+<footer class='footer' id='global_footer' role='contentinfo'>
+<div class='container'>
+<div class='footer_logo icon-bloomberg'></div>
+<a class="social_icon facebook-icon" href="http://www.facebook.com/bloombergnews" rel="external"><img alt="Like us on Facebook" src="http://cdn.gotraffic.net/assets/icons/facebook-f-c72270aa8eec607d56964794bd1ded8d.svg" /></a>
+<a class="social_icon twitter-icon" href="http://twitter.com/bloombergnews" rel="external"><img alt="Follow us on Twitter" src="http://cdn.gotraffic.net/assets/icons/twitter-bird-f9cf64d3b45040f12c5dc12ab3365b8a.svg" /></a>
+<a class="social_icon linkedin-icon" href="http://www.linkedin.com/today/bloomberg.com?trk=tod-src-tnav-1000020-0" rel="external"><img alt="Connect with us on LinkedIn" src="http://cdn.gotraffic.net/assets/icons/linkedin-in-c9df0a8ebcef72130728276f152926b4.svg" /></a>
+<a class="social_icon google-plus-icon" href="https://plus.google.com/b/101169269861152216375/101169269861152216375/posts" rel="external"><img alt="Connect with us on Google Plus" src="http://cdn.gotraffic.net/assets/icons/google-plus-g-8b5a303fe34110145a9553283bdf2c49.svg" /></a>
+<h4 class='footer_nav_toggle'><span class='more'>More</span>
+<span class='less'>Less</span>
+Content</h4>
+<div class='footer_nav_contain'>
+<nav class='footer_nav'>
+<div class='col_2'>
+<div class='col_3 first_col'>
+<ul class='footer_links'>
+<li class='item_1'>
+<a class='footer_nav_trigger' href='#'>Company</a>
+<ul>
+<li>
+<a href="http://www.bloomberg.com/company/">About</a>
+</li>
+<li>
+<a href="http://www.bloomberg.com/now">Blog</a>
+</li>
+<li>
+<a href="http://jobs.bloomberg.com">Careers</a>
+</li>
+<li>
+<a href="http://www.bloomberg.com/diversity-inclusion">Diversity &amp; Inclusion</a>
+</li>
+<li>
+<a href="http://www.bloomberg.com/philanthropy">Philanthropy</a>
+</li>
+<li>
+<a href="http://www.bloomberg.com/now/press-releases/">Press Room</a>
+</li>
+<li>
+<a href="http://www.bloomberg.com/procurement/">Procurement</a>
+</li>
+<li>
+<a href="http://www.bloomberg.com/bsustainable/">Sustainability</a>
+</li>
+</ul>
+</li>
+<li class='item_2'>
+<a class='footer_nav_trigger' href='#'>Support & Contact</a>
+<ul>
+<li class=''>
+<a href="http://www.bloomberg.com/now/contacts/">Customer Support</a>
+</li>
+<li class=''>
+<a href="https://service.bloomberg.com/">Service Center</a>
+</li>
+<li class=''>
+<a href="http://www.bloomberg.com/feedback">Website Feedback</a>
+</li>
+<li class=''>
+<a href="http://www.bloomberg.com/help.html">Help</a>
+</li>
+<li class=''>
+<a href="http://www.bloomberg.com/sitemap/">Sitemap</a>
+</li>
+<li class='multi_line'>
+<a href="/help.html#contact-our-editors">For comments or complaints about news coverage click here</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class='col_3'>
+<ul class='footer_links'>
+<li class='item_3'>
+<a class='footer_nav_trigger' href='#'>Bloomberg Network</a>
+<ul>
+<li class=''>
+<a href="http://www.bloomberg.com/now">Bloomberg Blog</a>
+</li>
+<li class=''>
+<a href="http://www.wiley.com/WileyCDA/Section/id-404407.html">Bloomberg Books</a>
+</li>
+<li class=''>
+<a href="http://www.businessweek.com/">Bloomberg Businessweek</a>
+</li>
+<li class=''>
+<a href="http://www.bloomberg.co.jp/">Bloomberg.co.jp</a>
+</li>
+<li class=''>
+<a href="http://www.bloomberg.com.br/">Bloomberg in Brazil</a>
+</li>
+<li class=''>
+<a href="http://www.bloomberg.in">Bloomberg in India</a>
+</li>
+<li class=''>
+<a href="http://about.bloomberg.co.jp/">Bloomberg in Japan</a>
+</li>
+<li class=''>
+<a href="http://www.bloomberg.co.kr">Bloomberg in Korea</a>
+</li>
+<li class=''>
+<a href="http://www.bloomberg.com.mx">Bloomberg in Mexico</a>
+</li>
+<li class=''>
+<a href="https://www.bloomberginstitute.com/bat/start/">Bloomberg Institute</a>
+</li>
+<li class=''>
+<a href="http://www.bloomberg.com/markets-magazine/">Bloomberg Markets Magazine</a>
+</li>
+<li class=''>
+<a href="http://open.bloomberg.com/">Open Bloomberg</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class='col_2'>
+<div class='col_3 last_col'>
+<ul class='footer_links'>
+<li>
+<a class='footer_nav_trigger' href='#'>
+Financial Products
+</a>
+<ul>
+<li>
+<a href="http://www.bloomberg.com/professional/">Bloomberg Professional Service</a>
+</li>
+<li>
+<a href="https://bba.bloomberg.net/">Bloomberg Anywhere</a>
+</li>
+<li>
+<a href="http://www.bloombergtradebook.com">Bloomberg Tradebook</a>
+</li>
+<li>
+<a href="http://www.bloombergbriefs.com">Bloomberg Briefs</a>
+</li>
+<li>
+<a href="http://www.bloombergindexes.com">Bloomberg Indexes</a>
+</li>
+<li>
+<a href="http://www.bloombergsef.com">Bloomberg SEF</a>
+</li>
+<li>
+<a href="https://service.bloomberg.com/">Service Center</a>
+</li>
+<li>
+<a href="http://www.bloomberg.com/professional/systems-support/customer-support/">Customer Support</a>
+</li>
+</ul>
+</li>
+<li>
+<a class='footer_nav_trigger' href='#'>
+Enterprise Products
+</a>
+<ul>
+<li>
+<a href="http://www.bloomberg.com/enterprise/">Enterprise Solutions</a>
+</li>
+<li>
+<a href="http://www.bloomberg.com/trading-solutions/">Trading Solutions</a>
+</li>
+</ul>
+</li>
+<li>
+<a class='footer_nav_trigger' href='#'>
+Industry Products
+</a>
+<ul>
+<li>
+<a href="http://www.bna.com/">Bloomberg BNA</a>
+</li>
+<li>
+<a href="http://about.bgov.com/">Bloomberg Government</a>
+</li>
+<li>
+<a href="http://about.bloomberglaw.com/">Bloomberg Law</a>
+</li>
+<li>
+<a href="http://www.bloomberglink.com/">Bloomberg Link</a>
+</li>
+<li>
+<a href="http://about.bnef.com">Bloomberg New Energy Finance</a>
+</li>
+<li>
+<a href="https://www.bloombergsports.com/">Bloomberg Sports</a>
+</li>
+<li>
+<a href="http://www.bloomberg.com/content-licensing">Content Licensing</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class='mobile_apps'>
+<ul class='footer_links'>
+<li class='item_6'>
+<a class='footer_nav_trigger' href='#'>Mobile Apps</a>
+<ul>
+<li>
+<a href="http://www.bloomberg.com/mobile/bloomberg/"><div class='mobile_icon icon_bloomberg'></div>
+<span class='one_line'>Bloomberg</span>
+</a></li>
+<li>
+<a href="http://www.bloomberg.com/mobile/radio/"><div class='mobile_icon icon_radio'></div>
+<span class='multi_line'>Bloomberg</span>
+<span>Radio+</span>
+</a></li>
+<li>
+<a href="http://www.bloomberg.com/mobile/tv/"><div class='mobile_icon icon_tv'></div>
+<span class='multi_line'>Bloomberg</span>
+<span>TV+</span>
+</a></li>
+<li>
+<a href="http://www.bloomberg.com/mobile/businessweek/"><div class='mobile_icon icon_businessweek'></div>
+<span class='multi_line'>Bloomberg</span>
+<span>Businessweek+</span>
+</a></li>
+<li>
+<a href="http://www.bloomberg.com/mobile/marketsmagazine/"><div class='mobile_icon icon_markets'></div>
+<span class='multi_line'>Bloomberg</span>
+<span>Markets+</span>
+</a></li>
+<li>
+<a href="http://www.bloomberg.com/professional/bloomberg_anywhere/"><div class='mobile_icon icon_anywhere'></div>
+<span class='multi_line'>Bloomberg</span>
+<span>Professional</span>
+</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+</div>
+<section class='footer_copyright'>
+<ul>
+<li class='' rel=''>
+<a href="http://www.bloomberg.com/trademarks">Trademarks</a>
+</li>
+<li class='' rel=''>
+<a href="http://www.bloomberg.com/tos">Terms of Service</a>
+</li>
+<li class='' rel=''>
+<a href="http://www.bloomberg.com/privacy">Privacy Policy</a>
+</li>
+<li class='' rel=''>
+<a href="http://jobs.bloomberg.com">Bloomberg Careers</a>
+</li>
+<li class='' rel=''>
+<a href="http://jobsearch.bloomberg.com/">Jobs by Indeed</a>
+</li>
+<li class='' rel=''>
+<a href="http://nytm.org/made-in-nyc">Made in NYC</a>
+</li>
+<li class='ad_choices' rel='nofollow external'>
+<a href="http://www.bloomberg.com/privacy#advertisements">Ad Choices</a>
+</li>
+</ul>
+<p>©2014 Bloomberg L.P. All Rights Reserved</p>
+</section>
+</div>
+</footer>
+
+</div>
+<div class='ham_nav_container'>
+<div class='drop_nav_container' role='navigation'>
+<div class='logo_nav_contain'>
+<div class='region_menu'></div>
+<div class='nav_container'>
+<ul class='drop_nav'>
+<li>
+<a href="/">Home</a>
+</li>
+<li>
+<a class="has_submenu" href="/news/">News</a>
+<ul class='news'>
+<li>
+<a class="" href="/news/">Top Headlines</a>
+<a class="" href="/popular/">Most Popular</a>
+<a class="" href="/news/exclusive/">Exclusive</a>
+<a class="" href="/news/law/">Law</a>
+<a class="" href="/entrepreneurs/">Entrepreneurs</a>
+<a class="" href="/leaders/">Leaders</a>
+<a class="" href="/news/economy/">Economy</a>
+<a class="" href="/news/environment/">Environment</a>
+<a class="" href="/news/science/">Science</a>
+<a class="" href="/sports/">Sports</a>
+<a class="" href="/markets-magazine/">Markets Magazine</a>
+<a class="" href="http://topics.bloomberg.com/bloomberg-pursuits/">Pursuits Magazine</a>
+<a class="" href="/visual-data/">Bloomberg Visual Data</a>
+<a class="" href="/visual-data/best-and-worst/">Bloomberg Best (and Worst)</a>
+<a class="" href="/help.html#contact-our-editors">For comments or complaints about news coverage click here</a>
+</li>
+<li>
+<a class="main" href="/news/regions/">Regions</a>
+<a href="/news/us/">U.S.</a>
+<a href="/news/china/">China</a>
+<a href="/news/europe/">Europe</a>
+<a href="/news/asia/">Asia</a>
+<a href="/news/uk-ireland/">U.K. &amp; Ireland</a>
+<a href="/news/australia-newzealand/">Australia &amp; New Zealand</a>
+<a href="/news/canada/">Canada</a>
+<a href="/news/india-pakistan/">India &amp; Pakistan</a>
+<a href="/news/japan/">Japan</a>
+<a href="/news/africa/">Africa</a>
+<a href="/news/eastern-europe/">Eastern Europe</a>
+<a href="/news/latin-america/">Latin America</a>
+<a class="main" href="/news/markets/">Markets</a>
+<a href="/news/commodities/">Commodities</a>
+<a href="/news/currencies/">Currencies</a>
+<a href="/news/bonds/">Bonds</a>
+<a href="/news/stocks/">Stocks</a>
+<a href="/news/energy-markets/">Energy Markets</a>
+<a href="/news/municipal-bonds/">Municipal Bonds</a>
+<a href="/news/emerging-markets/">Emerging Markets</a>
+<a href="/news/funds/">Funds</a>
+<a href="http://topics.bloomberg.com/islamic-finance/">Islamic Finance</a>
+<a class="main" href="/news/industries/">Industries</a>
+<a href="/news/energy/">Energy</a>
+<a href="/news/technology/">Technology</a>
+<a href="/news/real-estate/">Real Estate</a>
+<a href="/news/finance/">Finance</a>
+<a href="/news/health-care/">Health Care</a>
+<a href="/news/transportation/">Transportation</a>
+<a href="/news/insurance/">Insurance</a>
+<a href="/news/retail/">Retail</a>
+<a href="/news/media/">Media</a>
+<a href="/news/manufacturing/">Manufacturing</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/quickview/">Quick</a>
+</li>
+<li>
+<a class="has_submenu" href="/markets/">Market Data</a>
+<ul class='market-data'>
+<li>
+<a class="main" href="/markets/stocks/">Stocks</a>
+<a href="/markets/stocks/futures/">Stock Futures</a>
+<a href="/markets/stocks/world-indexes/">World Indexes</a>
+<a href="/markets/stocks/world-indexes/americas">Americas</a>
+<a href="/markets/stocks/world-indexes/europe-africa-middle-east">Europe, Middle East, &amp; Africa</a>
+<a href="/markets/stocks/world-indexes/asia-pacific">Asia-Pacific</a>
+<a href="/markets/stocks/movers/dow/">Gainers &amp; Losers</a>
+<a href="/apps/ecal?c=US">Earnings Calendar</a>
+<a href="/visual-data/industries/">Industry Leaders</a>
+<a class="main" href="/markets/currencies/">Currencies</a>
+<a href="/markets/currencies/americas/">Americas</a>
+<a href="/markets/currencies/europe-africa-middle-east/">Europe, Middle East, &amp; Africa</a>
+<a href="/markets/currencies/asia-pacific/">Asia-Pacific</a>
+<a href="/markets/currencies/cross-rates/">Foreign Exchange Cross Rates</a>
+<a href="/markets/currencies/fx-fixings/">FX Fixings</a>
+<a href="/markets/currencies/currency-converter/">Currency Converter</a>
+<a href="/video/forex-trading">Forex Trading Videos</a>
+<a class="main" href="/markets/commodities/futures/">Commodities</a>
+<a href="/energy/">Energy Prices</a>
+<a href="/markets/commodities/futures/metals/">Metals Prices</a>
+<a href="/markets/commodities/futures/agriculture/">Agricultural Prices</a>
+</li>
+<li>
+<a class="main" href="/markets/rates-bonds/">Rates &amp; Bonds</a>
+<a href="/markets/rates-bonds/government-bonds/us/">US Treasuries</a>
+<a href="/markets/rates-bonds/government-bonds/uk/">UK Gilts</a>
+<a href="/markets/rates-bonds/government-bonds/germany/">Germany Bunds</a>
+<a href="/markets/rates-bonds/government-bonds/japan/">Japan Bonds</a>
+<a href="/markets/rates-bonds/government-bonds/australia/">Australia Bonds</a>
+<a href="/markets/rates-bonds/benchmark-bond-indexes/">Bloomberg Bond Indexes</a>
+<a href="/markets/rates-bonds/corporate-bonds/">Corporate Bonds</a>
+<a href="/markets/rates-bonds/consumer-interest-rates/">Consumer Rates</a>
+<a class="" href="/markets/economic-calendar/">Economic Calendar</a>
+<a class="" href="/markets/watchlist/">Watchlist</a>
+<a class="" href="/markets/european-debt-crisis/">European Debt Crisis</a>
+<a class="" href="/markets/symbolsearch/">Symbol Search</a>
+<a class="" href="http://go.bloomberg.com/market-now/">The Market Now</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="has_submenu" href="/personal-finance/">Personal Finance</a>
+<ul class='personal-finance'>
+<li>
+<a class="" href="/personal-finance/">Top Headlines</a>
+<a class="" href="/personal-finance/saving-and-investing/">Saving &amp; Investing</a>
+<a class="" href="/personal-finance/real-estate/">Real Estate</a>
+<a class="" href="/personal-finance/retirement-planning/">Retirement Planning</a>
+<a class="" href="/personal-finance/financial-advisers/">Financial Advisers</a>
+<a class="" href="/personal-finance/taxes/">Taxes</a>
+<a class="" href="/blogs/personal_finance/ventured-gained/">Blog: Ventured &amp; Gained</a>
+<a class="" href="/personal-finance/consumer-spending/">Real Cost Of</a>
+<a class="" href="/personal-finance/money-gallery/">Money Gallery</a>
+<a class="" href="/personal-finance/calculators/">Calculators</a>
+<a class="" href="/markets/watchlist/">Watchlist (Portfolio Tracker)</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="has_submenu" href="/technology/">Tech</a>
+<ul class='tech'>
+<li>
+<a class="" href="/technology/">Top Headlines</a>
+<a class="" href="/technology/social-media/">Social Media</a>
+<a class="" href="/technology/mobile-wireless/">Mobile &amp; Wireless</a>
+<a class="" href="/technology/web/">Web</a>
+<a class="" href="/technology/enterprise-tech/">Enterprise Tech</a>
+<a class="" href="/technology/tv-games-movies/">TV, Games &amp; Movies</a>
+<a class="" href="/technology/apple/">Apple</a>
+<a class="" href="http://go.bloomberg.com/tech-deals/">Tech Deals</a>
+<a class="" href="/blogs/technology/global-tech/">Global Tech</a>
+<a class="" href="/technology/slideshows/">Slideshows</a>
+<a class="" href="/video/technology/">Videos</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="has_submenu" href="/politics/">U.S. Politics</a>
+<ul class='u.s.-politics'>
+<li>
+<a class="" href="/politics/">Top Headlines</a>
+<a class="" href="/politics/elections/">Elections</a>
+<a class="" href="/politics/white-house/">White House</a>
+<a class="" href="/politics/congress/">Congress</a>
+<a class="" href="/politics/state-local/">State &amp; Local</a>
+<a class="" href="http://go.bloomberg.com/political-economy/">Political Capital</a>
+<a class="" href="/video/politics/">Videos</a>
+<a class="" href="/politics/live-blogs/">Live Blogs</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="has_submenu" href="/sustainability/">Sustainability</a>
+<ul class='sustainability'>
+<li>
+<a class="" href="/sustainability/">Top Headlines</a>
+<a class="" href="/sustainability/energy/">Energy</a>
+<a class="" href="/sustainability/corporate/">Corporate Sustainability</a>
+<a class="" href="/sustainability/policy/">Policy</a>
+<a class="" href="/sustainability/natural-resources/">Natural Resources</a>
+<a class="" href="/sustainability/health-population/">Health &amp; Population</a>
+<a class="" href="/sustainability/slideshows/">Slideshows</a>
+<a class="" href="/video/sustainability/">Videos</a>
+<a class="" href="/blogs/sustainability/the-grid/">Blog: The Grid</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="has_submenu" href="/luxury/">Luxury</a>
+<ul class='luxury'>
+<li>
+<a class="" href="/luxury/">Top Headlines</a>
+<a class="" href="/luxury/autos/">Autos</a>
+<a class="" href="/billionaires/">Billionaires</a>
+<a class="" href="/luxury/living/">Living</a>
+<a class="" href="/luxury/property/">Property</a>
+<a class="" href="/luxury/travel/">Travel</a>
+<a class="" href="/luxury/well-spent/">Well Spent</a>
+<a class="" href="/blogs/luxury/loot/">Loot Blog</a>
+<a class="" href="http://topics.bloomberg.com/bloomberg-pursuits/">Pursuits Magazine</a>
+<a class="" href="/video/luxury/">Videos</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="has_submenu" href="/tv/">TV</a>
+<ul class='tv'>
+<li>
+<a class="" href="/tv/">Live TV</a>
+<a class="" href="/tv/channel-finder/">Channel Finder</a>
+<a class="" href="/personalities/">Personalities</a>
+<a class="" href="/tv/appletv/">Apple TV</a>
+<a class="" href="/mobile/tv/">iPad App</a>
+<a class="main" href="/tv/schedule/">Schedule</a>
+<a href="/tv/schedule/">U.S.</a>
+<a href="/tv/schedule/asia/">Asia</a>
+<a href="/tv/schedule/europe/">Europe</a>
+</li>
+<li>
+<a class="main" href="/tv/shows/">Shows</a>
+<a href="/video/bloomberg-surveillance/">Surveillance</a>
+<a href="/video/market-makers/">Market Makers</a>
+<a href="/video/lunch-money">Lunch Money</a>
+<a href="/video/street-smart/">Street Smart</a>
+<a href="/video/bloomberg-west/">Bloomberg West</a>
+<a href="/video/game-changers/">Game Changers</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="has_submenu" href="/video/">Video</a>
+<ul class='video'>
+<li>
+<a class="" href="/video/">Must See</a>
+<a class="" href="/video/latest/">Latest</a>
+<a class="" href="/tv/">Live TV</a>
+<a class="" href="/tv/shows/">Shows</a>
+<a class="" href="/playlist/">Playlist</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="has_submenu" href="/radio/">Radio</a>
+<ul class='radio'>
+<li>
+<a class="" href="/radio/">Live Radio</a>
+<a class="" href="/radio/shows/">Shows</a>
+<a class="" href="/radio/schedule/">Schedule</a>
+<a class="" href="/personalities/">Personalities</a>
+<a class="main" href="/podcasts/">Podcasts</a>
+<a href="/podcasts/first-word/">First Word</a>
+<a href="/podcasts/surveillance/">Surveillance</a>
+<a href="/podcasts/hays-advantage/">Hays Advantage</a>
+<a href="/podcasts/in_the_loop/">In the Loop</a>
+<a href="/podcasts/law/">Bloomberg Law</a>
+<a href="/podcasts/taking-stock/">Taking Stock</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="has_submenu" href="#">Blogs</a>
+<ul class='blogs'>
+<li>
+<a class="" href="/blogs/technology/global-tech/">Global Tech</a>
+<a class="" href="/blogs/sustainability/the-grid/">The Grid</a>
+<a class="" href="/blogs/luxury/loot/">Loot</a>
+<a class="" href="http://go.bloomberg.com/market-now/">The Market Now</a>
+<a class="" href="http://go.bloomberg.com/political-economy/">Political Capital</a>
+<a class="" href="http://go.bloomberg.com/tech-deals/">Tech Deals</a>
+<a class="" href="/blogs/personal_finance/ventured-gained/">Ventured and Gained</a>
+</li>
+</ul>
+</li>
+<li class='nav_view'>
+<a href="http://bloombergview.com/?cmpid=bb_primarynav">Opinion</a>
+</li>
+</ul>
+<ul class='sub_drop_nav'>
+<li class='my_saved'>
+<a href="/q">My Saved
+<span class='saved_count'></span>
+</a></li>
+<li>
+<a href="https://login.bloomberg.com/register">Registration
+
+</a></li>
+<li>
+<a href="https://login.bloomberg.com/login">Sign In
+
+</a></li>
+<li>
+<a href="http://www.bloomberg.com">Bloomberg.com
+
+</a></li>
+<li>
+<a href="http://www.businessweek.com">Businessweek.com
+
+</a></li>
+<li>
+<a class="has_submenu" href="http://www.bloomberg.com/company">Company
+
+</a><ul>
+<li>
+<a href="http://www.bloomberg.com/company/">About</a>
+<a href="http://www.bloomberg.com/now">Blog</a>
+<a href="http://jobs.bloomberg.com">Careers</a>
+<a href="http://www.bloomberg.com/diversity-inclusion">Diversity & Inclusion</a>
+<a href="http://www.bloomberg.com/now/bloomberg-news-mission-statement/">News Mission</a>
+<a href="http://www.bloomberg.com/philanthropy">Philanthropy</a>
+<a href="http://www.bloomberg.com/now/press-releases/">Press Room</a>
+<a href="http://www.bloomberg.com/procurement/">Procurement</a>
+<a href="http://www.bloomberg.com/bsustainable/">Sustainability</a>
+</li>
+</ul>
+</li>
+<li>
+<a class="has_submenu" href="http://www.bloomberg.com/professional/">Products
+
+</a><ul>
+<li>
+<a class="main no-link" href="javascript:void(0);">Financial Products</a>
+<a href="http://www.bloomberg.com/professional/">Bloomberg Professional Service</a>
+<a href="https://bba.bloomberg.net/">Bloomberg Anywhere</a>
+<a href="http://www.bloombergtradebook.com">Bloomberg Tradebook</a>
+<a href="http://www.bloombergbriefs.com">Bloomberg Briefs</a>
+<a href="http://www.bloombergindexes.com">Bloomberg Indexes</a>
+<a href="http://www.bloombergsef.com">Bloomberg SEF</a>
+<a href="https://service.bloomberg.com/">Service Center</a>
+<a href="http://www.bloomberg.com/professional/systems-support/customer-support/">Customer Support</a>
+<a class="main no-link" href="javascript:void(0);">Enterprise Products</a>
+<a href="http://www.bloomberg.com/enterprise/">Enterprise Solutions</a>
+<a href="http://www.bloomberg.com/trading-solutions/">Trading Solutions</a>
+<a class="main no-link" href="javascript:void(0);">Industry Products</a>
+<a href="http://www.bna.com/">Bloomberg BNA</a>
+<a href="http://about.bgov.com/">Bloomberg Government</a>
+<a href="http://about.bloomberglaw.com/">Bloomberg Law</a>
+<a href="http://www.bloomberglink.com/">Bloomberg Link</a>
+<a href="http://about.bnef.com">Bloomberg New Energy Finance</a>
+<a href="https://www.bloombergsports.com/">Bloomberg Sports</a>
+<a href="http://www.bloomberg.com/content-licensing">Content Licensing</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="https://bba.bloomberg.net/">Bloomberg Anywhere
+
+</a></li>
+<li>
+<a href="http://www.bloomberg.com//mobile/">Mobile Apps
+
+</a></li>
+<li>
+<a href="http://www.bloomberg.com/visual-data/">Bloomberg Visual Data
+
+</a></li>
+</ul>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+<!--[if lte IE 8]>
+<script src="http://cdn.gotraffic.net/assets/chart/chart_wrapper_highcharts-927c91265ece731be3a625a004fcdc21.js"></script>
+<script>
+  window.Oven = {};
+  window.Chart.CURRENT_CHART_RENDERER = Chart.Renderer.HIGHCHARTS;
+</script>
+<![endif]-->
+<!--[if gte IE 9]>
+<script src="http://cdn.gotraffic.net/assets/chart/chart_wrapper-ee94a7f38d3839dde5f9f495e148d056.js"></script>
+<![endif]-->
+<!--[if !IE]> --><script src="http://cdn.gotraffic.net/assets/chart/chart_wrapper-ee94a7f38d3839dde5f9f495e148d056.js"></script><!-- <![endif]-->
+
+
+<script>
+  $(Bcom.init);
+</script>
+<script>
+  <!-- Chartbeat -->
+  var _sf_async_config={};
+  _sf_async_config.uid = 15087;
+  _sf_async_config.domain = 'bloomberg.com';
+  _sf_async_config.useCanonical = true;
+  _sf_async_config.authors = '';
+  (function(){
+    function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement("script");
+      e.setAttribute("language", "javascript");
+      e.setAttribute("type", "text/javascript");
+      e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+      document.body.appendChild(e);
+    }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != "function") ?
+      loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script>
+<script>
+  (function() {
+    // Native article pages don't have the correct tracking info until the contents are loaded through
+    // Polar's API call. The tracking is delayed here and will be fired on native article render event.
+    if(Bcom.global_var.IS_NATIVE) {
+      return;
+    }
+    Bcom.Tracker.Page.trackToComScore();
+  })();
+</script>
+<noscript>
+<p>
+<img alt="*" height="1" src="http://b.scorecardresearch.com/p?c1=2&amp;c2=3005059" width="1" />
+</p>
+</noscript>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-11413116-1']);
+  Bcom.Tracker.Page.trackToGoogleAnalytics();
+  _gaq.push(['_trackPageview']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<script>
+  $(document).ready(function () {
+    Bcom.Tracker.Events.setupTrackingExternalLinks();
+  });
+</script>
+<!-- START Nielsen Online SiteCensus V6.0 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script>
+  $(window).load(function () {
+    Bcom.Tracker.Events.trackNielsenEvent('0');
+  });
+</script>
+<noscript>
+<div>
+<img alt="" height="1" src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-905417h&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" />
+</div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V6.0 -->
+
+<!-- BEGIN Krux Control Tag for "Bloomberg.com" -->
+<!-- Source: /snippet/controltag?confid=IDeZBlqQ&site=Bloomberg.com&edit=1 -->
+<script class='kxct' data-id='IDeZBlqQ' data-timing='async' data-version='1.9' type='text/javascript'>
+window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+(function(){
+  var k=document.createElement('script');k.type='text/javascript';k.async=true;
+  var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
+  k.src = /^https?:\/\/([^\/]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :(location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=IDeZBlqQ";
+  var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+}());
+</script>
+<!-- END Krux Controltag -->
+
+<script>
+  // iOS scaling fix
+  (function(e){var c="addEventListener",b="gesturestart",g="querySelectorAll",f=[1,1],d=g in e?e[g]("meta[name=viewport]"):[];function a(){d.content="width=device-width,minimum-scale="+f[0]+",maximum-scale="+f[1];e.removeEventListener(b,a,true)}if((d=d[d.length-1])&&c in e){a();f=[0.25,1.6];e[c](b,a,true)}}(document));
+</script>
+
+<script>
+  if (!Bcom.Ads.Interstitial.enabled) {
+    $.ajax( { dataType: "script",
+              cache: true,
+              url: "http://cdn.gotraffic.net/vendor/foresee_v_1/javascripts/foresee-trigger.js"
+             });
+  }
+</script>
+
+<script>
+  (function(w, d) { var a = function() { var a = d.createElement('script'); a.type = 'text/javascript';
+      a.async = 'async'; a.src = '//' + ((w.location.protocol === 'https:') ? 's3.amazonaws.com/cdx-radar/' :
+      'radar.cedexis.com/') + '01-12403-radar10.min.js'; d.body.appendChild(a); };
+      if (w.addEventListener) { w.addEventListener('load', a, false); }
+      else if (w.attachEvent) { w.attachEvent('onload', a); }
+  }(window, document));
+</script>
+
+<!--
+Environment: production
+Server Time: 1105.472 ms
+Timestamp: 2014-07-12 21:26:03 -0400
+
+-->
+</body>
+</html>

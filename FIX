@@ -1,0 +1,4 @@
+#!/bin/bash
+shopt -s dotglob
+chown -R jw:33 *
+chmod -R g+w *

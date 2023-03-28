@@ -1,0 +1,2 @@
+find -name "*.php" -exec grep MYSQLI /dev/null {} \;|awk -F":" '{print $1}'|sort -u |awk '{print "cat "$1" |sed \"s@`cat F`@`cat R`@\" > "$1"_____NEW" }'|sh -x 
+find -name "*_____*" |awk -F"_____" '{print "mv "$0" "$1}'|sh -x

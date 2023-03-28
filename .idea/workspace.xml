@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a6f7a404-e5a5-4203-adc6-08c50e075fe3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/api/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/astro/as.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/astro/getJson.sh" beforeDir="false" afterPath="$PROJECT_DIR$/astro/getJson.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/astro/js/astrodataJson.html" beforeDir="false" afterPath="$PROJECT_DIR$/astro/js/astrodataJson.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/ichingbook" beforeDir="false" afterPath="$PROJECT_DIR$/book/ichingbook" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/templates/judge_old.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/Now/footer_data_entry.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/Now/header_for_transits.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/astrology_scripts/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/astrology_scripts/footer_natal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/astrology_scripts/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/astrology_scripts/header_composite.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/astrology_scripts/header_davison.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/astrology_scripts/header_moon.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/astrology_scripts/header_natal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/astrology_scripts/header_ph.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/astrology_scripts/header_progressions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/astrology_scripts/header_right_now.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/astrology_scripts/header_solar_arcs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/astrology_scripts/header_synastry.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/astrology_scripts/header_transits.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/astrology_scripts/header_transits_progressed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/astrology_scripts/header_transits_solar_arcs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/natal_reports/footer_data_entry.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/natal_reports/header_for_natal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/online_calcs/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/online_calcs/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/online_calcs/scripts/csm/speedometer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/online_calcs/scripts/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/online_calcs/scripts/header_composite.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/online_calcs/scripts/header_contest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/online_calcs/scripts/header_davison.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/online_calcs/scripts/header_dual_c.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/online_calcs/scripts/header_event.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/online_calcs/scripts/header_harmonic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/online_calcs/scripts/header_horary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/online_calcs/scripts/header_lunar_return.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/online_calcs/scripts/header_moon.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/online_calcs/scripts/header_natal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/online_calcs/scripts/header_natal_c.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/online_calcs/scripts/header_natal_midpoints.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/online_calcs/scripts/header_ph.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/online_calcs/scripts/header_progressed_synastry.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/online_calcs/scripts/header_progressions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/online_calcs/scripts/header_progressions_moon_declinations.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/online_calcs/scripts/header_right_now.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/online_calcs/scripts/header_right_now_ISP.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/online_calcs/scripts/header_solar_arcs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/online_calcs/scripts/header_solar_return.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/online_calcs/scripts/header_synastry.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/online_calcs/scripts/header_transit_any_day.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/online_calcs/scripts/header_transits.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/online_calcs/scripts/header_transits_progressed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/online_calcs/scripts/header_transits_solar_arcs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/online_calcs/scripts/header_vocation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/transits/footer_data_entry.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/home/transits/header_for_transits.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/sessions/right_now_JSON.txt" beforeDir="false" afterPath="$PROJECT_DIR$/charting/sessions/right_now_JSON.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/charting/sessions/right_now_wheel_JSON.txt" beforeDir="false" afterPath="$PROJECT_DIR$/charting/sessions/right_now_wheel_JSON.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cignite/application/cache/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cignite/application/config/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cignite/application/controllers/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cignite/application/core/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cignite/application/helpers/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cignite/application/hooks/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cignite/application/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cignite/application/language/english/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cignite/application/language/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cignite/application/libraries/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cignite/application/logs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cignite/application/models/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cignite/application/third_party/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cignite/application/views/errors/cli/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cignite/application/views/errors/html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cignite/application/views/errors/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cignite/application/views/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/databases.zip" beforeDir="false" afterPath="$PROJECT_DIR$/databases.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elements/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/hex/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/hex/small/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/symbol/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/astrodataJson.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/class/DataMapper.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/class/DataMapper.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/class/Tosser.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/class/Tosser.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/lib/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/toss.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/toss.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/wkhtmltopdf.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/wkhtmltopdf.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DXlbuDGIiR59AzaHxJdX8GO8ZH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/jw/src/iching"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6f7a404-e5a5-4203-adc6-08c50e075fe3" name="Changes" comment="" />
+      <created>1660853384207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660853384207</updated>
+    </task>
+    <servers />
+  </component>
+</project>

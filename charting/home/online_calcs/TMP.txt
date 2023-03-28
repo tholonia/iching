@@ -1,0 +1,120 @@
+.xpos0 + .x_adj
+$xpos0 + (isset($x_adj) ? $x_adj : 0)
+radii * cos
+-
+.ypos0 + .y_adj 
+$ypos0 + (isset($y_adj) ? $y_adj : 0) 
+radii * sin
+-
+$flag = .$flag;
+$flag = !(isset($flag) ? $flag : false);
+$flag = !$flag;
+-
+if .$flag == True)
+if ((isset($flag) ? $flag : false) == True)
+flag == True
+-
+########################
+conn, $_GET."l1"]
+conn, (isset($_GET["l1"])?$_GET["l1"]:"")
+conn, $_GET."l1"]
+-
+conn, $_GET."ubt1"]
+conn, (isset($_GET["ubt1"])?$_GET["l1"]:"")
+conn, $_GET."ubt1"]
+-
+conn, $_GET."rx1"]
+conn, (isset($_GET["rx1"])?$_GET["l1"]:"")
+conn, $_GET."rx1"]
+-
+if ($timezone2 < 0)
+if ( isset($timezone2)?$timezone2:0 < 0)
+timezone2 < 0)
+-
+$my_error == "")
+( isset($my_error) ?: "" ) == "") 
+my_error == ""
+-
+$my_error != "")
+( isset($my_error) ?: "" ) != "") 
+my_error != ""
+-
+$h_sys = mysqlSafeEscapeString($conn, $_POST."h_sys"]);
+$h_sys = mysqlSafeEscapeString($conn, isset($_POST["h_sys"])?$_POST["h_sys"]:null);
+POST."h_sys"]
+-
+include .'footer.html');
+include ($_SERVER['DOCUMENT_ROOT']."/charting/home/footer.php");
+include .'footer.html');
+-
+$second = $row.'second'];
+$second = (isset($row['second'])?$row['second']:0);
+row['second']
+-
+$cityName = $row.'city']; 
+$cityName = isset($row['city'])?$row['city']:""; 
+row['city']
+-
+$countryName = $row.'country'];
+$countryName = isset($row['country'])?$row['country']:"";
+row['country']
+-
+row.natal_midpoints]
+row['natal_midpoints']
+row.natal_midpoints']
+-
+$house_pos1.$key] = $row.2];
+$house_pos1[$key] = (isset($row[2]) ? $row[2] : null);
+house_pos1.$key]
+-
+'HamburgSymbols.ttf'
+'./HamburgSymbols.ttf'
+'HamburgSymbols.ttf'
+-
+'arial.ttf'
+'./arial.ttf'
+'arial.ttf'
+-
+putenv(\"PATH=$PATH
+putenv("PATH=".getenv('PATH')."
+putenv(\"PATH
+-
+/charting/home/functions.php
+/charting/functions.php
+charting/home
+-
+balloon\ help.png
+balloon_help.png
+help.png
+-
+contest_wheel\ -\ small\ antiscia.php
+contest_wheel_-_small_antiscia.php
+antiscia
+-
+web\ db\ main\ scripts.tws 
+web_db_main_scripts.tws  
+scripts.tws
+-
+safeEscapeString..conn
+mysqlSafeEscapeString($conn
+safeEscapeString..conn
+-
+include("../constants.php");
+require_once($_SERVER['DOCUMENT_ROOT'] . "/charting/online_calcs/functions.php");
+constants.php
+-
+require_once ('../../../mysqli_connect_online_calcs_db_MYSQLI.php');
+require_once($_SERVER['DOCUMENT_ROOT'] . "/charting/mysqli_connect_online_calcs_db_MYSQLI.php");
+online_calcs_db_MYSQLI.php
+-
+require_once ('../../../my_functions_MYSQLI.php');
+require_once($_SERVER['DOCUMENT_ROOT'] .  "/charting/my_functions_MYSQLI.php");
+functions_MYSQLI.php
+-
+
+
+
+
+
+
+

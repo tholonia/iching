@@ -1,0 +1,22 @@
+to use
+
+
+./throw.pl T 		# use test data (9-9-9-9-9-9) to test code
+./throw.pl L 		# use non-fermi numbers  (uses entropy - can take a long time)
+./throw.pl "why?"	# fermi based question
+
+
+output goes to file "./last"
+
+or
+
+
+./THROW "why" T
+./THROW "why" L
+./THROW "why" 
+
+
+output goes to file "q/why" and "last"
+
+
+

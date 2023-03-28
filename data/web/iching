@@ -1,0 +1,68 @@
+#!/usr/bin/perl -w
+use strict;
+use MIME::Lite;
+
+my $t=0;
+my $isQ = 0;
+my $line;
+my $mailto;
+my $query;
+
+
+$ENV{'PATH'} = "/home/jw/src/iching";
+while ($line  = <STDIN>) {
+	if ($line =~ /From:/) {
+		$mailto=&clean($line);
+		if ($mailto =~ /iching/) {
+			$mailto = "root\@waena.edu";
+		}
+		$query = "/home/iching/rng L";
+
+	}
+	if ($line =~ /Subject/) {
+		open(Q,">>_Q");
+#		print Q "Subject: [${line}]\n";
+		close(Q);
+	}
+	if ($line =~ /Q:/) {
+		my $ques=&clean($line);
+		open(Q,">>_Q");
+		print Q "${mailto}|${line}\n";
+#		print Q "isQ: ${isQ}\n";
+		close(Q);
+
+
+		my $resq =`$query`;
+		my $res ="<HTML>\n<CENTER>(shameless advertisement) Go to <A HREF=\"http://naggmail.com\"><I>Naggmail</I></A> </CENTER><P>\n\n Question: $ques\n".$resq;
+		open(Q,">>_Q");
+#		print Q "Subkect: REPLY ${ques}\n";
+#		print Q "From: iching\@waena.edu\n";
+#		print Q "To: ${mailto}\n";
+#		print Q "Type: text/html\n";
+#		print Q "Data: $resq\n";
+		close(Q);
+	
+		my $msg = MIME::Lite->new (
+			Subject => "REPLY ${ques}",
+			From    => "iching\@waena.edu",
+			To      => $mailto,
+			Type    => "text/html",
+			Data    => $res
+		);
+		$msg->send();
+		exit();
+	}
+}
+
+
+
+
+sub clean {
+	my($line)=@_;
+	my ($tmp,$name);
+	($tmp,$name)=split(/:/,$line);
+	$name =~ s/\n//gmi;
+	$name =~ s/^ *//gmi;
+	return($name);
+}			
+

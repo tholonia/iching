@@ -1,0 +1,16 @@
+{
+  "name": "iching",
+  "config": {
+    "process-timeout": 0,
+    "vendor-dir": "./vendor",
+    "platform": {
+      "php": "5.5.9"
+    }
+  },
+  "require": {
+    "php": ">=5.5.9",
+    "paquettg/php-html-parser": "~1.7.0",
+    "components/jquery": "3.2.*",
+    "twitter/bootstrap": "dev-master"
+  }
+}

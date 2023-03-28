@@ -1,0 +1,9 @@
+#!/bin/sh
+
+
+# ./THROW "why" T		./THROW  $1=why $2=T
+# ./throw.p T "why"		./throw.pl $1=T $2=why
+ 
+nohup ./throw.pl "$2" "$1" 
+mv nohup.out last
+cp last "q/$1"

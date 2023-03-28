@@ -1,0 +1,18 @@
+#!/bin/sh
+rm -rf bin >>/dev/null 2>&1
+mkdir bin
+mysql -uroot -p1q2w3e iching -e "select LPAD(pseq,2,0),LPAD(bseq,2,0) from hexagrams"> _tmp
+cat _tmp |grep -v LPAD|awk '{print "ln -fs `pwd`/hexagram"$1".png `pwd`/bin/hexagram"$2".png"}'>_tmp2
+cat _tmp2|sh
+rm _tmp*
+
+
+cd small
+
+rm -rf bin >>/dev/null 2>&1
+mkdir bin
+mysql -uroot -p1q2w3e iching -e "select LPAD(pseq,2,0),LPAD(bseq,2,0) from hexagrams"> _tmp
+cat _tmp |grep -v LPAD|awk '{print "ln -fs `pwd`/hexagram"$1".png `pwd`/bin/hexagram"$2".png"}'>_tmp2
+cat _tmp2|sh
+rm _tmp*
+

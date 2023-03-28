@@ -1,0 +1,18 @@
+  {
+    
+    "plugins": ["collapsible-menu"],
+     "styles": {
+        "website": "styles/website.css"
+    },
+    "pluginsConfig": {
+      "fontSettings": {
+        "theme": "sepia",
+        "family": "serif"
+      }
+    },
+    "sharing": {
+            "google": "http://google.com",
+            "facebook": "http://facebook.com",
+            "twitter": "http://twitter.com"
+        }
+  }

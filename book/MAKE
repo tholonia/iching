@@ -1,0 +1,64 @@
+# make the files
+#------------------------
+cd book
+cd ichingbook
+
+find -name "*html" -exec rm {} \;
+rm  hexagrams/*
+cd -
+php ./makemds.php
+
+# get and remote updaes
+#------------------------
+cd ichingbook
+git pull
+#rm -rf The\ Hexagrams
+rm -rf _book
+
+#add the subdir we just made
+#------------------------
+git add hexagrams
+
+
+#npm i gitbook-plugin-collapsible-menu
+
+#rebuild and add web dir
+#------------------------
+gitbook build
+ln -fs  /home/jw/sites/babelbrowser/images /home/jw/sites/babelbrowser/book/ichingbook/_book/Images
+
+git add _book
+
+#see what changed
+#------------------------
+git status
+
+#add them
+#------------------------
+git add .
+
+
+
+# go to subdir
+#cd hexagrams
+
+#wipe out webdir
+#rm -rf _book
+
+#rebuodl and add webdir
+#gitbook build
+#git add _book
+
+#add again
+#git add .
+
+#see what changed
+#git status
+
+#commit
+git commit -a -m "rebuild"
+git push
+
+#./UP
+
+cd ..
